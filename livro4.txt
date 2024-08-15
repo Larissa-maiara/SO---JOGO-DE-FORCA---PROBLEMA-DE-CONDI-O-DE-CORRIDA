@@ -1,0 +1,2253 @@
+Colocando em prática a gestão do conhecimento: conceito de
+conhecimento, ferramentas de apoio a gestão e a atitude
+baseada no conhecimento
+Rafael Maciel Horta
+Belo Horizonte, 2005
+(Edição do autor)
+
+
+
+
+Licença:
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-
+Comercial-Compartilhamento pela mesma licença 2.5 Brazil. Para ver uma cópia desta
+licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta
+para Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                RAFAEL MACIEL HORTA
+
+
+
+
+    COLOCANDO EM PRÁTICA A GESTÃO DO CONHECIMENTO:
+
+         Conceito de conhecimento, ferramentas de apoio a gestão e a atitude baseada no
+
+                                                            conhecimento.
+
+
+
+
+                                                       BELO HORIZONTE
+
+                                                                    2005
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                RAFAEL MACIEL HORTA
+
+
+
+
+     COLOCANDO EM PRÁTICA A GESTÃO DO CONHECIMENTO:
+
+          Conceito de conhecimento, ferramentas de apoio a gestão e a atitude baseada no
+
+                                                            conhecimento.
+
+
+
+
+                                                                       Monografia de conclusão de curso apresentada
+                                                                       à disciplina Trabalho de Conclusão de Curso
+                                                                       da Universidade FUMEC como requisito
+                                                                       parcial para a obtenção do título de Bacharel
+                                                                       em Ciência da Computação.
+
+                                                                       Orientadores:
+
+                                                                       Professor Roberlei Panasiewicz e professor
+                                                                       George Leal Jamil.
+
+
+
+
+                                                       BELO HORIZONTE
+
+  Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença 2.5
+Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative Commons,
+                                            559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                    2005
+                                                RAFAEL MACIEL HORTA
+
+
+
+
+    COLOCANDO EM PRÁTICA A GESTÃO DO CONHECIMENTO:
+
+         Conceito de conhecimento, ferramentas de apoio a gestão e a atitude baseada no
+
+                                                            conhecimento.
+
+
+
+
+                                                                       Monografia de conclusão de curso apresentada
+                                                                       à disciplina Trabalho de Conclusão de Curso
+                                                                       da Universidade FUMEC como requisito
+                                                                       parcial para a obtenção do título de Bacharel
+                                                                       em Ciência da Computação e aprovada pela
+                                                                       seguinte banca examinadora:
+
+
+
+                                _________________________________________
+                                 Professor Roberlei Panasiewicz (Professor TCC)
+                                                      Universidade FUMEC
+
+
+                                      __________________________________
+                                       Professor George Leal Jamil (Orientador)
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                      Universidade FUMEC
+                                          Belo Horizonte, 10 de Junho de 2005
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                       Dedico esta monografia a meus pais pelo
+                                                                       apoio irrestrito que sempre me deram em
+                                                                       qualquer momento e sempre foram bases
+                                                                       para minha formação.
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                    AGRADECIMENTOS
+
+
+Aos orientadores, professores Roberlei Panasiewicz e Gerge Leal Jamil, pelas
+
+orientações e contribuições. Este, sem dúvida, um grande responsável pela minha
+
+formação acadêmica, paraninfo e considerado, por mim um dos melhores
+
+professores dessa instituição de ensino.
+
+Aos amigos e familiares pelo apoio e incentivo.
+
+À empresa que trabalho que sempre me apoiou para desenvolver esse trabalho.
+
+A todos que, direta ou indiretamente, contribuíram para a realização deste trabalho.
+
+Ao CEFET-MG pela formação profissional e cidadã.
+
+Ao professor Rodrigo Baroni que, na Fetage de 2001, proferiu uma palestra sobre o
+
+assunto dessa monografia que despertou meu interesse pelo tema.
+
+À Universidade FUMEC que disponibilizou todos recursos para esse trabalho: livros,
+
+computadores e salas de aula. E, além disso, se torna um centro de excelência no
+
+assunto com professores de alto gabarito, estudiosos e especialistas sobre o tema
+
+em discussão que, além dos quais já destaquei, destaco ainda os professores:
+
+Roberto Luis Gattoni, Luiz Eduardo de Mello Gomes e Fabiana Bigão.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                            “Quanto mais sei, mais sei que nada sei”
+                                                                                        (SÓCRATES)
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                               RESUMO
+
+
+
+A Gestão do Conhecimento trabalha com fatores complexos nas instituições, pois
+
+envolve diretamente todos que contribuem, de uma forma ou de outra, para a
+
+existência e funcionamento da instituição. A forma de aplicar esse gerenciamento é
+
+bastante discutida, pois ela leva em consideração particularidades de cada
+
+instituição sendo ela uma empresa, comércio ou qualquer outro tipo de negócio.
+
+Trabalhar o conhecimento existente na empresa é trabalhar, também, o
+
+conhecimento das pessoas e aplicar bem todo esse conhecimento é a chave da
+
+questão.
+
+
+
+
+PALAVRAS CHAVES: Gestão do Conhecimento, capital intelectual, dado, informação,
+conhecimento, Ferramentas Baseadas na Intranet; Gerenciamento Eletrônico de Documentos
+(GED);·Groupware; Workflow; Sistemas para Construção de Bases Inteligentes do
+Conhecimento; Business Inteligence (BI); Mapas de Conhecimento; Ferramentas de Apoio à
+Inovação.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                     LISTA DE FIGURAS
+
+
+Figura 1.0: Ferramentas de gestão do conhecimento ........................................................16
+
+
+
+
+  Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença 2.5
+Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative Commons,
+                                            559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                              3
+
+
+
+                                                               SUMÁRIO
+
+
+
+INTRODUÇÃO ............................................................................................................4
+CAPÍTULO I ................................................................................................................8
+1. O CONHECIMENTO ...............................................................................................8
+   1.1 Ativos intangíveis .............................................................................................................8
+   1.2 Dado, Informação e Conhecimento ................................................................................11
+   1.3 Gestão do Conhecimento................................................................................................12
+   1.4 Tecnologia x Gestão do Conhecimento..........................................................................13
+CAPÍTULO 2 .............................................................................................................16
+2. FERRAMENTAS DE GESTÃO DO CONHECIMENTO ........................................16
+   2.1Ferramentas para Gestão do Conhecimento ....................................................................16
+   2.2 Ferramentas Baseadas na Intranet ..................................................................................17
+   2.3 Gerenciamento Eletrônico de Documentos (GED) ........................................................20
+   2.4 Groupware ......................................................................................................................23
+   2.5 Workflow........................................................................................................................26
+   2.6 Sistemas para Construção de Bases Inteligentes ............................................................28
+   2.7 Business Inteligence (BI) ...............................................................................................30
+   2.8 Mapas de Conhecimento ................................................................................................31
+   2.9 Ferramentas de Apoio à Inovação ..................................................................................32
+CAPÍTULO III ............................................................................................................34
+3. APLICANDO A GESTÃO DO CONHECIMENTO...............................................34
+   3.1Atitude Baseada no Conhecimento .................................................................................34
+   3.2 O papel da empresa ........................................................................................................36
+CONCLUSÃO ...........................................................................................................40
+REFERÊNCIA BIBLIOGRÁFICA..............................................................................42
+
+
+
+
+ Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+ 2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                   Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                               4
+
+
+
+                                                          INTRODUÇÃO
+
+
+
+
+         A discussão em torno da gestão do conhecimento passou a ser algo repetitivo
+
+e muito abordado nos últimos tempos. Muitos livros, artigos e fóruns discutem
+
+vantagens sobre gerenciar esse “bem” tão precioso. As empresas sabem da
+
+necessidade de alocar recursos com a finalidade de alavancar essa forma de
+
+gestão. Porém, na prática, muito ainda falta ser feito nessa área e as empresas
+
+começam a perder espaço no mercado para concorrentes que já se beneficiam por
+
+uma gestão bem feita do conhecimento.
+
+
+         Compreender                 o     papel         do      conhecimento                para        a     sobrevivência                 das
+
+organizações, tornou a Gestão do Conhecimento como uma disciplina essencial
+
+para transformar o conhecimento em vantagem competitiva. De acordo com
+
+DAVENPORT e PRUSAK (1998), conhecimento é a única fonte sustentável de
+
+vantagem competitiva.
+
+
+         Com a redução do tempo de vida dos produtos devido à inovação crescente,
+
+e com a globalização como um tremendo divulgador de informações, expandindo as
+
+fronteiras rapidamente, a gerência do conhecimento começa a passar a ser algo
+
+essencial em uma instituição e não apenas um simples diferencial.
+
+
+         A aplicação dessa gestão trabalha com fatores complexos nas instituições,
+
+pois envolve diretamente todos que contribuem, de uma forma ou de outra, para a
+
+existência e funcionamento da instituição. A forma de aplicar esse gerenciamento é
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             5
+
+
+
+bastante discutida, pois não existe uma receita de bolo para a aplicação desse tipo
+
+de gestão, pois ela leva em consideração particularidades de cada instituição sendo
+
+ela uma empresa, comércio ou qualquer outro tipo de negócio.
+
+
+         As empresas vivem preocupadas com a capacitação de talentos, investe
+
+milhares de reais todos os anos em aprendizagem, treina o pessoal, prepara os
+
+executivos, compram livros, participam de seminários e tantas outras iniciativas em
+
+torno do conhecimento. Isso tudo realmente tem feito parte do dia a dia corporativo,
+
+porém algo importante a se discutir, é a aplicação desse conhecimento, conforme
+
+prega FIGUEIREDO (2004) falta a “atitude baseada no conhecimento”.
+
+
+         Diante do exposto, o tema escolhido para o estudo monográfico é “Colocando
+
+em prática a Gestão do Conhecimento”, pois focará o estudo na aplicação de gestão
+
+do conhecimento utilizando a tecnologia disponível e mostrando as dificuldades e
+
+vantagens da aplicação dessa forma de gestão. Com isso este estudo monográfico
+
+terá 3 capítulos que seguem abaixo:
+
+          No Capítulo I - O Conhecimento, é destaque a mudança de valores ocorrida
+
+nas instituições, onde os bens intangíveis, como talento dos funcionários, patentes,
+
+relacionamento com clientes e fornecedores e conhecimento técnico passam a ter
+
+mais valor que os bens tangíveis.
+
+
+
+         Conceitos de dados, informação e conhecimento, abordando a relação entre
+
+eles e seus respectivos valores. Os diferentes tipos de conhecimento, ou seja, o
+
+tácito, explícito e cultural que, como eles, podem ser convertidos para se tornarem
+
+úteis dentro das organizações.
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             6
+
+
+
+         O que é a gestão do conhecimento, sua geração, seu compartilhamento, a
+
+sua utilização e os objetivos que pretende alcançar dentro das organizações.
+
+
+         Finalmente será mostrado o quanto é importante a relação entre a tecnologia
+
+da informação e a gestão do conhecimento para acelerar o processo de
+
+disseminação do conhecimento.
+
+
+         No Capítulo II - Ferramentas de gestão do conhecimento, vai-se mostrar
+
+várias ferramentas que são utilizadas na gestão do conhecimento, abordando suas
+
+características e como elas podem ajudar as organizações a gerenciar e disseminar
+
+o seu conhecimento.
+
+
+         Dentre          as      ferramentas              e     tecnologias             presentes            no      mercado,            será
+
+apresentado, conforme sugere CARVALHO (2000): “Ferramentas baseadas na
+
+intranet, Gerenciamento Eletrônico de Documentos (GED), Groupware, Workflow,
+
+Sistemas para Construção de Bases Inteligentes de Conhecimento, Business
+
+Inteligence (BI), Mapas de Conhecimento e Ferramentas de Apoio à Inovação.”
+
+
+         No Capítulo III – Aplicando a Gestão do Conhecimento, ver-se-á que o
+
+sucesso na aplicação do conhecimento só se consegue com atitude para aplicação
+
+desse conhecimento, o que adianta saber e não aplicar o que sabe? Ou saber e não
+
+compartilhar? Esse capítulo tem a finalidade de mostrar esse lado, onde se
+
+considera o mais complexo na aplicação do conhecimento, pois não depende de
+
+recursos, de ação da direção da instituição, e sim, de cada um envolvido no
+
+processo.          Será        detalhando             as      dificuldades            em        incentivar          a     aplicação          e
+
+compartilhamento do conhecimento.
+
+                                   É certo que a disposição para aprender se revela mais natural do que a
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             7
+
+
+                                   disposição para aplicar o conhecimento e neste contexto, esta disposição
+                                   natural para aprender também não basta. A disposição para aplicar o saber
+                                   é fundamental e questões como as posturas favoráveis e atitudes baseadas
+                                   no conhecimento devem ser trabalhadas com bastante responsabilidade
+                                   pelas empresas. (FIGUEIREDO, 2004)
+
+
+
+         Ainda nesse capítulo serão tratados alguns assuntos que servirão de alerta à
+
+empresa na aplicação da gestão do conhecimento.
+
+         A metodologia a ser utilizada nesta monografia será constituída pela Pesquisa
+
+Teórica que se constitui de um levantamento bibliográfico em livros, revistas, fóruns
+
+e sites da Internet sobre os assuntos relacionados à gestão do conhecimento.
+
+         Será realizada uma escolha bastante detalhada sobre a bibliografia básica a
+
+ser adotada como suporte conceitual e teórico ao estudo. A diversidade das obras
+
+será levada em consideração para analisar visões diferenciadas a cerca do assunto
+
+com um grau de conhecimento elevado.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             8
+
+
+
+
+CAPÍTULO I
+
+
+1. O CONHECIMENTO
+
+
+1.1 Ativos intangíveis
+
+
+
+
+         Pode-se dizer que, em uma empresa voltada para o conhecimento, os ativos
+
+intangíveis como os talentos dos funcionários, a eficácia dos sistemas gerenciais, o
+
+relacionamento com os clientes, ou seja, o Capital Intelectual contribuem muito mais
+
+para o valor do produto final (ou serviço) que os ativos fixos. O conhecimento
+
+assumiu um papel principal para os investidores, pois estes alocam seus capitais
+
+para as empresa; para os gerentes, pois estes alocam capitais dentro das empresas
+
+e para os funcionários, pois estes alocam suas vidas nas empresas. Daí a
+
+importância de se gerenciar o conhecimento.
+
+
+         A grande dificuldade vista pelos empresários é como gerenciar algo não
+
+palpável, não tangível como um edifício, automóvel, computadores, softwares,
+
+papéis e mais papéis (documentos). É uma mudança muito brusca na cultura
+
+quando temos que gerenciar algo de extrema importância, o que já está
+
+comprovado, porém algo que não sabemos onde está e principalmente sua
+
+dimensão.
+
+
+         Como mensurar esse ativo intangível? O conhecimento está presente em
+
+cada instituição, isso é fato inegável. Mas quanto de conhecimento essa instituição
+
+contém? Em cada cabeça, em cada computador, em cada documento... Mesmo se
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             9
+
+
+
+conseguir saber o conhecimento existente na empresa vai-se partir para algo mais
+
+complexo: como mensurar a capacidade de aplicar o conhecimento existente? Essa
+
+pode ser uma questão ainda mais difícil de ser medida. Pensa-se na seguinte
+
+situação com duas empresas do mesmo ramo: uma tem um conhecimento muito
+
+maior que a outra, porém o produto da primeira é inferior ao da segunda empresa.
+
+Será que isso é possível? Como? Talvez a resposta estaria na capacidade de
+
+aplicar o conhecimento.
+
+
+         As mudanças em investimentos também são difíceis de realizar quando se
+
+considera a “era do conhecimento”. Antes as empresas investiam em maquinário,
+
+sendo que uma máquina mais moderna ou uma quantidade maior de máquinas
+
+produzia mais e com mais qualidade, investia em contratação de mão de obra
+
+(quantidade), sendo que quanto mais mão de obra uma empresa possuía, maior era
+
+a produção, investia em infra-estrutura, ou seja, quanto melhor fosse a estrutura da
+
+empresa melhor era seu resultado. De forma alguma as empresas têm que parar de
+
+investir nesses quesitos, porém agora se tem um fator tão ou mais importante que
+
+os descritos: conhecimento.
+
+
+         Investir em treinamento, softwares de gestão e compartilhamento de
+
+conhecimento, mão de obra qualificada é o suficiente? Sem dúvida são
+
+investimentos essências para um bom desempenho da instituição nessa nova
+
+economia. Mas conforme defende FIGUEIREDO (2004) de que adianta investir na
+
+obtenção do saber e fechar os olhos para a importância da aplicação dos
+
+conhecimentos?
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             10
+
+
+
+         O conhecimento tornou-se a principal matéria prima e resultado da atividade
+
+econômica, ou seja, pessoas inteligentes trabalhando de formas inteligentes. As
+
+pessoas deixaram de ter um papel de coadjuvante para assumir o papel principal.
+
+
+         De acordo com STEWART (1998) e EDVISSON (1998), por exemplo, o
+
+capital intelectual é a matéria-prima responsável pelos resultados das empresas,
+
+sendo composta pela soma destes três pilares que são:
+
+
+         - o Capital Humano, que seria composto pelos aspectos ligados às pessoas
+
+da empresa e a capacidade delas para atender as expectativas dos clientes;
+
+
+         - o Capital Estrutural, que seria a parcela do capital intelectual que inclui os
+
+sistemas de informação, bancos de dados, intranets, procedimentos, processos,
+
+patentes, fórmulas, ferramentas, metodologias, segredos industriais, melhores
+
+práticas etc... Este capital seria composto pelos recursos que sustentam e dão
+
+suporte aos funcionários para realização do trabalho.
+
+
+         - o Capital do Cliente, que corresponde à competência da empresa em se
+
+relacionar com as pessoas com as quais faz negócios. O resultado do capital do
+
+cliente está intimamente relacionado aos índices de fidelização, retenção e
+
+satisfação do cliente, relacionamento com a cadeia de valor e penetração,
+
+amplitude, cobertura, conquista e manutenção de mercado.
+
+
+         Segundo Stewart (1998, p. 78) o conhecimento humano pode crescer
+
+“quando a empresa utiliza mais o que as pessoas sabem e quando um número
+
+maior de pessoas sabe mais coisas úteis para a organização”. As empresas
+
+precisam criar oportunidades e disseminar o conhecimento privado, já que o capital
+
+humano deve ser organizacional e não individual.
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             11
+
+
+
+1.2 Dado, Informação e Conhecimento
+
+
+
+
+         Para um melhor entendimento sobre a Gestão do conhecimento é necessário
+
+ter-se, bem definido, o conceito de dado, informação e conhecimento.
+
+
+         Jamil (2001, p.163) apresenta suas definições de dado, informação e
+
+conhecimento:
+
+                                   Dado: Representação convencionada de uma grandeza qualquer expressa
+                                   em unidades padronizadas, por ser obtido por observação, medidores ou
+                                   processo automático. Refere-se a algo que é preciso conforme o tido de
+                                   medição feita e correspondente diretamente ao processo que é coletado.
+                                   Informação: A informação pode ser composta a partir de um conjunto de
+                                   dados relevantes, em virtude de serem apresentados de forma que
+                                   possamos compará-los permitindo que análises sejam feitas. Esta
+                                   relevância é obtida primeiramente pela introdução de outros dados de
+                                   mesmo tipo, o que já insere uma comparação intrínseca, bem como o
+                                   fornecimento de outros detalhes como o ambiente a que se referem os
+                                   dados, como foram coletados e de que forma foram convertidos.
+                                   Conhecimento: Pode ser entendido como sendo o conjunto obtido pela
+                                   informação e o contexto associado, envolvendo a percepção do ambiente,
+                                   do sistema em que foi composta e coletada e como este sistema age,
+                                   “funciona”. Pode ter sido gerado através de percepções continuas que
+                                   geram inúmeras fontes de informações que, comparadas permitem que seja
+                                   deduzido todo cenário onde ocorreram e ocorrem os fenômenos, e
+                                   desenrolar de um processo uma evolução de uma situação.
+
+
+
+         Segundo Garber (1998, p. 78), dado é “o elemento básico a partir do qual
+
+percebemos e registramos uma realidade.”, informação define-se como “Todo dado
+
+coletado capaz de diminuir o nível de incerteza na tomada de decisão” e
+
+conhecimento é “o conjunto de informações sobre o mercado, colhidas ao longo de
+
+um período de tempo, que nos ajuda a minimizar os riscos de uma decisão errada.”
+
+
+         A conclusão que se chega, após ler as definições de vários autores, é que
+
+estes conceitos estão fortemente relacionados, mostrando uma evolução de dados
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             12
+
+
+
+que, após serem tratados, passam a ser considerados informações, esta última é
+
+utilizada para gerar conhecimento.
+
+
+1.3 Gestão do Conhecimento
+
+
+
+
+         Na década de 90 surge entre os pesquisadores da área de Ciência e
+
+Tecnologia e profissionais de P&D (Pesquisa e Desenvolvimento) das empresas, o
+
+termo Gestão de Conhecimento, para despontar como uns dos assuntos mais
+
+polêmicos e essenciais nas empresas. Afinal quem não se atentasse para esse
+
+assunto inevitavelmente ficaria “para trás”. Existe um grande número de conceitos
+
+sobre a Gestão do Conhecimento, porque se trata de um assunto recente.
+
+
+         Algumas definições do termo Gestão do Conhecimento:
+
+                                   Gestão do conhecimento é a identificação, otimização e gerenciamento
+                                   ativo do patrimônio intelectual, seja na forma de conhecimento explícito
+                                   mantido por artefatos como no conhecimento tácito possuído por indivíduos
+                                   ou comunidades. (GATTONI, 2004, p.47)
+
+                                   A Gestão do Conhecimento satisfaz os aspectos críticos da adaptação,
+                                   sobrevivência e competência organizacional face à crescente e descontinua
+                                   mudança ambiental. Essencialmente, a Gestão do Conhecimento engloba
+                                   processos organizacionais que buscam uma combinação sinérgica da
+                                   capacidade de processamento de dados e informações pela Tecnologia da
+                                   Informação com a capacidade criativa e inovadora dos seres humanos.
+                                   (BARONI, 2003, p.31)
+
+                                   Gestão do Conhecimento significa organizar as principais políticas,
+                                   processos e ferramentas gerenciais e tecnológicas à luz de uma melhor
+                                   compreensão dos processos de geração, identificação, validação,
+                                   disseminação, compartilhamento e uso dos conhecimentos estratégicos
+                                   para gerar resultados (econômicos) para a empresa e benefícios para os
+                                   colaboradores. Definindo gestão do conhecimento. (CYRINEU, 2004)
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             13
+
+
+
+         Os conceitos, expostos abaixo, de Cyrineu (2004) dizem respeito à vários
+
+elementos que devem ser levados em consideração referente a gestão do
+
+conhecimento:
+
+                                   A Gestão do Conhecimento não é um processo organizacional estanque.
+                                   Ela é influenciada por múltiplas decisões empresariais, principalmente
+                                   aquelas que afetam o compromisso, a motivação e a qualidade das pessoas
+                                   que trabalham na organização;
+                                   As ferramentas tecnológicas (TI em particular) são partes integrantes, mas
+                                   não determinam os esforços de Gestão do Conhecimento;
+                                   A Gestão do Conhecimento precisa ser incorporada no dia-a-dia das
+                                   organizações. Para isso, ela precisa ser traduzida em processos visíveis e
+                                   gerenciáveis;
+                                   Gestão do Conhecimento não significa gerenciar sistematicamente todos os
+                                   conhecimentos disponíveis, necessários ou desejados pela organização.
+                                   Isto é impossível. A Gestão do Conhecimento precisa estar focada nos
+                                   conhecimentos estratégicos;
+                                   Precisa haver uma ligação óbvia entre os esforços de Gestão do
+                                   Conhecimento e os objetivos empresariais;
+                                   Os colaboradores da empresa precisam sentir que a participação dos
+                                   mesmos nos processos e iniciativas de Gestão do Conhecimento também
+                                   lhes será benéfica;
+                                   Finalmente, é bom sempre ter em mente os agentes externos com os quais
+                                   as organizações precisam realizar “trocas” para se manterem competitivas.
+                                   Em particular, é sempre bom se perguntar como os esforços de Gestão do
+                                   Conhecimento estão beneficiando os clientes da empresa – a única fonte de
+                                   lucros.
+         Cada autor aborda de sua maneira a Gestão do Conhecimento, porém o
+
+consenso geral é que a Gestão do conhecimento é constituída por processos
+
+organizacionais.
+
+
+
+
+1.4 Tecnologia x Gestão do Conhecimento
+
+
+
+
+         Dentre as afirmações feitas pelos autores sobre o tema Gestão do
+
+Conhecimento, a de que é primordial o apoio da Tecnologia para se ter uma boa
+
+gestão desse bem, é algo unânime.
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             14
+
+
+
+         De acordo com Davenport e Prusak (1998), a Gestão do Conhecimento é o
+
+conjunto de atividades relacionadas com a geração, codificação e transferência do
+
+conhecimento. As ferramentas de Gestão do Conhecimento pretendem auxiliar o
+
+processo de coleta e estruturação do conhecimento de grupos de indivíduos,
+
+disponibilizando esse conhecimento em uma base compartilhada por toda a
+
+organização. Os softwares de Gestão do Conhecimento podem otimizar o fluxo de
+
+conhecimento nas comunidades de prática, transformando a tecnologia em um canal
+
+e o conhecimento em uma mensagem.
+
+
+         Segundo Stewart (1998), o capital intelectual tem três dimensões: humana,
+
+estrutural e de cliente. O capital estrutural é definido como a habilidade da empresa
+
+em armazenar e transferir conhecimento, incluindo a qualidade e a extensão dos
+
+sistemas de informações, bancos de dados, patentes, normas e documentos de
+
+negócios. O capital humano é composto pela capacidade, conhecimento, habilidade,
+
+criatividade e experiências individuais dos empregados e gerentes. O capital do
+
+cliente é o valor dos relacionamentos de uma empresa com as pessoas com as
+
+quais faz negócios. Dessa forma, os softwares de Gestão do Conhecimento são
+
+melhores posicionados na dimensão do capital estrutural.
+
+
+         Entretanto, Senge (1998) enfatiza que uma pessoa pode receber mais
+
+informações graças à tecnologia, mas isto não faz nenhuma diferença se a pessoa
+
+não possui as habilidades necessárias para aplicar essas informações de maneira
+
+útil. Esse artigo defende a posição de que a TI tem um papel de coadjuvante nas
+
+iniciativas de Gestão do Conhecimento. O papel principal é desempenhado pelas
+
+pessoas.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             15
+
+
+
+         O desafio da Gestão do Conhecimento consiste em aliar a criatividade
+
+humana com a velocidade proporcionada pelo TI.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             16
+
+
+
+
+CAPÍTULO 2
+
+
+
+2. FERRAMENTAS DE GESTÃO DO CONHECIMENTO
+
+
+2.1Ferramentas para Gestão do Conhecimento
+
+
+
+
+         Será descrita, nesse capítulo, uma divisão dos softwares de Gestão de
+
+Conhecimento segundo defende Carvalho (2000). Ele analisou o mercado,
+
+estudando as necessidades do mesmo, estudou os sítios das empresas que
+
+fornecem ferramentas de Gestão do Conhecimento, ainda estudou bibliotecas
+
+digitais e a relação de anunciantes em revistas especializadas. Com isso, criou uma
+
+relação de vinte e sete empresas fornecedoras de software de Gestão do
+
+Conhecimento.
+
+
+         Com a avaliação de todos os softwares, Carvalho dividiu as ferramentas em
+
+oito categorias através das semelhanças entre eles e suas funcionalidades, sendo
+
+elas:
+
+
+               •     Ferramentas Baseadas na Intranet;
+
+
+               •     Gerenciamento Eletrônico de Documentos (GED);
+
+
+               •     Groupware;
+
+
+               •     Workflow;
+
+
+               •     Sistemas para Construção de Bases Inteligentes do Conhecimento;
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             17
+
+
+
+               •     Business Inteligence (BI);
+
+
+               •     Mapas de Conhecimento;
+
+
+               •     Ferramentas de Apoio à Inovação.
+
+
+         A tabela abaixo nos mostra essa divisão inserida no quadro de conversão do
+
+conhecimento definido por NONAKA e TAKEUCHI (1997):
+
+
+
+
+                                Figura 1.0: Ferramentas de gestão do conhecimento
+
+
+
+
+2.2 Ferramentas Baseadas na Intranet
+
+
+
+
+         A intranet é o ambiente de trabalho ideal para o compartilhamento de
+
+informações dinâmicas e interligadas. Davenport e Prusak (1998) consideram as
+
+tecnologias baseadas na Web muito intuitivas, pois lidam facilmente com
+
+representações do conhecimento. De acordo com os autores, o conhecimento de
+
+uma área costuma estar relacionado com o conhecimento de outra área e a
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                              18
+
+
+
+estrutura hipertexto das tecnologias baseadas na Web facilita a movimentação de
+
+um conhecimento para outro.
+
+
+          Os sistemas baseados na intranet privilegiam a informação interna à
+
+organização. Dessa forma, a intranet está se tornando um importante veículo de
+
+informação interna entre a empresa e o funcionário.
+
+
+          Tradicionalmente, essa comunicação é passiva (estilo “pull”, puxe em inglês),
+
+no sentido de que a informação está disponível na intranet e o usuário deve ir buscá-
+
+la.
+
+
+          Nonaka e Takeuchi (1997) definem combinação como o processo de conectar
+
+diferentes áreas de conhecimento explícito. A estrutura de hipertexto da intranet
+
+auxilia esse processo, pois a navegação através dos “links” pode criar uma nova
+
+organização dos conceitos. A intranet é uma ferramenta adequada para sistematizar
+
+o conhecimento explícito que se encontra disperso entre os departamentos da
+
+empresa. Além disso, a intranet tem o potencial de se transformar em um patrimônio
+
+organizacional que integra o capital estrutural conforme conceito apresentado em
+
+Stewart (1998). Portanto, a intranet seria um mecanismo para transformar parte do
+
+capital humano coletivo em capital estrutural.
+
+
+          A intranet se beneficia das tecnologias que são desenvolvidas na Internet.
+
+Entretanto, as empresas não devem alimentar a ilusão de que a implantação da
+
+intranet não implicará em custos. Apesar de usar tecnologia barata, a intranet tem
+
+custos escondidos. Benett (1997) destaca que o custo de criação do conteúdo de
+
+uma intranet abrange a conversão de boa parte dos documentos existentes para o
+
+formato HTML, a coordenação de vários provedores de conteúdo, através de
+
+
+ Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+ 2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                   Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             19
+
+
+
+treinamento e padrões, e a indexação periódica do material para a utilização de
+
+recursos de pesquisa.
+
+
+         O termo “portal” tem sido utilizado para designar um novo enfoque sobre os
+
+sistemas baseados na intranet e Internet. O DELPHI GROUP (1999) caracteriza o
+
+desenvolvimento dos portais em três estágios:
+
+
+               •     Máquinas de Busca: baseadas em lógica booleana aplicada a
+
+                     documentos HTML, têm como propósito ajudar na busca de conteúdo
+
+                     na vastidão da Web. São baseadas na pesquisa em texto livre.
+
+                     Assume-se que o usuário irá navegar pelos “links” retornados pela
+
+                     máquina de busca para encontrar o que precisa.
+
+
+               •     Sites de Navegação: em relação ao estágio anterior, adicionam a
+
+                     função de categorização, filtrando sites mais populares e documentos
+
+                     em grupos pré-configurados pelo significado do conteúdo (esportes,
+
+                     finanças, turismo, notícias e outros). O objetivo é reduzir o tempo
+
+                     médio de busca.
+
+
+               •     Portais: os sites não só oferecem a funcionalidade de busca e uma
+
+                     biblioteca           de        conteúdo            classificado,             mas          também             agregam
+
+                     características como comunidades de interesse, grupos de discussão
+
+                     em tempo real, personalização do conteúdo de acordo com a
+
+                     especificação do usuário (ex: myExcite, myCNN) e acesso direto a
+
+                     funções especializadas (leilões, compras e outros).
+
+
+         A grande promessa da tecnologia do portal consiste na capacidade de
+
+integrar fontes heterogêneas de conhecimento, construindo um ambiente com um
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             20
+
+
+
+grau de relevância informacional não encontrado nem mesmo na ampla e dispersa
+
+Internet. Microsoft Digital Dashboard e Lotus k-station são exemplos de ferramentas
+
+para a construção de portais.
+
+
+
+
+2.3 Gerenciamento Eletrônico de Documentos (GED)
+
+
+
+
+         Os sistemas de GED são repositórios de importantes documentos
+
+corporativos e atuam como armazéns do conhecimento explícito. Davenport e
+
+Prusak (1998) caracterizam os sistemas de GED como repositórios de conhecimento
+
+explícito estruturado. Em muitas empresas, o gerenciamento de documento pode ser
+
+um passo inicial para uma iniciativa de Gestão do Conhecimento.
+
+
+         Sistemas GED contribuem para a organização da enorme quantidade de
+
+documentos gerados por atividades de escritórios. A manipulação de documentos
+
+faz parte da realidade empresarial e cada documento é uma fonte não estruturada
+
+de informação que pode ser perdida quando não é bem organizada. De acordo com
+
+Bennet (1997), sistemas GED permitem uma recuperação mais eficiente, melhor
+
+segurança e controle de versão dos documentos. Muitas das características dos
+
+sistemas GED, como catalogação e indexação, foram herdadas dos tradicionais
+
+sistemas de recuperação da informação que são amplamente estudados no campo
+
+da Ciência da Informação.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                              21
+
+
+
+          Quando as pessoas encontram rapidamente e facilmente os documentos de
+
+que precisam, elas são capazes de investir seu tempo em trabalho efetivo, ao invés
+
+de perder tempo tentando localizar os documentos necessários. Da mesma forma,
+
+quando as pessoas confiam na exatidão e atualidade das fontes de informação
+
+disponíveis, a tomada de decisão pode ser feita com maior segurança, evitando a
+
+verificação cruzada com outras fontes e a conferência de informações. Para se ter
+
+uma idéia de como um GED eficiente pode poupar o tempo dos trabalhadores do
+
+conhecimento, a FILE NET (2000) estima que um profissional de escritório gasta de
+
+10% a 40% de seu tempo diário procurando ou esperando informações.
+
+
+          Sistemas GED lidam apenas com o conhecimento explícito. Nonaka e
+
+Takeuchi (1997) definem combinação como o processo de sistematização de
+
+conceitos em um sistema de conhecimento.
+
+
+          Essa reorganização de conceitos pode produzir novos conhecimentos. Para
+
+Nonaka e Takeuchi (1997), documentos são maneiras eficientes de realizar o
+
+intercâmbio de conhecimento entre indivíduos.
+
+
+          Relacionar conhecimento explícito é exatamente o que um sistema GED faz.
+
+Portanto, essa categoria de software oferece amplo suporte ao processo de
+
+combinação de conhecimento, isto é, conversão de conhecimento explícito para
+
+explícito.
+
+
+          Gerenciamento de Conteúdo é um outro nome para os sistemas GED. O
+
+Gerenciamento de Conteúdo enfatiza a administração do conteúdo independente da
+
+mídia na qual o documento está disponível, como fax, correio eletrônico, formulários
+
+HTML, relatórios de computador, papel, vídeo, áudio ou planilhas.
+
+
+ Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+ 2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                   Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             22
+
+
+
+         O gerenciamento de documentos mal implementado ocasiona a perda de
+
+documentos, o encaminhamento de documentos para direções erradas e a falta de
+
+atualização de documentos. Isso pode resultar em gasto de dinheiro, decisões
+
+incorretas, multas no caso de documentos legais, conflitos internos e perda de
+
+oportunidades de negócios. Um eficiente gerenciamento de documentos pode gerar
+
+redução de custos para a empresa, além de diminuir o tempo de busca dos
+
+documentos por parte dos profissionais que lidam diariamente com informação. A
+
+FILE NET (2000) estima o custo ou valor de um documento a partir de três fatores:
+
+
+               •     Quantidade de tempo e esforço gasto no desenvolvimento do conteúdo
+
+                     do documento;
+
+
+               •     Quantidade de vezes que o documento é acessado ou usado com
+
+                     parte de um processo de negócios;
+
+
+               •     Documentos                 que         são         acessados               freqüentemente                  requerem
+
+                     arquivamentos e atualizações constantes;
+
+
+               •     Importância da informação que o documento contém.
+
+
+         O Excalibur RetrievalWare e o File Net são exemplos de sistemas GED.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             23
+
+
+
+
+2.4 Groupware
+
+
+
+
+         A competitividade do mercado tem feito com que as empresas busquem
+
+formas mais flexíveis de organizar suas atividades. As atividades diárias nas
+
+empresas se tornam cada vez mais interdependentes, exigindo ambientes para o
+
+desenvolvimento do trabalho em equipe. Ao invés de organizações formais com
+
+hierarquias fixas, muitas empresas estão descobrindo a produtividade oferecida por
+
+grupos de trabalho geograficamente dispersos que cooperam na resolução de
+
+problemas.
+
+
+         Segundo Bock e Marca (1995), groupware consiste no software projetado
+
+para auxiliar grupos de pessoas, geralmente distantes fisicamente, mas que
+
+trabalham em conjunto. O groupware se propõe a aumentar a cooperação e a
+
+comunicação interpessoal. Ao contrário do foco estritamente técnico de outras
+
+tecnologias de computação, o groupware apresenta fortes dimensões sociais e
+
+organizacionais.
+
+
+         A relevância e a complexidade das questões que envolvem o groupware fez
+
+com que surgisse dentro da área da Ciência da Computação uma linha de pesquisa
+
+denominada “Trabalho Cooperativo Suportado por Computador”, mais conhecida
+
+pela sigla CSCW (Computer Supported Cooperative Work).
+
+
+         Um sistema de groupware proporciona a plataforma ideal para a criação de
+
+aplicações de colaboração. Uma aplicação de colaboração é uma aplicação que
+
+facilita o compartilhamento de informações e o trabalho conjunto em projetos. Por
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             24
+
+
+
+sua característica de tornar o trabalho em grupo e a comunicação entre usuários
+
+mais efetiva, estas aplicações devem ser executadas sobre uma rede de
+
+computadores para aproveitar a infra-estrutura existente de troca de mensagens.
+
+Entre as aplicações de colaboração mais comuns, destacam-se os correios
+
+eletrônicos, grupos de discussão, correio de voz, vídeoconferência, centrais de
+
+suporte e atendimento a clientes. A MICROSOFT (2000) define uma aplicação de
+
+colaboração como sendo um software que permite compartilhar conhecimento tácito
+
+através do tempo e espaço.
+
+
+         Benett (1997) relaciona as semelhanças e as diferenças entre as tecnologias
+
+da intranet e do groupware. Segundo o autor, ambos dependem da infra-estrutura de
+
+envio e recebimento de mensagens e se dedicam a fóruns de debate específicos.
+
+No entanto, o groupware utiliza o modelo push (empurrar) de distribuição de
+
+informações em que os dados e os documentos são distribuídos a partir de um
+
+repositório central para todos os usuários do sistema, independentemente do grau
+
+de interesse de cada um em relação ao material recebido. Já a intranet faz uso do
+
+modelo pull (puxar) de distribuição de informação, onde apenas os usuários
+
+interessados em determinado conjunto de dados o localiza e exibe. De acordo com
+
+Benett (1997), uma outra diferença consiste no fato de que os produtos de
+
+groupware são desenvolvidos com base em componentes proprietários e
+
+patenteados de bancos de dados e envio e recebimento de mensagens, ao passo
+
+que as intranets se baseiam em tecnologias de domínio público. Por outro lado, o
+
+autor reconhece que os produtos de groupware tendem a possuir mais segurança
+
+interna dos que os aplicativos baseados na intranet. O autor conclui que o
+
+groupware leva vantagem no que se refere à segurança da rede e à administração
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             25
+
+
+
+de dados distribuídos. Por sua vez, as intranets apresentam menor custo,
+
+flexibilidade de uso e padrões abertos.
+
+
+         Benett (1997) acredita que a concorrência entre os produtos de groupware e
+
+intranet está forçando fornecedores de cada uma dessas categorias a considerar as
+
+vantagens da outra e a incorporar recursos mediante a solicitação de clientes. O
+
+autor defende o ponto de vista de que a diferença entre as duas tecnologias está se
+
+estreitando. O Microsoft Exchange e o Lotus Notes pertencem a categoria de
+
+ferramentas de groupware.
+
+
+         De acordo com Nonaka e Takeuchi (1997), a externalização é provocada pelo
+
+diálogo ou pela reflexão coletiva. Groupware oferece suporte e amplia esse
+
+processo ao permitir a colaboração de pessoas que não necessariamente trabalham
+
+no mesmo local. Os grupos de discussão e os chats são aplicações comuns de
+
+groupware que permitem a articulação do conhecimento tácito através da escrita. À
+
+medida que a tecnologia evolui e oferece suporte à interação via vídeo, a dimensão
+
+tácita se torna cada vez mais presente. A utopia do groupware consiste em oferecer
+
+uma interação de qualidade semelhante a uma conversa face-a-face. No entanto, a
+
+escrita ainda é a forma predominante de comunicação no groupware, sendo assim a
+
+externalização o processo dominante de conversão do conhecimento nesta
+
+categoria.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             26
+
+
+
+
+2.5 Workflow
+
+
+
+
+         Organizações possuem um grande número de processos formalizados que
+
+regulam o fluxo da informação. Os profissionais precisam se comunicar e
+
+compartilhar informações para desempenhar atividades de negócio. Bock e Marca
+
+(1995) afirmam que os processos organizacionais dependem do fluxo de
+
+informações de negócios, sendo que esse fluxo passa de pessoa para pessoa, de
+
+lugar para lugar e de tarefa para tarefa.
+
+
+         O workflow é um sistema informatizado que oferece suporte para processos
+
+padronizados de negócio. Os sistemas de workflow permitem que os usuários
+
+codifiquem os processos de transferência do conhecimento quando se requer um
+
+método mais rígido de transferência. O workflow se aplica a processos desse tipo
+
+que exigem a preparação de informações estruturadas e ordenadas. Em um
+
+processo organizacional, cada usuário desempenha um papel diferente e todos
+
+usuários precisam compartilhar informações e coordenar o desenvolvimento da
+
+atividade. O objetivo do workflow é determinar o fluxo do processo, mostrando as
+
+etapas corretas para concretização do mesmo e acompanhando constantemente
+
+todas as atividades que compõem o processo.
+
+
+         Workflow explicita o conhecimento que está embutido no processo. A principal
+
+diferença entre o groupware e o workflow é que o groupware sugere um estilo
+
+informal de comunicação ao passo que o workflow propõe uma codificação formal.
+
+Aris Toolset da IDS Scheer é um exemplo de um sistema de workflow.
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             27
+
+
+
+         De acordo com Cruz (1998), os três elementos primários de um ambiente de
+
+workflow constituem o modelo dos três Rs e são os seguintes:
+
+
+               •     Roles (Papéis): conjuntos de características e habilidades necessárias
+
+                     para executar determinada tarefa ou tarefas pertencentes a uma
+
+                     atividade;
+
+
+               •     Rules (Regras): são atributos que definem de que forma os dados que
+
+                     trafegam no fluxo de trabalho devem ser processados, roteados e
+
+                     controlados pelo sistema de workflow;
+
+
+               •     Routes          (Rotas):          caminhos             lógicos         que,        definidos           sob       regras
+
+                     específicas, tem a função de transferir a informação dentro do
+
+                     processo, ligando as atividades associadas ao fluxo de trabalho.
+
+
+         A implantação de um workflow geralmente automatiza partes de um processo
+
+manual. Por exemplo, o processo de concessão de crédito em banco pode ser feito
+
+exclusivamente pelo gerente de uma maneira tácita. Com o workflow, a melhor
+
+maneira de realizar esse processo pode ser amplamente discutida entre os outros
+
+funcionários e partes significativas desse processo podem ser formatadas. Assim
+
+sendo, o workflow contribui para o processo de externalização descrito por Nonaka e
+
+Takeuchi (1997).
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             28
+
+
+
+
+2.6 Sistemas para Construção de Bases Inteligentes
+
+
+
+
+         Na área da Ciência da Computação, as pesquisas iniciais relacionando
+
+informação e conhecimento ocorreram na área de Inteligência Artificial e Sistemas
+
+Especialistas. Na década de 80, o tema Inteligência Artificial (IA) se tornou modismo,
+
+mas, no entanto, várias pesquisas fracassaram por apresentarem objetivos por
+
+demais arrojados e além da realidade científica. A partir dos anos 90, as pesquisas
+
+na área foram retomadas com um nível maior de pragmatismo. No entanto, convém
+
+destacar que vários produtos secundários das pesquisas em Inteligência Artificial
+
+foram importantes para o desenvolvimento da Ciência da Computação.
+
+
+         Sistemas especialistas, sistemas baseados em casos (CBR - Case Based
+
+Reasoning) e redes neurais são tipos de ferramentas que utilizam técnicas de IA.
+
+Segundo Galliers e Baets (1998), os “expert systems” ou sistemas de base de
+
+conhecimento são usados para capturar uma parcela do conhecimento de
+
+trabalhadores com destaque de produtividade. Esse conhecimento seria formatado
+
+de forma a poder ser compartilhado entre os outros funcionários da empresa.
+
+
+         Um sistema especialista é composto por uma base de conhecimento
+
+contendo um domínio de conhecimento restrito, por um mecanismo de inferência
+
+para manipular a base de conhecimento e por uma interface que possibilita tanto a
+
+entrada de novos dados quanto o diálogo com o operador. Um sistema especialista
+
+é construído pela observação de um especialista realizando uma tarefa e pelo
+
+mapeamento do conhecimento embutido nessa tarefa em formalismos como regras
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             29
+
+
+
+de derivação. Isto é claramente um processo de conversão de conhecimento tácito
+
+para explícito, ou seja, uma externalização.
+
+
+         De acordo com Davenport e Prusak (1998), os sistemas CBR envolvem a
+
+extração do conhecimento de uma série de narrativas ou casos sobre a área do
+
+problema, tentando combinar o poder da narrativa com a codificação do
+
+conhecimento. Segundo os autores, os sistemas CBR vêm obtendo sucesso
+
+comercial na resolução de problemas de atendimento a clientes. Os sistemas CBR
+
+permitem que o usuário que vivenciou uma experiência possa explicitá-la em um
+
+banco de casos acessível para outras pessoas. Dessa forma, percebe-se que a
+
+externalização é o processo dominante de conversão do conhecimento entre os
+
+sistemas para construção de bases inteligentes de conhecimento.
+
+
+         Já as redes neurais são sistemas mais sofisticados que usam instrumentos
+
+estatísticos para processar exemplos de causa-efeito e aprender os relacionamentos
+
+envolvidos na solução. Redes neurais são sistemas bastante flexíveis, pois cada
+
+nova entrada implica em uma reprogramação automática do sistema e no
+
+aprendizado de novas lições sobre o ambiente. Computer Associates Neugents
+
+(neural agents) é um exemplo de uma rede neural.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             30
+
+
+
+
+2.7 Business Inteligence (BI)
+
+
+
+
+         BI é um conjunto de ferramentas utilizado para manipular uma massa de
+
+dados operacional em busca de informações essenciais para o negócio. BI envolve
+
+duas partes:
+
+
+               •     Sistemas de Front-End: SAD (sistemas de apoio à decisão), EIS
+
+                     (Executive Information Systems) e ferramentas de consulta analítica
+
+                     OLAP (On-Line Analytical Processing);
+
+
+               •     Sistemas de Back-end: armazém de dados (data warehouse), data
+
+                     mart e ferramentas de garimpo de dados (data mining).
+
+
+         Sistemas Gerenciadores de Banco de Dados (SGBDs) constituem a base de
+
+uma solução de BI. Inicialmente, os dados operacionais gerados pelas transações
+
+de negócios são extraídos do SGBD, filtrados por algum critério e migrados para o
+
+data warehouse. Deve ser definida a freqüência e horários para atualização entre o
+
+ambiente operacional e o ambiente de BI. IBM (2000) sugere que esses ambientes
+
+devem ser separados por questões de segurança e desempenho.
+
+
+         Após o passo de carga do back-end, as ferramentas de front-end entram em
+
+ação para identificar padrões ocultos nos dados. O usuário também pode construir
+
+suas próprias consultas e relatórios estratégicos. O foco de um sistema de BI é o
+
+processo de tomada de decisão. Alguns sistemas de BI se especializam em
+
+informações sobre clientes, aproximando dos sistemas de CRM (Customer
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             31
+
+
+
+Relationship Management). Nesse ponto, percebe-se uma integração entre Gestão
+
+do Conhecimento e a abordagem de capital de cliente proposta por STEWART
+
+(1998). O Business Objects é um exemplo de uma solução de BI.
+
+
+         Segundo Nonaka e Takeuchi (1997), o uso criativo de redes de comunicação
+
+e bancos de dados facilita o processo de combinação. Sistemas de BI apresentam
+
+recursos para ordenar, categorizar e estruturar informação. A principal diferença
+
+entre o BI e o GED é que o BI se baseia em registros bem formatados de bancos de
+
+dados, enquanto que o GED lida com documentos em sua maioria não estruturados
+
+e nos mais diversos formatos.
+
+
+
+
+2.8 Mapas de Conhecimento
+
+
+
+
+         Nas várias categorias de ferramentas apresentadas anteriormente, o foco
+
+está na tentativa de estocar conhecimento. No entanto, dada a complexidade e o
+
+dinamismo do conhecimento, essa tarefa se torna árdua. Os mapas de
+
+conhecimentos surgem então como uma alternativa que permite colocar as pessoas
+
+em contato direto com especialistas, permitindo a troca de conhecimento tácito. Os
+
+mapas de conhecimentos funcionam como páginas amarelas que organizam uma
+
+lista de “quem sabe o quê”.
+
+
+         Um mapa do conhecimento geralmente recebe como entrada o currículo ou o
+
+perfil dos funcionários de uma organização. Através do localizador de especialistas,
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             32
+
+
+
+o usuário pode encontrar as pessoas mais indicadas para ajudá-lo a resolver algum
+
+problema. O software Sopheon apresenta a funcionalidade de mapa de
+
+conhecimento.
+
+
+         De acordo com Nonaka e Takeuchi (1997), a socialização é um processo de
+
+compartilhamento de experiências e de criação de habilidades e modelos mentais
+
+comunitários. Mapas do conhecimento não trocam conhecimento tácito de uma
+
+maneira direta, mas criam oportunidades para colocar especialistas em contato com
+
+aprendizes. Os contatos sugeridos pelo mapa de conhecimento podem resultar em
+
+interações face-a-face onde as pessoas envolvidas compartilham experiências e
+
+aprendem por observação, imitação e prática.
+
+
+
+
+2.9 Ferramentas de Apoio à Inovação
+
+
+
+
+         Amidon (2000) define inovação como a aplicação de novas idéias em
+
+produtos e serviços. Ferramentas de apoio à inovação são softwares que contribuem
+
+para a geração de conhecimento na fase de concepção de produtos, estimulando a
+
+produtividade das comunidades de prática. O objetivo dessas ferramentas é colocar
+
+as pessoas em contato com o conhecimento explícito armazenado em patentes,
+
+melhores práticas e modelos conceituais, estimulando a geração de idéias e
+
+insights.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             33
+
+
+
+         Ferramentas de apoio à inovação são mais utilizadas nos departamentos de
+
+Pesquisa e Desenvolvimento (P&D). O resultado da inovação pode ser medido pelo
+
+número de patentes, pelas modificações no design dos produtos existentes e pelo
+
+desenvolvimento de novos produtos. Tech Optimizer, um software comercializado
+
+pela firma Invention Machine, é um exemplo de uma ferramenta de apoio à
+
+inovação.
+
+
+         Segundo Nonaka e Takeuchi (1997), internalização é o processo de
+
+incorporação do conhecimento explícito no conhecimento tácito. O núcleo de um
+
+sistema de inovação consiste em uma base tecnológica onde patentes, artigos e
+
+pesquisas são armazenados. Assim sendo, o conhecimento explícito é o ponto de
+
+partida. Um profissional de P&D busca internalizar esse conhecimento e aplicá-lo em
+
+um novo contexto. Nonaka e Takeuchi (1997) relacionam a internalização com o
+
+conhecimento operacional sobre os processos de produção. As ferramentas de
+
+apoio à inovação facilitam também o processo “learn by doing”, pois fornecem
+
+facilidades de simulações gráficas.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             34
+
+
+
+
+CAPÍTULO III
+
+
+3. APLICANDO A GESTÃO DO CONHECIMENTO
+
+
+
+
+         Criar uma base sólida para a evolução do conhecimento é o primeiro passo
+
+dado pelas instituições, investimentos são feitos no aprendizado dos colaboradores
+
+com o intuito de que eles utilizem esse conhecimento em prol da instituição. Porém
+
+alguns fatores fazem que na outra ponta, ou seja, na hora de aplicar esse
+
+conhecimento, é obtido o fracasso da operação.
+
+
+
+
+3.1Atitude Baseada no Conhecimento
+
+
+
+
+         Segundo Figueiredo (2004), na teoria, todos funcionários recebem os
+
+mesmos treinamentos, são preparados para os mesmos desafios e todos têm a
+
+mesmas condições para prestar um serviço de boa qualidade. O que é constatado, é
+
+que a entrega de conhecimento e informação dos funcionários muitas vezes não são
+
+iguais. Essa diferença está atrelada a Atitude Baseada no Conhecimento, afinal não
+
+faltou o saber e sim a vontade de aplicá-lo.
+
+
+         A diferença enorme que existe entre os que sabem e os que não sabem, é
+
+visível dentro de cada instituição e sabemos isso com certa facilidade e um pouco de
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             35
+
+
+
+vivência conjunta. Porém, tem-se que destacar o abismo que existe entre os que
+
+sabem e não aplicam o conhecimento que possuem e aqueles que igualmente
+
+conhecem e aplicam o saber, revelando dessa forma a vontade e a motivação dos
+
+colaboradores também como ingredientes essenciais para o êxito de qualquer
+
+empreendimento.
+
+
+         Figueiredo (2004) defende, ainda, que é tido como certo que a disposição
+
+para aprender se revela mais natural do que a disposição para aplicar o
+
+conhecimento, e nesse contexto, esta disposição natural para aprender também não
+
+basta. A disposição para aplicar o saber é fundamental, e com isso, as empresas
+
+devem trabalhar com responsabilidade as posturas favoráveis e estimular a atitude
+
+baseada no conhecimento.
+
+
+         Mais do que natural é aprender mais do que se pode aplicar, é uma tendência
+
+de todo ser humano, porém, isso não pode ser uma desculpa para deixar de aplicar
+
+o saber em benefício dos clientes internos e externos de uma instituição. Como
+
+prevenção de uma possível insatisfação do cliente de que a entrega e aplicação do
+
+conhecimento não está sendo satisfatória, a empresa deve tentar resolver ou
+
+amenizar esta perigosa doença corporativa. É bom alertar que a falta de iniciativa
+
+das instituições em favor da aplicação do conhecimento, aniquila a empresa aos
+
+poucos, e dessa forma acaba com a gestão do conhecimento, e é tão grave quanto
+
+não saber nada. A empresa que sabe, porém não aplica ou não estimula a aplicação
+
+do saber através de seus colaboradores, é a mesma coisa de uma empresa que
+
+nada sabe.
+
+
+         Figueiredo ainda compara a desmotivação em relação à gestão do
+
+conhecimento como: “Plantar e cuidar de centenas de acres de uma cultura e
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             36
+
+
+
+deparar-se dias antes da colheita com uma praga de gafanhotos que come e destrói
+
+todo o fruto do seu trabalho”. Esta desmotivação
+
+
+           destrói a produção do saber, impede que o conhecimento seja ampliado e
+
+disseminado na empresa. Neutralizando dessa forma o surgimento de idéias,
+
+desperdiça clientes e negócios, arrasando qualquer empreendimento.
+
+
+
+
+3.2 O papel da empresa
+
+
+
+
+         Um conselho dado por CARVALHO (2003) é que Gestão do Conhecimento
+
+não se compra pronto. Nunca devem achar que o processo de implantação da
+
+Gestão do Conhecimento é igual à implantação de um ERP (Enterprise Resource
+
+Planning). O primeiro passo para essa implementação, ainda segundo CARVALHO
+
+(2003), deve ser analisar os conhecimentos críticos da atividade da empresa e
+
+assim identificar os problemas oriundos da falta de uma gestão organizada de
+
+conhecimento pela empresa.
+
+
+         Conhecendo-se os problemas, pode-se partir para uma avaliação bastante
+
+criteriosa de qual categoria de ferramenta da gestão do conhecimento aplica-se
+
+como melhor solução. Nessa etapa é importante observar muitas vezes a infra-
+
+estrutura instalada e principalmente os recursos que já existem antes de fazer
+
+qualquer investimento. Muitas empresas não sabem todos os recursos disponíveis
+
+dos softwares instalados em seu parque. Podemos citar, como exemplo, o uso do
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             37
+
+
+
+Lotus Notes, conforme destaca CARVALHO (2003, p. 85) o Notes oferece todos os
+
+recursos tradicionais de um sistema de groupware, suportando vários aplicativos de
+
+colaboração como correio eletrônico, grupos de discussão, centrais de suporte e
+
+outros. Infelizmente em várias empresas, o Notes é subutilizado, limitando-se
+
+apenas à aplicação de correio eletrônico.
+
+
+         Na fase de implementação do sistema, é essencial que o papel das empresas
+
+seja para vencer as resistências e estimular as pessoas a participarem. Para
+
+implantação de ERP, as empresas utilizaram de uma força bruta apelidada de “Big
+
+Bang”, por ser rápido e de alto impacto. Coisa impossível de se fazer na
+
+implementação de uma nova ferramenta de Gestão do Conhecimento. Os
+
+profissionais da empresa precisam ser convencidas e cativadas para contribuir, e
+
+isso demanda tempo e mudanças comportamentais. Ou seja, não há como
+
+implementar Gestão do Conhecimento sem um grande envolvimento das pessoas.
+
+
+         Boa parte das empresas já possui uma infra-estrutura básica para iniciar a
+
+implementação da gestão do conhecimento, que seria, segundo CARVALHO (2003,
+
+p; 131): computadores interconectados em rede, e com acesso à internet, um
+
+software de correio eletrônico e uma intranet corporativa. Pode-se também definir a
+
+gestão do conhecimento como um novo jeito de usar a Tecnologia da Informação.
+
+Para iniciar a implementação da Gestão do Conhecimento, pode-se usar a infra-
+
+estrutura existente e após o amadurecimento da empresa e principalmente das
+
+pessoas envolvidas nesse processo a empresa pode migrar para uma ferramenta
+
+mais avançada e mais sofisticada de Gestão do Conhecimento.
+
+
+         A qualidade do conteúdo enviado para as bases de conhecimento, tem que
+
+ser bem acompanhada pela direção da empresa pois existe um trabalho
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             38
+
+
+
+considerável em balancear a participação dos usuários. Esse desafio seria equilibrar
+
+a formalidade e informalidade, através dos gerentes de conteúdo, pessoas
+
+especialistas em determinadas áreas de conhecimento e que tenha facilidade para
+
+escrever, se comunicar, motivar as pessoas a participarem do “processo” e além
+
+disso, ser respeitada na instituição. Sendo seu papel principal rever o conteúdo
+
+submetido à base de conhecimento para garantir que o mesmo esteja de acordo
+
+com os padrões esperados de exatidão e qualidade. Nesse contexto, é mais
+
+importante ter relevância do que plenitude, ou seja, gerenciar bem uma parcela do
+
+conhecimento que seja vital para empresa é mais importante que gerenciar todo
+
+conhecimento da empresa.
+
+
+         Cabe a empresa motivar a atitude baseada no conhecimento, tratado
+
+anteriormente. Os usuários podem argumentar que estão ocupados demais para
+
+dedicar seu tempo em uma atividade considerada por eles “menos essencial”, e
+
+nesse caso, a empresa tem de intervir priorizando tarefas para o sucesso da gestão.
+
+A argumentação de que atividades de alimentar um repositório de conhecimento é
+
+uma tarefa que não agrega valor pessoal, pois o colaborador estará alimentando
+
+uma base com o que já sabem, é bem plausível, e com isso a empresa tem que
+
+priorizar tarefas desse tipo.
+
+
+         A empresa ainda tem que lhe dar com colaboradores que acreditam que a
+
+posse e não a distribuição, de determinado conhecimento é a responsável por sua
+
+manutenção no posto de trabalho. Outros usuários podem argumentar que não
+
+querem submeter sua produção para crítica alheia, confundindo a crítica ao
+
+conhecimento apresentado com uma crítica pessoal.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             39
+
+
+
+         Sem dúvida para esses assuntos não existe uma fórmula mágica. A resolução
+
+de tais problemas e a superação dessas barreiras depende da criação de uma
+
+cultura organizacional onde o compartilhamento do conhecimento seja incentivado e
+
+por que não, premiado. A empresa, deve sim desenvolver uma política de
+
+premiações ou de reconhecimento para os usuários que estão contribuindo. Afinal o
+
+sucesso do colaborador vai estar sempre associado ao sucesso da empresa.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             40
+
+
+
+
+                                                           CONCLUSÃO
+
+
+
+
+         Gestão do conhecimento é, sem dúvida, um tema bastante discutido no
+
+momento. A sua aplicação correta está passando de um diferencial no mercado para
+
+uma necessidade, ou seja, em muitas áreas, para manter-se competitiva, a empresa
+
+obrigatoriamente tem que gerir de forma eficaz esse bem intangível.
+
+
+         No meio acadêmico temos visto vários estudos feitos para tentar de alguma
+
+forma mensurar os bens intangíveis de uma instituição seja ela empresa privada,
+
+organização não governamental, estatal, indústria, ou qualquer lugar onde as
+
+pessoas utilizam-se do conhecimento para agregar seu valor pessoal ao valor
+
+organizacional. O valor da empresa, porém, não está apenas nos bens tangíveis e
+
+intangíveis, da mesma forma que é valorizada a empresa que gere todos os seus
+
+bens tangíveis essa valorização também há de ser dada para as empresas que geri
+
+de forma eficiente e eficaz os bens intangíveis.
+
+
+         Nessa monografia foi descrito o árduo caminho que as empresas vão ter que
+
+passar ou estão passando para gerir o conhecimento de forma a obter uma
+
+vantagem competitiva, algo cada vez mais necessário nesse mundo sem barreiras.
+
+A fórmula mágica ainda não foi encontrada, porém muita bibliografia já foi escrita
+
+sobre o assunto e esse suporte torna-se essencial no momento de trabalhar com
+
+esse tema nas instituições. Essa bibliografia não pode ficar restrita a direção
+
+executiva da empresa ou nas pessoas que irão diretamente trabalhar com a
+
+aplicação da Gestão do Conhecimento, ela tem de estar bem selecionada e
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             41
+
+
+
+disponível para todos que de uma forma ou de outra estarão inclusos nesse
+
+processo.
+
+
+         Sendo impossível realizar a gestão do conhecimento sem as pessoas, crê-se
+
+que a tarefa mais complexa percebida nos estudos que foram realizados é
+
+exatamente o comportamento humano no momento da aplicação dessa gestão.
+
+Deve-se lembrar, ainda, que a gestão do conhecimento é um processo contínuo e as
+
+pessoas entram e saem das instituições, porém o ciclo do conhecimento não pode
+
+parar. Em um dado momento a gestão do conhecimento acabará sendo uma área
+
+de conhecimento gerida por ela próprio, deixa-se no fim dessa conclusão uma
+
+pergunta no ar:
+
+
+         -              Onde estarão disponível nas empresas os assuntos referentes a
+
+                        gestão do conhecimento?
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             42
+
+
+
+
+                                           REFERÊNCIA BIBLIOGRÁFICA
+
+
+
+
+CARVALHO, Rodrigo Baroni de. Tecnologia da informação aplicada à gestão do
+conhecimento. Belo Horizonte: C/Arte, 2003.
+
+CYRINEU, José Cláudio. O futuro da gestão do conhecimento. São Paulo, 09 abr.
+2003. Disponível em: <http://www.terraforum.com.br/lib/pages/viewdoc.php?
+
+DAVENPORT                  e     PRUSAK              (1998)          Thomas             Davenport,             Laurence             Prusak.
+Conhecimento Empresarial:como as organizações gerenciam seu capital
+intelectual. Rio de Janeiro: Campus, 1998.
+
+EDVINSSON, Leif, e Malone, Michel S. Capital intelectual. Tradução de Roberto
+Galma; revisão técnica de Petros Katalifós. São Paulo: Makron Books, 1998.
+
+FIGUEIREDO, Saulo. A TI como alavanca do capital intelectual - parte 1. São
+Paulo,          15         maio           2003.            Disponível               em          http://webinsider.uol.com.br/
+vernoticia.php/id/1726. Acesso em: 06 jun. 2005.
+
+FIGUEIREDO, Saulo. O papel da atitude do conhecimento. São Paulo, novembro
+2004. Disponível em http://www.kmol.online.pt/artigos/200411/fig04_1.html Acesso
+em: 06 jun. 2005.
+
+from=map&l_intDocCod=99>. Acesso em: 03 out. 2004.
+
+GARBER, R., Inteligência Competitiva de Mercado. Letras e Expressões Editora,
+Brasil, 2001.
+
+GATTONI, Roberto Luís Capuruço. Gestão do conhecimento aplicada à prática
+da gerência de projetos. Belo Horizonte: C/Arte, 2004.
+
+JAMIL, George Leal. Repensando a TI na empresa moderna. Rio de Janeiro: Axcel
+Books, 2001.
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+                                                                                                                                             43
+
+
+
+MARI, Fernando de. Obtendo produtividade e conhecimento através do
+investimento em tecnologia da informação. São Paulo, abril 2005. Disponível em
+http://www.kmol.online.pt/artigos/200504/mar05_1.html Acesso em: 06 jun. 2005.
+
+STEWART, Tomas A. Capital intelectual: a nova vantagem competitiva das
+empresas. Rio de Janeiro: Campus, 1998
+
+
+
+
+Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-Uso Não-Comercial-Compartilhamento pela mesma licença
+2.5 Brazil. Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-nc-sa/2.5/br/ ou envie uma carta para Creative
+                                  Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+

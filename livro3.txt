@@ -1,0 +1,2097 @@
+                Assembléia Legislativa do Estado de Minas Gerais
+                  Gerência-Geral de Sistemas de Informações
+
+
+                    Manual do OpenOffice Writer Versão 1.1.1a
+                                 Curso Básico
+
+
+
+
+Autor:
+Marco Antônio Azzi – marco.azzi@almg.gov.br
+
+
+Revisão:
+Hildemar Rodrigues Falcão Júnior – hildemar@almg.gov.br
+Jussara Marta de Azevedo Rocha – azevedo@almg.gov.br
+Simone Albuquerque Avelar – simone@almg.gov.br
+
+
+Coordenação geral do projeto de implantação do OpenOffice na ALEMG:
+Fábio Luiz Rocha Nascimento – fabio.nascimento@almg.gov.br
+Marcelo Migueletto de Andrade – marcelo.migueletto@almg.gov.br
+
+
+
+
+                                    4ª Edição
+                                 Fevereiro de 2004
+             Caro usuário,
+
+
+
+              A adoção do OpenOffice está proporcionando à Assembléia uma grande economia de
+recursos, pois trata-se de um pacote gratuito de softwares. Seu editor de textos Writer, no qual este
+manual foi feito, e sua planilha eletrônica Calc serão, assim, importantes aliados do nosso processo de
+informatização, criando melhores condições para seu avanço consistente, na medida em que reduzem
+significativamente o custo das nossas estações de trabalho.
+
+              Tenha certeza de que essa mudança no conjunto padrão de softwares dos
+microcomputadores da Casa não levou em conta apenas a necessidade e a oportunidade de economia com
+o licenciamento de programas. Não poderíamos abrir mão da qualidade a que nos acostumamos com as
+soluções atualmente em uso. Exatamente por isso, outras alternativas que já vinham surgindo nos
+últimos anos foram descartadas sucessivamente, até que foi lançado o OpenOffice, que está
+conquistando um mercado crescente em todo o mundo e que avaliamos positivamente após diversos
+testes, inclusive uma implantação piloto em toda a Gerência-Geral de Sistemas de Informações. Novos
+cursos e manuais foram especialmente preparados para facilitar ao máximo sua introdução na
+Assembléia, que está sendo feita progressivamente.
+
+              Além de gratuito, o OpenOffice é também um “software livre”. Tal definição se aplica ao
+programa cujos usuários têm a liberdade de usá-lo com qualquer propósito; estudar seu funcionamento e
+adaptá-lo às suas necessidades; redistribuir cópias suas de modo a ajudar outras pessoas; e aperfeiçoá-
+lo e liberar seus aperfeiçoamentos para que toda a comunidade se beneficie. Foi justamente por ser um
+software livre que o OpenOffice pôde ser traduzido do original em inglês para o nosso idioma, aqui
+mesmo no Brasil, por um grupo de técnicos que trabalharam voluntariamente, com a coordenação
+necessária para se garantir a qualidade exigida. Dentro desse mesmo espírito de liberdade e
+colaboração, este manual foi feito para poder ser compartilhado por todos, conforme os termos
+constantes da página seguinte.
+
+             Para maiores informações a respeito de softwares livres, visite o site Internet da Free
+Software Foundation: http://www.fsf.org/philosophy/philosophy.pt.html. Se quiser conhecer mais
+detalhes do projeto OpenOffice, acesse http://www.openoffice.org.br.
+
+            Agradecemos sua participação neste treinamento e desejamos que faça bom proveito do
+OpenOffice. Conte com nosso apoio sempre que precisar.
+
+             Atenciosamente,
+
+
+
+                   Gerência-Geral de Sistemas de Informações da Alemg - GSI
+Este material segue os termos e condições da licença GNU Free Documentation License versão 1.1 ou
+superior, publicada pela Free Software Foundation. Todos estão autorizados a copiar, modificar e
+reproduzir em todo ou em parte seu conteúdo, desde que os trabalhos dele derivados garantam a todos
+os seus leitores esse mesmo direito e que as referências aos seus autores sejam mantidas.
+
+              A licença sob a qual este material é distribuído pode ser lida na íntegra em
+                                http://www.fsf.org/copyleft/fdl.html
+Sumário
+
+I – Introdução.................................................................................................................................. 2
+    O que é o OpenOffice Writer?.......................................................................................................................2
+    Conceitos Básicos................................................................................................................................................2
+    Iniciando o Trabalho:.........................................................................................................................................2
+    Visualizando e ocultando janela ancorada.....................................................................................................3
+II - Editando Texto........................................................................................................................ 4
+    Navegação.............................................................................................................................................................4
+    Seleção de texto.................................................................................................................................................5
+    Trabalhando com blocos de texto .................................................................................................................5
+    Formatando Caracteres....................................................................................................................................6
+    Alinhamento de Parágrafos..............................................................................................................................8
+    Recuo & Afastamento........................................................................................................................................9
+    Configuração de Página....................................................................................................................................10
+III - Trabalhando com Arquivos................................................................................................. 11
+    Trabalhando com Senhas................................................................................................................................13
+    Exportando como PDF......................................................................................................................................14
+IV – Imprimindo.............................................................................................................................. 15
+V – Ortografia e Gramática......................................................................................................... 17
+    Verificação Ortográfica.................................................................................................................................17
+    AutoTexto...........................................................................................................................................................
+                                                                                                                                                                      21
+VI - Aprimorando a Edição de Textos...................................................................................... 23
+    Inserir Moldura................................................................................................................................................25
+    Estilista...............................................................................................................................................................
+                                                                                                                                                                          27
+    Galeria.................................................................................................................................................................28
+    Barra de Objetos Padrão...............................................................................................................................28
+VII – Tabelas.................................................................................................................................. 30
+    Formatar tabela................................................................................................................................................30
+    Texto <-> Tabela................................................................................................................................................31
+ VIII – Mala direta e Etiquetas ................................................................................................ 32
+    Campos................................................................................................................................................................34
+    Mala Direta – Impressão................................................................................................................................35
+    Etiquetas............................................................................................................................................................36
+IX - Cartela de Comandos........................................................................................................... 38
+
+
+
+
+Gerencia de Sistemas de Informações                                                                                                                           página 1
+I – Introdução
+
+
+O que é o OpenOffice Writer?
+O OpenOffice Writer é um software editor de textos, sendo portanto uma ferramenta para a criação de
+documentos no microcomputador. Com ele, podemos realizar desde tarefas simples, como digitar e imprimir
+uma simples carta, até tarefas mais complexas como a criação de documentos mais sofisticados, como este
+manual, nele elaborado. Ele faz parte de um "pacote de softwares" denominado OpenOffice, no qual se
+destacam, além dele, a planilha eletrônica Calc e o software para apresentações de slide eletrônicas,
+denominado Impress.
+
+Neste manual, objetivamos apresentar e ensinar a utilização das funcionalidades básicas do Writer,
+permitindo assim ao leitor conhecer e fazer uso dos recursos necessários para a elaboração de textos com o
+auxílio deste software. Cabe frisar que o sistema operacional aqui previsto é o Windows 9x.
+
+
+
+Conceitos Básicos
+Antes de iniciarmos propriamente as explicações, vamos relembrar alguns conceitos fundamentais para o
+estudo que vamos realizar.
+
+Cursor de Ponto de Inserção: É a barra luminosa que indica a sua posição dentro do documento. Ele se
+move na tela, à medida que você digita, indicando onde aparecerá o próximo caractere digitado.
+
+Menu: É o conjunto de opções (comandos) que você utiliza para realizar determinadas tarefas. Pode ser
+dividido em submenus, e estes, por sua vez, em perguntas que especificam a tarefa desejada.
+
+Janela: É o espaço no vídeo normalmente delimitado e destinado à interação com o programa.
+
+
+
+Iniciando o Trabalho:
+Para utilizar o OpenOffice Writer, a primeira coisa a fazer é inicializá-lo. Isto pode ser feito de algumas
+maneiras, das quais destacamos a seguir as duas mais comuns.
+
+A primeira delas é utilizando o botão do "Menu Iniciar" do Windows. Para tal, basta clicar neste botão e, em
+seguida, escolher: "Programas/OpenOffice.org 1.1.1a/Documento de Texto".
+
+Outra maneira é através do botão "Início Rápido OpenOffice.org 1.1.1a" disponível na Barra de Tarefas
+do Windows. Ao dar um duplo clique neste botão, é aberta a janela "Modelos e Documentos" (abaixo). Note
+que, nesta janela, você pode solicitar a abertura de qualquer tipo de arquivo do OpenOffice, não apenas
+textos do Writer.
+
+
+
+
+Gerencia de Sistemas de Informações                                                               Página 2
+Para criar um novo texto, clique no ícone "Novo" ou utilize a tecla de atalho CTRL + O. Para abrir um texto
+que se encontre na pasta "Meus Documentos", clique no menu Arquivo/Abrir e em seguida localize e
+selecione (com duplo clique) o documento desejado.
+
+Ao iniciar o Writer, o modo de edição é ativado. Isto significa que você pode começar a digitar seu
+documento imediatamente. Ao digitar o texto, só pressione a Tecla <Enter> quando desejar iniciar um novo
+parágrafo, pois o Writer mudará de linha automaticamente a cada linha preenchida.
+
+O Writer trabalha com o modo de inserção ativado para você incluir um novo texto no documento já digitado.
+Para tanto, basta posicionar o cursor na posição desejada e digitar. O seu texto novo será incluído ao
+documento sem apagar o que já estava digitado. Para sobrescrever (digitar por cima, apagando o texto
+antigo), acione a tecla <Ins> e o seu texto novo sobreporá ao texto anterior, à medida em que for digitado.
+
+
+
+
+Visualizando e ocultando janela ancorada.
+Vamos aprender a trabalhar com Janela ancorada. Essa opção nos será muito útil quando da utilização do
+“Navegador de Fonte de Dados”,“Estilos”,”Galeria” e “Visualização de página”.
+
+Fixar/Flutuante
+
+Na margem da janela ancorada, existe um botão com a imagem de um pino. Ele é usado para fixar a janela,
+ou para permite a janela flutuar. Muitas vezes a janela, por ocupar uma parte significativa da área de edição,
+torna desconfortável o trabalho de edição. É exatamente para facilitar a visualização do documento que
+iremos utilizar esse botão.
+
+Mostrar
+
+Esse botão oculta ou exibe a janela ancorada, mesmo que ela esteja como “flutuante”.
+Outra maneira de exibir a janela é dar um clique no espaço livre ao lado destas imagens. A janela surgirá
+momentaneamente. Após alguns segundos, se não for utilizada, a janela desaparecerá automaticamente.
+
+
+
+
+Gerencia de Sistemas de Informações                                                                 página 3
+II - Editando Texto
+Ao acessar o Writer, percebe-se que ele está preparado para a edição de um novo documento, ou mesmo
+de um já existente que você deseje alterar. Você pode, então, começar o seu trabalho.
+
+Navegação
+
+Você pode navegar pelo texto utilizando o mouse ou o teclado.
+
+                                         Uso do Teclado
+        Para navegar                             Pressione
+        Uma letra para direita                      Seta para direita
+        Uma letra para esquerda                     Seta para esquerda
+        Uma palavra para direita                    Ctrl + seta para direita
+        Uma palavra para esquerda                   Ctrl + seta para esquerda
+        Até o final da linha                        End
+        Até o início da linha                       Home
+        Até o final do texto                        Ctrl + End
+        Até o início do texto                       Ctrl + Home
+        Uma tela para cima                          Page Up
+        Uma tela para baixo                         Page Down
+
+
+
+                              Uso do mouse - Barra de rolagem
+       Para navegar                            Pressione
+       Página anterior                              Ícone com seta dupla para cima
+       Próxima página                               Ícone com seta dupla para baixo
+       Qualquer página                              Arraste o botão da barra de rolagem
+
+
+
+
+Gerencia de Sistemas de Informações                                                       Página 4
+Seleção de texto
+Para aplicar qualquer tipo de formatação no documento, é necessário selecionar a região onde será aplicado
+o efeito. Você pode selecionar partes do texto, utilizando o teclado ou o mouse.
+A seguir, você terá uma lista das formas mais usadas para selecionar.
+
+
+
+                                         Utilizando o Teclado
+         Para selecionar                Pressione
+         Um caracter para a direita     Shift + seta para direita
+         Um caracter para a esquerda    Shift + seta para esquerda
+         Até o final de uma palavra     Ctrl + Shift + seta
+         Até o final de uma linha       Shift + End
+         Até o início de uma linha      Shift + Home
+         Uma linha para baixo           Shift + seta para baixo
+         Uma linha para cima            Shift + seta para cima
+         Uma tela para baixo            Shift + Page Down
+         Uma tela para cima             Shift + Page Up
+         Até o final do documento       Ctrl + Shift + End
+         Até o início do documento      Ctrl + Shift + Home
+         Uma célula preenchida          Com o cursor dentro da tabela, pressione Ctrl + T
+         Tabela inteira                 Com o cursor dentro da tabela, pressione Ctrl + T 2 vezes
+         Documento inteiro              Ctrl + T
+
+
+
+                                         Utilizando o Mouse
+    Para selecionar      Faça
+    Seleção alternada    Ctrl + 2 cliques no botão esquerdo do mouse sobre a palavra
+    Uma palavra          2 cliques com o botão esquerdo do mouse sobre a palavra
+    Uma linha            3 cliques com o botão esquerdo do mouse em qualquer palavra da linha
+    Diversas linhas      Arraste o mouse com o botão esquerdo pressionado
+    Parágrafo            2 cliques na marca de final de parágrafo
+
+
+
+Trabalhando com blocos de texto
+Para copiar uma ou mais palavras, sentenças ou parágrafos, observe os procedimentos a seguir:
+
+Copiar
+Onde encontrar esse comando...
+Menu – Editar/Copiar
+Ctrl+C
+Ícone relacionado -
+
+
+
+Cópia Convencional
+- Selecione o texto desejado.
+- Clique no menu "Editar/Copiar " ou clique no botão "Copiar ".
+- Posicione o cursor no local onde deseja a cópia do texto.
+– Clique no menu "Editar/Colar" ou clique no botão "Colar" .
+
+
+
+Gerencia de Sistemas de Informações                                                             página 5
+Cópia Rápida
+- Selecione o texto desejado.
+- Clique, com a tecla "Ctrl" pressionada, sobre a seleção e arraste até a posição desejada, soltando
+primeiramente o botão do mouse e, em seguida, a tecla "Ctrl".
+
+Cortar
+Onde encontrar esse comando...
+Menu – Editar/Cortar
+Ctrl+X
+Ícone relacionado -
+
+
+
+Movimentação Convencional
+- Selecione o texto desejado.
+- Clique no menu "Editar/Cortar" ou botão "Cortar" .
+- Posicione o cursor no local desejado.
+- Clique no menu "Editar/Colar " ou botão "Colar" .
+
+Movimentação Rápida
+- Selecione o texto desejado.
+- Clique sobre a seleção e arraste o ponteiro do mouse até a posição desejada.
+
+Movimentação de parágrafos utilizando o teclado
+- Posicione o cursor no parágrafo que deseja movimentar. Se for mais de um, selecione-os.
+- Com a tecla "Ctrl" pressionada clique na seta para cima ou para baixo. O parágrafo ou os parágrafos
+selecionados mudaram de posição com o próximo de cima ou de baixo, conforme tecla utilizada.
+
+Apagando bloco de texto
+Para apagar uma ou mais palavras, sentenças ou parágrafos, observe:
+- Selecione o texto desejado.
+- Pressione a tecla "Delete".
+
+Formatando Caracteres
+
+Quando se trabalha com um processador de textos, após a digitação você sentirá a necessidade de dar uma
+aparência melhor ao seu documento. No OpenWriter, você pode usar uma grande variedade de tipos e
+tamanhos de letras.
+
+Guia Fonte
+Onde encontrar esse comando...
+Menu - Formatar/Caracteres - Fonte
+Ícone relacionado -
+
+
+Fonte
+Apresenta as fontes disponíveis no sistema e que podem ser utilizados em seu documento.
+
+Estilo
+Nesta caixa estão disponíveis os estilos para a fonte selecionada. Para escolher, basta dar um clique sobre
+o estilo desejado e verificar o exemplo.
+
+Tamanho
+Na caixa de Listagem "Tamanho", surgirá a lista de possíveis tamanhos para a fonte selecionada.
+Ainda temos a cor da letra e a idioma
+
+
+Gerencia de Sistemas de Informações                                                               Página 6
+Guia Efeitos de fonte
+    Onde encontrar esse comando...
+    Menu - Formatar/Caracteres - Efeitos de fonte
+
+Sublinhado
+Esta caixa apresenta vários estilos de sublinhados. Escolha um estilo e observe o efeito na "Caixa de
+vizualização". Você pode escolher a cor de seu sublinhado, pressionando o botão ao lado da caixa de
+listagem Cor.
+
+Efeitos
+Além do sublinhado e cor, podem-se aplicar efeitos na fonte. Para isso, clique sobre a opção do efeito
+desejado.
+• Maiúscula
+   ALTERA O TEXTO SELECIONADO PARA TODAS AS LETRAS MAIÚSCULAS.
+
+•     Minúscula
+      altera o texto selecionado para todas as letras minúsculas.
+
+•     Títulos
+      Aplica A Formatação De Maiúscula Na Primeira Letra De Cada Palavra Da Seleção.
+
+•     Versalete
+      APLICA CAIXA ALTA PARA TODAS AS PALVRAS SELECIONADAS.
+
+Relevo
+O Writer também traz a possibilidade de acrescentar relevo no texto ("Salientado" e "Entalhado" ) podendo
+ainda combiná-los com "Contorno", "Sombra" e "Piscante". Com a excessão do comando "Piscante", as
+demais as alterações aparecem na "Caixa de visualização".
+
+Caso você não queira utilizar o menu, várias das opções vistas anteriormente podem ser encontradas na
+"Barra de Ferramentas Objetos de Texto", que contém, ainda, outros itens que serão vistos no decorrer
+do manual. Para alterar a fonte de um texto selecionado, aperte o botão ao lado da caixa de listagem de
+"Fonte".
+
+
+
+
+Se com o texto selecionado, você clicou no botão "Negrito", para cancelar a operação, sem aplicar outro
+formato, clique-o novamente.
+Veja, agora, os botões dos estilos mais usados na barra de Objetos:
+
+Os botões correspondem, respectivamente: negrito, itálico e sublinhado.
+
+
+
+
+Gerencia de Sistemas de Informações                                                             página 7
+Caracteres não imprimíveis
+Onde encontrar esse comando...
+Menu – Ver/Caracteres não imprimíveis
+Barra de Ferramentas – na vertical
+Ctrl+F10
+Ícone relacionado
+
+
+Existem caracteres que apesar de não serem impressos, fazem parte do documento e podem ou não ser
+visualizados. Para tanto, clique no botão "Ver/Caracteres não imprimíveis". Abaixo apresentamos alguns
+desses caracteres.
+
+
+
+                 Símbolo                      Tecla                       Significado
+                                   Enter                        Marca de fim de parágrafo
+
+                    .              Barra de espaço              Espaço em branco
+
+                                   Tab                          Tecla de Tabulação
+
+
+
+Alinhamento de Parágrafos
+Alinhamento é a posição do texto em relação às margens. Existe alinhamento à esquerda, à direita,
+centralizado e justificado. Para defini-lo, acesse o menu "Formatar/Parágrafo". Na guia "Alinhamento",
+escolha o formato desejado. Não se esqueça de selecionar a região onde quer aplicar o alinhamento.
+
+Guia Alinhamento
+Onde encontrar esse comando...
+Menu - Formatar/Parágrafo – Alinhamento
+Ícone relacionado -
+
+
+
+Alinhamento à esquerda
+Neste parágrafo, podemos observar que a preocupação do alinhamento se concentra apenas do lado
+esquerdo. O final de cada linha deste parágrafo é ajustada automaticamente pelo OpenWriter.
+
+
+Alinhamento à direita
+       Neste parágrafo, ao contrário do anterior, a preocupação é com o alinhamento à direita da linha. Este
+                  alinhamento é bastante comum quando se trata de uma pequena mensagem em cartões.
+
+Alinhamento centro
+ Este é um exemplo de texto centralizado. Não existe preocupação com as margens e sim, em centralizar o
+                                    texto em relação a largura da linha.
+
+Alinhamento Justificado
+O paragráfo justificado alinha-se tanto a direita como a esquerda da linha, por isso aparecem alguns
+espaçamento entre as palavras. O OpenWriter apresenta a possibilidade de definir o alinhamento da última
+linha do paragráfo justificado.
+
+O alinhamento de parágrafos também pode ser feito através da Barra de Formatação. Selecione o texto
+desejado e pressione um dos seguintes botões:
+
+
+
+
+Gerencia de Sistemas de Informações                                                               Página 8
+Recuo & Afastamento
+
+Aqui você define o recuo, espaçamento do parágrafo e entrelinhas. É possível observar modificações no
+visualizador do lado esquerdo.
+
+Guia Recuo & Afastamento
+Onde encontrar esse comando...
+Menu – Formatar/Parágrafo – Recuo& Afastamento
+Ícone relacionado -
+
+
+Recuo & Afastamento
+Essa seção trabalha com avanço de parágrafo da esquerda e da direita, recuo específico para a primeira
+linha, inclusive com valores negativos.
+
+      Se o parágrafo que você estiver trabalhando contiver numeração ou marca, o número
+      determinando o valor do recuo da primeiro linha pode ser definido junto ao comando
+      “Formatar/Numeração/Marcas” na guia “posição”.
+
+       Você pode configurar o recuo utilizando a régua, ou pelo ícone da “Barra de objetos
+      Padrão”.
+
+Afastamento
+Utilize esse comando para determinar o espaço antes e depois do parágrafo onde se encontra o cursor.
+
+Entrelinhas
+Define o espaço entre cada linha do mesmo parágrafo. Existem várias configurações pré-definidas que você
+pode optar ou mesmo definir outros valores.
+
+
+
+Guia Capitular
+Onde encontrar esse comando...
+Menu - Formatar/Parágrafo – Guia Capitular
+Ícone relacionado    -
+
+
+
+U   ma letra capitulada é tradicionalmente a primeira letra de um parágrafo em tamanho e formato diferente
+    do restante do texto, com o objetivo de destacá-la do conjunto para um efeito visual mais agradável.
+Você pode capitular uma letra, uma palavra ou um conjunto de texto, mas o usual é capitular apenas a
+primeira letra do parágrafo principal.
+
+Exibir Capitulação
+Inicialmente, marque essa opção. É ela que vai lhe permitir vizualizar o efeito.
+
+Palavra Inteira
+Caso você queira que toda a palavra seja capitulada, marque essa opção.
+As outras opções referem-se aos números de caracteres que você deseja capitular, ao número de linhas
+reservado para as letras capituladas e a distância do texto das letras capituladas do restante do texto.
+
+Número de Caracteres
+Define quantos caracteres serão capitulados.
+
+Linhas
+Quantas linhas( de altura) serão utilizadas para capitular.
+
+
+
+
+Gerencia de Sistemas de Informações                                                               página 9
+Distância do corpo do texto
+Defina qual será o espaço entre o texto e a(s) letra(s) em destaque.
+
+Índice
+Aqui, você pode optar por digitar o texto a ser capitulado e ainda definir o estilo de caracteres.
+
+
+Configuração de Página
+Uma das etapas mais importantes na confecção de documentos é a definição de parâmetros que o
+documento deverá seguir, por exemplo: definição das margens da folha, tamanho do papel utilizado pela
+impressora, direção da impressão, etc. Vamos trabalhar com esses conceitos a partir de agora.
+
+Guia Página
+Onde encontrar esse comando...
+Menu - Formatar/Página – Guia página
+
+É aconselhável configurar a página do documento antes de iniciar a edição de textos pois, caso contrário,
+será necessário organizar a posição do texto na folha novamente. Para acessar essa função vá em
+"Formatar/Página" – "Guia página".
+
+Formato
+Aqui você seleciona entre os formatos padrões existentes.
+
+Largura e Altura
+Esses campos você só irá utilizar quando os valores forem diferentes dos formatos padrões existentes.
+
+Retrato e Paisagens
+Esses campos definem como será a impressão do documento.
+
+Bandeja de Papel
+Se a sua impressora é equipada com múltiplas bandejas de papel, é aqui que você definir qual bandeja será
+utilizada. No nosso caso podemos deixar a configuração da impressora.
+
+Configuração do Layout
+Aqui você define como ficará o layout de impressão das páginas e o formato da numeração.
+
+Registro de conformidade
+Aqui é possível selecionar estilos de parágrafo como referência para alinhar o seu texto.
+
+Margens
+Você tem a opção de definir a distância entre o texto e as margens do documento. O valor padrão é 2 cm.
+Este valor está, em vários casos, acima do mínimo do padrão comum dos modelos de impressoras, assim
+temos uma garantia extra que o documento não será cortado na hora da impressão.
+
+
+
+     Se você configurar as margens com valores que excedam a área de impressão, uma caixa de
+     diálogo surgirá alertando-o e solicitando a confirmação dos valores. Você pode cancelar sua
+     configuração, pressionando o botão "Não". Os parâmentros serão reajustados para valores válidos
+     mais próximos dos definido por você.
+
+
+
+
+Gerencia de Sistemas de Informações                                                                  Página 10
+III - Trabalhando com Arquivos
+Todo documento gravado no disco (ou outro meio de armazenagem) é um arquivo que pode ser alterado,
+copiado, movido ou excluído. Mostraremos os principais comando para trabalhar com arquivos
+
+Abrir
+Onde encontrar esse comando...
+Menu - Arquivo/Abrir
+Ctrl+O
+Ícone relacionado -
+
+
+Caso você deseje editar um documento já iniciado e gravado anteriormente em disco, selecione o menu
+“Arquivo/Abrir” ou pressione o respectivo botão na “Barra de Funções”. Uma caixa de diálogo será aberta
+com todos os formatos de arquivo que o Writer reconhece e outros.
+Caso o arquivo que você queira trabalhar não esteja disponível no diretório apresentado, clique na caixa
+dropdown "Examinar" e selecione o caminho desejado. Outra maneira de navegar e armazenar seus
+documentos é através dos ícones, conforme descritos abaixo:
+
+•   Um nível acima
+    Este ícone, irá para um diretório acima.
+
+•   Visualizar Área de Trabalho
+    Este ícone remete o operador para a Área de Trabalho
+
+
+•  Cria um nova pasta
+Pressione o ícone para criar uma nova pasta. Em seguida, digite o nome para essa pasta.
+
+•   Lista e Detalhes
+    O primeiro ícone apresenta apenas o nome dos arquivos com suas respectivas extensões. O segundo,
+    de "Detalhes", além do nome, apresenta tamanho, tipo e data da última modificação.
+
+
+        Para abrir mais de um arquivo simultaneamente, selecione os arquivos com "Ctrl" ou "Shift"
+        pressionado e depois clique no botão "Abrir".
+
+
+
+Salvar arquivos
+Onde encontrar esse comando...
+Menu – Arquivo/Salvar
+Ctrl+S
+Ícone relacionado -
+
+
+Enquanto você trabalha no OpenWriter, o seu documento fica armazenado na memória do computador e,
+como você deve saber, ela é uma memória volátil, ou seja, quando o computador é desligado, essa memória
+se perde. Para evitar maiores acidentes, lembre-se sempre de gravar seu documento em disco, mesmo que
+não tenha terminado o trabalho.
+
+Para gravar, acesse o menu "Arquivo/salvar" ou "Ctrl + B" ou pressione o respectivo botão na "Barra de
+Funcões". Quando essa operação for executada pela primeira vez, o Writer apresentará uma tela para que
+sejam informados o nome do arquivo e o local em que ele será salvo.
+Após a primeira gravação, qualquer alteração no documento deve ser salva novamente, o que acarretará na
+sobreposição do arquivo anterior. Caso seja preciso mantê-lo sem alteração, selecione no menu
+"Arquivo/Salvar como". Dessa forma, a mesma caixa de diálogo, que aparece na primeira vez em que se
+
+
+Gerencia de Sistemas de Informações                                                           página 11
+salva um arquivo será reaberta para que se possa definir outro nome para o arquivo e/ou outro local de
+gravação.
+
+     O comando "Arquivo/Propriedades/Descrição/Título”, não se refere ao nome do arquivo. Esse
+     comando refere-se ao título de arquivo gerados para internet. Caso seja preenchido essa campo, o
+     nome do arquivo não mais aparecer na “Barra de título” e sim, o conteúdo desse campo.
+
+O Writer permite, no comando "Salvar Como", executar todas as tarefas referentes ao tratamento do
+arquivo como: excluir, copiar, renomear e outras mais. Basta clicar com o botão direito do mouse sobre o
+nome do arquivo desejado.
+
+Arquivo/Salvar Tudo
+Onde encontrar esse comando...
+Menu – Arquivo/Salvar Tudo
+
+O comando "Salvar Tudo" salva todos os documentos que estão abertos. Ela só estará disponível quando
+houver algum documento por salvar.
+
+
+Arquivo/Salvar Como
+Onde encontrar esse comando...
+Menu – Arquivo/Salvar Como
+
+Digamos que você vai enviar um arquivo gerado no Writer para fora da Assembléia via e-mail, ou mesmo,
+para a área administrativa da Casa. Nesse caso, é necessário salvá-lo com a extensão "DOC". Clique em
+"Arquivo/Salvar como". Na opção "Salvar com o tipo" selecione na caixa dropdown a opção "Microsoft
+Word 97/2000/XP [.doc]". Agora você gerou no OpenWriter um arquivo que o Microsoft Word vai abrir.
+Ainda como o arquivo aberto, efetue qualquer alteração no documento e salve-o novamente. A seguinte
+caixa de diálogo surgirá:
+
+
+
+
+Vamos entender o significado desses botões.
+
+"Sim"
+Se você marcar essa opção, o comando "Salvar como" surgirá para você salvar o arquivo como Writer.
+
+"Não"
+Se você pressionar o botão "Não" as alterações serão incorporadas ao seu arquivo ativo, ou seja, ao arquivo
+com a extensão "DOC".
+"Cancelar"
+
+O arquivo permanece inalterado.
+
+      Sempre que você efetuar no OpenWriter qualquer alteração em um arquivo com a extenção
+      "DOC" (padrão do formato dos arquivos gerados no Word), essa caixa de diálogo irá aparecer.
+
+Para manter as alterações é necessário pressionar o botão "Sim". Se você marcar a opção "Não", o
+documento permanecerá aberto.
+
+
+Gerencia de Sistemas de Informações                                                             Página 12
+Carregar/Salvar - Geral
+Onde encontrar essa opção...
+Menu – Ferramentas/Opções
+
+O comando "Carregar/Salvar - Geral" grava o texto em um arquivo temporário em intervalos de tempo
+pré-definidos.
+
+       Para validar esse recurso é necessário preencher os seguintes campos: "Salvar automaticamente
+       cada" e "Minutos". Caso o computador apresente falhas ou a energia caia antes que se tenha
+       salvo o documento, quando executado novamente, o Writer tentará recuperar o arquivo
+       temporário.
+
+
+Trabalhando com Senhas
+Uma senha pode conter no mínimo 5 e no máximo 16 caracteres, podendo incluir letras, números, símbolos
+e espaços. À medida que a senha for digitada, o Writer exibirá um asterisco (*) para cada caractere inserido.
+Se você atribuir uma senha, ela deverá ser usada sempre que o documento for reaberto. Certifique-se de
+digitar as letras maiúsculas e minúsculas exatamente como foram inseridas na primeira vez.
+Para impedir que outros usuários possam abrir um documento é necessário utilizar o comando "Salvar
+Como" e marcar a caixa de "Salvar com Senha" . Uma caixa de diálogo, conforme abaixo surgirá, em
+seguida digite uma senha, confirme a senha, digitando no campo "Confirmar" e pressione
+o botão OK. Somente as pessoas que conhecerem a senha poderão abrir o documento.
+
+
+
+
+A próxima vez que você abrir o documento, será solicitado a sua senha. Se você entrar com uma senha
+errada, o documento não será aberto.
+
+
+       Para eliminar a senha de um arquivo, basta utilizar o comando “Salvar como” novamente e não
+       marcar a opção “ Salvar com senha”.
+
+       Você não poderá abrir o documento se esquecer a senha.
+
+
+Novo
+Onde encontrar esse comando...
+Menu – Arquivo/Novo
+Ctrl + N
+Ícone relacionado -
+
+É possível abrir de dentro de Writer qualquer aplicativo do OpenOffice. Apresentaremos os ícones e os
+nomes dos demais aplicativos referentes ao OpenOffice.
+
+•   Documento de texto
+
+    Cria um novo documento texto.
+
+•   Planilha
+
+    Cria uma nova planilha.
+
+Gerencia de Sistemas de Informações                                                               página 13
+•   Apresentação
+    Cria um documento de apresentação.
+
+•   Desenho
+    Cria desenhos vetoriais
+
+•   Documento HTML
+    Cria um novo documento em HTML.
+
+•   Documento Mestre
+    Cria documento mestre*.
+
+•   Fórmula
+    Cria documento com fórmulas matemáticas.
+
+•   Etiqueta
+    Cria um documento de etiquetas*.
+
+•   Cartões de visita
+    Cria um documento de cartão de visita*.
+
+•   Modelos e documentos
+    Cria um documento modelo.
+
+
+
+       * Esses documentos são gerados pelo editor de textos Writer, além do próprio documento texto.
+
+
+
+Exportando como PDF
+
+Crie um arquivo PDF – Portable Document Format. Um arquivo PDF pode ser vizualizado e impresso em
+diferentes sistemas operacionais com o formato original intacto. Para tanto é necessário que o Adobe
+Acrobat Reader esteja instalado.
+Exportar como PDF
+Onde encontrar esse comando...
+Menu – Arquivo/Exportar como PDF
+Ícone relacionado -
+
+
+
+       O Acobrat Reader é um aplicativo freeware.
+
+
+
+
+Gerencia de Sistemas de Informações                                                       Página 14
+IV – Imprimindo
+
+Inicialmente é necessário definir a impressora com a qual deseja-se trabalhar. O processo de impressão é
+controlado pela “Caixa de diálogo de impressão” e pode variar de acordo com o modelo de impressora
+que o operador possui.
+
+Imprimir
+Onde encontrar esse comando...
+Menu – Arquivo/Imprimir
+Ctrl + P
+Ícone relacionado -
+
+
+
+
+Nome
+Clique na caixa dropdown e selecione a impressora para impressão.
+
+Propriedades
+Este botão apresenta as características da impressora definida.
+
+Status
+Mostra se a impressora está imprimindo, se está pronta, se está definida como padrão, se está off line, etc.
+
+Tipo
+Discrimina o modelo da impressora
+
+Local
+Mostra a localização da impressora, isto é, onde ela está conectada.
+
+Imprimir para um Arquivo
+Marque esta caixa quando for imprimir direto para arquivo.
+
+Tudo
+Selecione esta opção para imprimir todas as páginas do documento.
+
+Páginas
+Somente as páginas especificadas no campo serão impressas. Para imprimir páginas alternadas, separe os
+números das páginas com ponto e vírgula (3;8;11). Para imprimir uma seqüência de páginas, digite o
+número inicial e o final do intervalo, separados por hífen (13-17).
+
+Seleção
+Somente a área selecionada do documento será impressa.
+
+
+
+Gerencia de Sistemas de Informações                                                                página 15
+Cópias
+Define o número de cópias que você deseja imprimir.
+
+Agrupar
+Define se as cópias sairão juntas ou alternadas.
+
+
+Visualização da Página
+Onde encontrar esse comando...
+Menu – Arquivo/Visualização da página
+Ícone relacionado -
+
+
+Este é o local onde você pode verificar o seu documento antes de imprimí-lo.
+
+
+
+
+            1   2   3    4    5   6    7   8       9      10   11   12         13
+
+
+
+Acima temos a “Barra de Impressão”. Conheça o comando relacionado a ícone:
+01 – Visualiza a página anterior.
+02 – Visualiza a página seguinte.
+03 – Visualiza a primeira página do documento.
+04 – Visualiza a última página do documento.
+05 – Exibe duas páginas na janela.
+06 – Exibe várias páginas na janela.
+07 – Aumenta o zoom a visualização da página.
+08 – Diminui o zoom a visualização da página.
+09 – Altera a escala de visualização da página.
+10 – Alterna a visualização entre tela cheia e normal.
+11 – Imprime o documento conforme apresentado na visualização.
+12 – Abre-se uma caixa de diálogo onde é possível definir quantas páginas serão impressas em apenas
+     uma única folha de papel.
+13 - Desativa o modo de visualização "Visualização da página".
+
+
+
+
+      Um duplo clique em qualquer lugar na página retorna o modo de visualização normal.
+
+
+
+
+Gerencia de Sistemas de Informações                                                          Página 16
+V – Ortografia e Gramática
+
+Verificação Ortográfica
+
+Textos formais como Currículos, Manuais Técnicos e Relatórios não devem apresentar erros de ortografia
+para, entre outros fatores, não perderem sua credibilidade. Para solucionar o problema, o Writer incorporou
+uma série de ferramentas que passamos a analisar.
+
+Verificar Ortografia
+Onde encontrar esse comando...
+Menu Ferramentas/Verificação ortográfica
+F7
+Ícone relacionado -
+
+
+
+
+Original
+A palavra em questão é mostrada exatamente como foi digitada no texto Palavra Quando a palavra estiver
+incorreta, aparecerá um ícone com “X” vermelho. Digitando corretamente a palavra ou selecionando do
+campo de “Sugestões” , um ícone com “visto” verde surgirá informando que a palavra está correta.
+
+Verificar palavra
+Pressione esse ícone, se houve uma ou mais sugestões surgirá no campo “Sugestões”
+
+      Caso queira que a palavra original reapareça, clique na palavra do campo “Original”. Outra opção é
+      utilizar a tecla de atalho “Alt+O”.
+
+
+Idioma
+Apresenta o idioma com o qual o Writer está trabalhando.
+
+Dicionário
+Neste campo você define qual dicionário irá acrescentar as palavras.
+
+Auto Correção
+Pressione este botão para acrescentar duas palavras (a incorreta e a correta) para a correção automática.
+
+
+
+
+Gerencia de Sistemas de Informações                                                              página 17
+Dicionário de Sinônimos
+Pressione este botão para abrir a Caixa de diálogo de Sinônimos.
+
+      O dicionário não está disponível para todas as línguas.
+Opções
+Pressione este botão para configurar as opções do “Verificação ortográfica”
+
+Adicionar
+Pressione este comando para acrescentar a palavra no dicionário definido pelo usuário.
+
+Ignorar
+Clique para ignorar uma palavra que o dicionário não reconhece.
+
+Ignorar Tudo
+Pressione esse botão para o comando desconsiderar todas as ocorrência dessa palavra.
+
+Substituir
+Selecionando esse botão a palavra será substituída pela opção apresentada.
+
+Substituir Tudo
+Selecionando esse botão, todas ocorrências dessa palavra serão substituídas pela sugestão apresentada.
+
+Para trás
+Pressione esse botão para reverter a direção da pesquisa, direcionando a pesquisa daquel ponto até o início
+do documento.
+
+
+Verificação Automática
+Onde encontrar esse comando...
+Menu Ferramentas/Verificação ortográfica – Verificação Automática
+Ícone relacionado -
+
+Qualquer tipo de erro na palavra digitada será destacado com um sublinhado vermelho. Se você posicionar
+o cursor sobre a palavra destacada e clicar com o botão direito, você obterá uma lista de sugestão para
+substituir a palavra em destaque. Se você cometer o mesmo erro novamente enquanto digita o documento,
+ocorrerá a correção automática.
+
+      Essa correção só ocorrerá na atual sessão do Writer.
+
+
+
+Auto Correção/Auto Formatação
+Onde encontrar esse comando...
+Menu – Ferramentas/AutoCorreção/AutoFormatação
+
+A função “Auto Correção” efetua automaticamente as correções dos erros que já estão configurados para
+serem reconhecidos, ou completa abreviações definidas pelo usuário em “Auto Texto”. A correção ocorre
+assim que a barra de espaço é pressionada após a digitação do texto.
+Você pode alterar a configuração do “Auto Correção” em “Formatar – AutoFormato” conforme as
+configurações abaixo:
+
+
+
+
+Gerencia de Sistemas de Informações                                                              Página 18
+Guia Substituir
+Onde encontrar esse comando...
+Menu – Ferramentas/AutoCorreção/AutoFormatação – Substituir
+
+Substituição e exceções para o idioma:
+Define em qual idioma as configurações prevalecerão.
+
+Substituir
+Digite neste campo a palavra a ser substituída.
+
+Por
+Digite a palavra correta.
+
+Somente Texto
+Se essa opção está selecionada, o texto no campo “substituir” será salvo sem a formatação.
+
+Novo
+Clique aqui para adicionar nova entrada na tabela de substituição. Caso a abreviação já exista, esse botão
+aparecerá com o nome “Substituir”.
+
+Excluir
+Apaga a opção selecionada.
+
+
+Guia Exceções
+Onde encontrar esse comando...
+Menu – Ferramentas/AutoCorreção/AutoFormatação – Exceções
+
+Nessa Guia, o usuário pode definir as exceções para a função de Auto Correção. Essas exceções são
+definidas por idioma.
+
+Abreviações (sem maiúscula subseqüente)
+Digite uma palavra ou abreviatura, podendo usar ponto final. Em seguida pressione em “Novo”. Todas as
+definições digitadas serão especificadas na caixa de texto. Pressionando “Excluir” o texto selecionado será
+deletado.
+
+Palavras que começamm DUas MAiúsculas.
+Aqui você pode digitar palavras que começam com duas letras maiúsculas que não serão substituídas
+automaticamente pelo “Auto Corretor” exemplos: PCs, CDs. Pressionando “Novo” você acrescentará nova
+entrada na lista de exceções. Caso queira eliminar uma entrada, basta selecionar o texto e em seguida
+pressionar “Excluir”
+
+AutoIncluir
+Marque essa opção para que o procedimento seja automático. Entretanto, esse comando só funciona se na
+"Guia opções", no item "COrrigir duas maiúsculas no INício da palavra”, estiver selecionada a coluna
+"[D] - AutoFormatação/Auto Formato durante a digitação".
+
+Guia Opções
+Onde encontrar esse comando...
+Menu – Ferramentas/AutoCorreção/AutoFormatação – Opções
+
+As opções podem ser aplicadas durante a reedição [S] e/ou durante a digitação [D]. Por exemplo se uma
+substituição deve ocorre durante a digitação, mas não durante a reedição do documento via o comando
+“Formatar/AutoFormatação – “Aplicar”, então deixe vazia a opção "Substituir ao modificar o texto
+existente [S]"".
+
+
+
+Gerencia de Sistemas de Informações                                                              página 19
+Guia Aspas Personalizadas
+Onde encontrar esse comando...
+Menu – Ferramentas/AutoCorreção/AutoFormatação – Aspas Personalizadas
+
+Você pode alterar as aspas por um caracter que desejar, definindo assim os estilos de aspas que
+aparecerão no seu texto. Caso eu queira retornar aos caracteres padrão para representar aspas simples
+e/ou aspas dublas, basta pressionar “Padrão”.
+
+      Enquanto que aspas dublas são utilizadas para fazer referência a outro texto ou discurso, aspas
+      simples são utilizadas para designar uma referência de texto dentro de outra referência.
+
+
+Guia Completar Palavras
+Onde encontrar esse comando...
+Menu – Ferramentas/Auto Correção/Auto Formatação – Completar Palavras
+
+Nesta guia configuram-se as características para completar as palavras durante a digitação. Utilize essa
+guia para especificar como utilizar a complementação das palavras automaticamente e definir o número
+mínimo de caracteres e quais opções serão ativadas. Entre com o valor mínimo e o máximo de palavras que
+poderão ser incluídos. Palavras com número de letras inferior ao valor definido no campo “Tamanho mínimo
+de palavra” não serão incluídas. Todas as palavras com número de letras superior ao definido no campo
+citado, em todos os documentos abertos desde a inicialização do computador, serão reconhecidas. Assim
+que você digitar uma palavra novamente, a função “Completar Palavras” reconhecerá e completará a
+digitação para você. Se digitar uma palavra diferente da sugestão apresentada, simplesmente ignore a
+sugestão e continue digitando. Se você aceitar a sugestão, pressione “Enter”, barra de espaço”, “seta
+para direita” ou a tecla “End”, conforme definido pelo usuário no campo “Aceitar com” e
+automaticamente será completada a palavra.
+Pode ocorrer que a sugestão apresentada pelo Writer não é a que você necessita naquele momento. Isso
+ocorre porque muitas palavras possuem as mesmas letras iniciais. Para que as outras sugestões sejam
+apresentadas pressione “Ctrl + Tab”. Para continuar alternando as sugestões continue pressionando as
+teclas “Ctrl+Tab”.
+
+Reunir sugestões
+Marque este campo para acrescer a lista de sugestões. Esta lista é apresentada à direita e pode ser editada.
+
+Anexar espaço
+Marque essa opção para acrescentar um espaço após a palavra ser completada.
+
+Mostrar como Dica
+Marque essa opção para as sugestões serem apresentadas como um pequeno retângulo amarelo, próximo
+ao cursor.
+
+Use as teclas “Ctrl+Tab” (para avançar) ou "Shift+Ctrl+Tab" (para retroceder) entre a seqüencia
+sugestões.
+
+Aceitar com
+Defina com qual tecla deseja configurar o ”Completar Palavras”.
+
+Tamanho mínimo de palavra
+Define o número mínimo de caracteres para apresentar sugestões. O menor número possível é 5.
+
+Máximo de entradas
+Define a quantidade de palavras para gerar a lista de palavras.
+
+
+
+
+Gerencia de Sistemas de Informações                                                              Página 20
+Lista de palavras
+Esta lista controla todas as palavras e permanece até o Writer ser encerrado. Para salvar suas alterações,
+proceda da seguinte maneira:selecione todas as palavras - Selecione a primeira palavra, vá ao final da lista
+e selecione a última, com o “Shift” pressionado. Com as teclas “Ctrl+C” você copia as palavras para área
+de transferência, crie um novo arquivo – “Ctrl+N” e cole através das teclas “Ctrl+V” . Você agora terá um
+arquivo onde poderá editar seu conteúdo. Salve o arquivo com um nome sugestivo.
+Quando você for trabalhar novamente com um texto e necessite de várias dessas palavras, ative o comando
+“Reunir sugestões”, em seguida abra o arquivo que contenha com a lista de palavras de seu interesse.
+Seu arquivo será incluído na “lista de palavras”. Desative, agora, a opção “Reunir sugestões” e
+pressione “OK” . As sugestões, referentes ao seu arquivo, estarão disponíveis para os seus novos
+documentos.
+
+      Quando o comando“Verificação Automática” estiver habilitado, somente as palavras que forem
+      reconhecidas pelo comando “Verificar” serão controladas.
+
+
+Excluir Entrada
+Remove a palavra selecionada da lista.
+
+
+AutoTexto
+Se você utiliza muito algum tipo de texto, que sempre deve ser digitado novamente, pode lançar mão do
+”Auto-Texto”. Basta você digitar o seu texto, selecioná-lo, gravá-lo e defini-lo como sendo uma variável de
+auto-texto. Em seguida, é só utilizá-lo. Para inserir o texto no documento, pressione a referida tecla de atalho
+e em seguida, sem espaço, pressione “F3”.
+
+AutoTexto
+Onde encontrar esse comando...
+Menu – Editar/AutoTexto
+Ctrl+F3
+ícone relacionado
+
+
+      Você pode rapidamente acessar o “AutoTexto” apenas clicando no ícone na “Barra de Ferramentas”.
+      Se pressionar o ícone será apresentando um submenu das seções existentes. A abreviação e o nome
+      do auto texto aparecerá.
+
+Exibir resto do nome como sugestão durante a digitação
+Se você marcar esta caixa, a tecla de atalho será sugerida pelas letras iniciais de cada palavra. Caso haja
+uma entrada com essas iniciais, você será avisado pelo sistema. Para validar a sua entrada, basta alterar a
+tecla de atalho por uma válida.
+Se várias entradas começarem com o mesmo texto, como “setor”, por exemplo: setor de compras; setor de
+vendas; setor médico, você pode pressionar “Ctrl+Tab” para as outras entradas serem apresentadas.
+
+Nome
+Digite um nome relacionado com o texto para facilitar a identificação do mesmo caso você esqueça o
+conteúdo do “AutoTexto”.
+
+Atalho
+Digite as teclas que você usará para chamar o “AutoTexto”.
+
+
+
+
+Gerencia de Sistemas de Informações                                                                  página 21
+Inserir
+Pressione esse botão, o texto selecionado será inserido no texto na posição do cursor.
+
+      Outra maneira de inserir o texto no seu documento é utilizando a tecla de atalho e em seguida,
+      sem espaço, pressione “F3”.
+
+
+      O texto a ser inserido no meio de um parágrafo terá a configuração deste.
+
+
+Botão AutoTexto
+Pressione este botão para exibir os comandos de organização do “AutoTexto”.
+
+Novo
+O texto selecionado no documento é salvo no “AutoTexto”.
+
+Novo (somente texto)
+O texto selecionado no documento é salvo no “AutoTexto” sem a configuração de fonte, tamanho, etc.
+
+Copiar
+Copia o conteúdo de uma entrada de “AutoTexto” para “Área de Transferência”, em vez de colocá-lo
+diretamente no documento.
+
+Substituir
+Substitui o texto da chamada do “AutoTexto” pela seleção do documento.
+
+Substituir (somente texto)
+Substitui o texto da chamada do “AutoTexto” pela seleção do documento sem a configuração de fonte,
+tamanho, etc.
+
+Renomear
+Renomeia o nome da chamada de “AutoTexto” e/ou a tecla de atalho.
+
+Excluir
+Apaga o “AutoTexto” selecionado.
+
+Editar
+Esse comando permite alterar o conteúdo do “AutoTexto”. Após as alterações, salve o texto e feche o
+arquivo.
+
+Salvar vínculo relativo a
+Marque a opção “Sistema de Arquivos”.
+Utilize este área para configurar como o OpenOffice insere o vínculo com o diretório de AutoTexto.
+
+Sistema de arquivo
+O vínculo do Autotexto é relativo ao seu computador
+
+Internet
+O vínculo para o arquivo é relativo a internet
+
+Mostrar Visualização
+Apresenta o conteúdo do “AutoTexto”.
+         Obs.: “Macro”, “Importar” e os botões“Categorias” e “Caminhos” não serão objetos de estudo
+         deste curso.
+
+
+
+
+Gerencia de Sistemas de Informações                                                              Página 22
+VI - Aprimorando a Edição de Textos
+
+Este capítulo tem como principal finalidade enriquecer a apresentação do seu documento com comandos
+simples e de fácil aprendizado.
+
+Tabulações
+Onde encontrar esse comando...
+Menu Formatar/Parágrafo – Guia – Tabulações
+Régua
+Ícone relacionado -
+
+Define a posição a posição da tabulação dentro do parágrafo. Você pode escolher entre vários tipos
+(esquerda, direita, centralizado e decimal) e pode definir um caracter que antecede a tecla “Tab”. Como
+alternativa, você pode usar a régua para criar a tabulação, embora esse método não seja tão preciso.
+
+Posição
+Neste campo você define a posição da sua tabulação, digitando o número da posição desejada. Confirme o
+valor, clicando em “Novo”. Para eliminar uma tabulação ou todas, pressione “Excluir” ou “Excluir tudo”.
+
+Tipo
+define o tipo de tabulação que será utilizado. Observe a opção “Decimal”, logo abaixo encontra-se um
+campo denominado “Caracter” é aí que se define o caracter separador de decimal. No Brasil, utiliza-se a
+vírgula.
+
+Caracter de preenchido
+Aqui você define qual caracter será utilizado para preenchimento. O Writer apresenta três opções de
+preenchimento, mas você pode optar por outro no campo “Caracter”.
+
+      - Observe os mesmos símbolos da tabulação no lado esquerdo da “Régua” A cada clique você
+      altera o “tipo”. Clicando em qualquer posição na “Régua”, você criará uma tabulação.
+      - Para alterar a unidade de medida basta clicar com o botão direito do mouse sobre a “Régua” e
+      selecione a sua opção.
+
+
+
+Localizar & Substituir
+Onde encontrar esse comando...
+Menu - Editar/Localizar & Substituir
+Ctrl+L
+Ícone relacionado -
+
+Use este comando para encontrar texto e/ou formato e substituí-los quando necessários.
+
+Pesquisar por
+Digite neste campo o texto que está sendo procurado.
+
+Substituir por
+Digite a(s) palavra(s) para substituir o texto existente.
+
+Somente palavras inteiras
+Somente as palavras inteiras serão localizada
+
+
+
+
+Gerencia de Sistemas de Informações                                                          página 23
+Para trás
+A pesquisa começa no posição do cursor e continha em direção ao início do documento.
+
+
+Pesquisar por estilo
+Marcando essa opção você vai pesquisar por estilos e não mais por palavras. No campo “Localizar” estarão
+disponíveis apenas os estilos utilizado por você no documento. Já em “ substituir “ aparecerão todos os
+estilos disponíveis.
+
+      – Mesmo após ter fechado o comando “Localizar & Substituir” você pode continuar
+        controlando a pesquisa usando “Shift+Ctrl+F”.
+      – Expressões regulares”, “Pesquisa por semelhança” e “Atributos” não serão objetos de
+        estudo deste curso.
+
+
+Cabeçalho e Rodapé
+Onde encontrar esse comando...
+Menu – Inserir/Cabeçalho
+Menu – inserir/Rodapé
+
+Você pode inserir cabeçalho e rodapé e definir suas propriedades (altura e espaçamento em relação a
+margem). Cabeçalhos e rodapés são separados da área de trabalho e se repetem por todas as páginas do
+documento. Assim devemos preencher o cabeçalho e/ou rodapé com informações que devem aparecer em
+todas as páginas, ex. títulos, números de páginas e logos.
+
+Para configurar cabeçalho ou rodapé, pressione "Formatar/página" e escolha a "guia de cabeçalho" ou
+"Rodapé".
+
+
+•
+      Para alternar entre texto e cabeçalho, pressione “Ctrl+PgUp”.
+      Para alternar entre cabeçalho e rodapé, pressione “Ctrl+PgUp” e “Ctrl+PgDn”.
+
+
+
+Caracteres especiais
+Onde encontrar esse comando...
+Menu – Inserir/Caracter Especial
+Ícone relacionado -
+
+
+É possível inserir um ou mais caracteres especiais com esse comando. Para selecionar vários caracteres,
+pressione-os sucessivamente. Os caracteres serão mostrados na parte de baixo da “Carcteres”. Ao
+pressionar “OK”, todos os caracteres exibidos serão inseridos ao documento.
+
+      Uma forma alternativa para adicionar o caracter no documento é através de dois cliques rápidos
+      sobre caracter.
+
+
+
+
+Gerencia de Sistemas de Informações                                                           Página 24
+Inserir Moldura
+
+Use esse função para criar e editar colunas, trabalhar com gráficos e imagens. É muito comum você ver
+jornais utilizando esse recurso. Vamos conhecer um pouco mais sobre esse comando.
+
+Guia Tipo
+Onde encontrar esse comando...
+Menu – Inserir/Moldura - Tipo
+
+Nesta guia, define-se o tamanho e a posição do objeto na página. Essas referências podem ser em relação
+à moldura, gráficos ou outro objeto.
+
+Tamanho
+Define a ”Largura” e a “Altura” da moldura
+
+Relativo
+Marque essa opção para definir, em percentagem, a área ocupada pela moldura em relação à área de
+impressão.
+
+Manter proporções
+Marcando essa opção, modificações feita no objeto manterá a proporcionalidade. Esse comando é
+importante para evitar a distorção de gráficos e imagens.
+
+Altura automática
+Selecione essa opção para ajusta automaticamente a altura da moldura com o seu conteúdo. Se essa caixa
+de controle não foi marcada, o texto pode exceder a borda inferior da moldura e não será visualizado todo o
+texto contido na moldura. Neste caso, a moldura apresentará um seta vermelha.
+
+Âncora
+Define onde será ancorada a moldura. As opções são: “Até a página”, “Até o parágrafo”, “Até o
+caracter”. A último opção, define a âncora “Como caracter”. Quando essa opção é selecionada a moldura
+é tratada como um caracter, isto é, posicionada dentro do texto como um caracter normal. Para alterar a
+posição na horizontal da moldura acrescenta-se ou deleta-se caracteres na linha. Somente na vertical você
+poderá modificar a posição da moldura.
+
+Posição
+Você pode modificar a posição da moldura aqui. A posição é sempre relativa, e o elemento de referência
+pode ser página ou margem do parágrafo, dependendo da opção selecionada.
+
+      É possível visualizar no Menu “Formatar” comandos referentes a configuração de moldura. Basta
+      que já exista no seu documento uma moldura e essa esteja selecionada.
+
+
+Guia Ajuste
+Onde encontrar esse comando...
+Menu – Inserir/Moldura - Ajuste
+
+Ajusta um texto em volta do objeto. O objeto pode ser uma moldura, um gráfico ou uma figura. Você pode
+determinar a distância entre o texto e o objeto.
+
+Definições
+Define a localização do objeto junto ao texto.
+
+
+
+
+Gerencia de Sistemas de Informações                                                             página 25
+Opções
+Apresenta a opção de criar um parágrafo abaixo do objeto após pressionar “Ok”. A outra opção refere-se a
+transformar o conteúdo da moldura em segundo plano.
+
+Afastamento
+Aqui você pode definir o espaço entre a borda do objeto e o texto. Você entrar com valores diferentes para
+os espaços à esquerda, direita, topo e em baixo.
+      Para ajustar um texto em volta de uma tabela, coloque a tabela dentro de uma moldura.
+
+
+
+Guia Bordas
+Onde encontrar esse comando...
+Menu – Inserir/Moldura - Borda
+
+Nesta guia você pode configurar as bordas definidos diferentes estilos de linha e cores. As bordas podem
+ser definidas para páginas, molduras, gráficos, tabelas etc.
+
+Disposição das linhas
+Neste campo você define quais os lados da moldura que terá borda, ou se não haverá nenhuma borda.
+
+Linha
+Aqui você define a espessura da borda e a cor.
+
+Espaço até o conteúdo
+Define o espaço da borda até o texto. Caso deseje que o espaço seja o mesmo para todos as extremidades,
+marque a caixa de verificação “Sincronizar”.
+
+Estilo da sombra
+Neste campo você pode configurar a sombra de sua moldura. “Posição” da sombra em relação a moldura, a
+“Distância” e a “Cor” da sombra são as opções
+
+
+Guia Colunas
+Onde encontrar esse comando...
+Menu – Inserir/Moldura - Colunas
+
+É nesta guia que você define o número de colunas para o seu documento. Você também pode selecionar
+entre vários layouts através do visualizador, além de determinar o tipo, a altura, e a posição da coluna.
+
+Definições
+Entre com o número de colunas que serão inseridos ou clique no layout que desejar. A direita encontra-se o
+visualizador onde você terá uma idéia de como ficará a distribuição das mesmas.
+
+Largura e afastamento
+O campo “Coluna” é representado por duas setas, uma para direita, outra para esquerda e elas apenas
+estarão disponíveis se o número de colunas for superior a 3. Por padrão, as três primeiras colunas são
+apresentadas; pressionando a seta para direita uma vez, surgirá a coluna de número 4 e assim por diante.
+Observe que entre as setas existe um numeração referente ao posicionamento de cada coluna no
+documento.
+No campo “Largura”, nos são apresentadas a largura de cada coluna, esses valores são configuráveis.
+Logo abaixo temos o campo “Espaçamento”, esse permite alterar o intervalo entre as colunas.
+E finalmente aparece a caixa de verificação “Largura automática” que determina que todas as colunas
+tenha a mesma largura.
+
+
+
+
+Gerencia de Sistemas de Informações                                                            Página 26
+Linha separadora
+Aqui você configura o estilo, a altura e a posição da linha que separa as colunas.
+
+Estilista
+Utilize este comando para aplicar estilos em objetos e textos. Além de um série de estilos que acompanha o
+OpenWriter, você também pode criá-los ou mesmo alterá-los.
+
+Estilista
+Onde encontrar esse comando...
+Menu – Formatar/Estilista
+F11
+Ícone relacionado -
+
+
+O comando “Designer” possui um barra de ferramentas específica, vamos conhecer esses ícones;
+
+Inicialmente, temos representados os estilos
+
+Estilos de parágrafos
+Posicione o cursor no parágrafo, marque o estilo que deseja copiar, 2 cliques rápidos sobre o estilo e a
+alteração será efetuada. Não é necessário selecionar o parágrafo
+
+Estilos de caracter
+Selecione o texto que deseja alterar, selecione e clique duas vezes sobre o estilo e a alteração será
+efetuada. Altera-se apenas o que estiver selecionado.
+
+Estilos de moldura
+
+Com um clique na borda seleciona-se a moldura, clique duas vezes sobre o estilo e a alteração será
+efetuada. Altera-se apenas o que estiver selecionado.
+
+Estilos de páginas
+Basta o cursor está posicionado na página que deseja alterar a configuração, clique duas vezes sobre o
+estilo e a alteração será efetuada. Esse estilo trabalha com a estrutura da página.
+
+Estilos de numeração
+Posicione o cursor onde pretende acrescentar ou alterar a “Numeração” ou “Marcação”, clique duas vezes
+sobre o estilo e a alteração será efetuada.
+
+Preenchimento completo
+Selecione o estilo que possui a formatação que você deseja copiar. Clique no “Preenchimento completo” e
+selecione o texto onde deseja aplicar a formatação. Vale para qualquer estilo. Clique novamente no botão
+quando tiver concluído ou pressione “Esc”.
+
+Novo estilo a partir da seleção
+Para criar um estilo é muito simples. Selecione o objeto que deseja salvar como estilo. Pressione esse
+ícone e um caixa de diálogo “Criar estilo” aparecerá, digite o nome e pressione “OK”. Pronto, você acabou
+de criar um novo estilo.
+
+Atualizar estilo
+Abra o comando “Designer”, dentro documento, selecione o texto ou parágrafo que deseja adotar como
+estilo. Em “Designer”, selecione o estilo que deseja alterar com um simples clique, em seguida clique no
+ícone “Atualizar estilo”
+Outra maneira de atualizar o estilo é selecionando e arrastando o texto ou parágrafo. Após selecionar o
+objeto a ser adotado, arraste-o para dentro da caixa de “Designer” solte o botão do mouse quando você
+observar uma inserção de linha abaixo do estilo escolhido para atualização. Nesse momento, as alterações
+já passam a valer para o seu estilo.
+
+
+Gerencia de Sistemas de Informações                                                                página 27
+      Podemos trabalhar com “Modo de preenchimento de formato” de duas maneiras distintas: Dois
+      cliques rápidos sobre o estilo ou pressionando o ícone e marcando o objeto desejado.
+
+
+      Se a opção “Preenchimento completo” estiver ativada, um clique com o botão direito em
+      qualquer lugar do documento, desfaz a última ação desse comando. Atenção para evitar um clique
+      no botão direito do mouse acidentalmente e assim desfazer a ação que precisava ser mantida.
+
+
+
+Galeria
+Em Galeria você encontra vários gráficos em diretórios ordenados de acordo com os temas, você pode
+adicionar novos gráficos facilmente e pastas, que são chamadas de temas.
+
+Galeria
+Onde encontrar esse comando...
+Menu – Ferramentas/Galeria
+Ícone relacionado -
+
+
+Os temas são apresentados do lado esquerdo. Para cada tema selecionado, as imagens que ele contém
+serão apresentadas do lado direito. Para alternar a visualização da imagem entre vários objetos e apenas
+um, duplo clique sobre a figura ou barra de espaço. Use o arrastar e soltar para copiar a imagem para o
+documento.
+
+
+Barra de Objetos Padrão
+Para melhor entendimento, vamos definir a barra que apresenta ícones de fonte, parágrafo
+numeração/marcas, recuo, cor da fonte e preenchimento (destacar), etc., como sendo a “Barra de
+Objetos Padrão”. Essa diferenciação é necessária porque o OpenOffice apresenta barras sensíveis ao
+contexto.
+Assim, é possível que sejam apresentadas, em várias ocasiões, duas ou três barras de objetos. Quando
+isso ocorrer surgirá no limite direito da barra um pequeno triângulo preto. Para alternar entre as barras,
+basta pressionar esse botão.
+
+Ativar/Desativar Numeração ou Ativar/Desativar Marcas
+Onde encontrar esse comando...
+Barra de Objetos Padrão
+F12
+Ícones relacionados -
+
+
+
+Pressionando um desses ícones será inserido um número ou um símbolo representando a hierarquia entre
+os parágrafos. O mesmo ícone pressionado novamente, desfaz o comando.
+
+Botão que alterna a Barra de objetos.
+
+Imediatamente o botão que alterna a barra de objetos aparecerá no canto direito da Barra de Objetos
+Padrão.
+Vamos agora, conhecer os ícones da relacionados com a hierarquia de parágrafos.
+
+Desativar Numeração
+
+
+
+Gerencia de Sistemas de Informações                                                            Página 28
+Clique neste botão para desligar a numeração de hierarquia do parágrafo onde o cursor está posicionado, ou
+parágrafo selecionado.
+
+Um Nível Acima
+
+Clique neste botão para mover o parágrafo a um nível superior na hierarquia.
+
+Um Nível Abaixo
+
+Clique neste botão para mover o parágrafo a um nível inferior na hierarquia.
+
+Mover para Cima com sub parágrafos
+
+Move o parágrafo com os subpontos a um nível superior.
+
+Mover para Baixo com sub parágrafos
+
+Move o parágrafo com os subpontos a um nível inferior
+
+Inserir Entradas não Numerada
+
+Clique neste ícone para inserir um parágrafo sem numeração. A numeração inserida não será alterada. É
+possível continuar com a seqüência da numeração após esse parágrafo.
+
+Mover para Cima
+
+Será movido um parágrafo para cima
+
+Mover para Baixo
+
+Será movido um parágrafo para baixo.
+
+Mover para Cima com sub parágrafos
+
+Clique nesse ícone para mover um parágrafo com os subpontos acima.
+
+Mover para Baixo com sub parágrafos
+
+Clique nesse ícone para mover um parágrafo com os subpontos abaixo.
+
+Reiniciar Numeração
+
+Pressionando esse ícone a numeração dos parágrafo será reiniciada.
+
+Editar Numeração
+
+Esse ícone possibilita a configuração do comando “Numeração e Marcas”.
+
+
+
+
+Gerencia de Sistemas de Informações                                                            página 29
+VII – Tabelas
+
+Use esse comando para inserir uma tabela dentro do seu documento. Se o cursor já estiver posicionado
+dentro de uma tabela, o comando Formatar/Tabela apresentará opções para trabalhar com a tabela
+(sensível ao contexto).
+
+Tabela
+Onde encontrar esse comando...
+Menu – Inserir/Tabelas
+Ctrl+F12
+Ícone relacionado -
+
+Em “Inserir/Tabelas” temos os comandos básicos para configuração da tabela como: “Nome”. Na área
+“Tamanho” podemos definir a quantidade de colunas e linhas.
+
+Na área de “Opções” você especifica o comportamento da tabela que será inserida. Algumas alterações são
+disponíveis aqui para o usuário como:
+
+Cabeçalho
+Marque essa opção para a primeira linha de tabela tenha um configuração diferente.
+
+Repetir em todas as páginas
+Essa opção reproduz o cabeçalho em todas as páginas da tabelas.
+
+Não dividir tabela
+Para garantir que sua tabela, mesmo estando no final da página, seja dividida.
+
+Borda
+Caso queira que sua tabela apresente bordas, marque essa opção.
+
+
+Formatação Automática
+Pressionando esse botão, você encontrará vários layout de tabelas, pré-definidos.
+
+
+Formatar tabela
+
+Formatar tabela
+Onde encontrar esse comando...
+Com o cursor posicionado dentro da tabela
+Menu – Inserir/Tabela
+Menu – Formatar/Tabela
+Ctrl+F12
+Ícone relacionado -
+
+Se você já tem uma tabela inserida no documento e o cursor posicionado dentro da tabela, utilizando as
+teclas de atalho “Ctrl+F12”, ou “Inserir/Tabela”, ou ainda, “Formatar/Tabela”, você terá acesso ao
+comando “Formato de Tabela”. As guias que aparecem são as seguintes:
+
+Tabela
+Nesta guia é possível trabalhar com tamanho da célula, nome da tabela e alinhamento.
+
+Fluxo de texto
+Nesta guia você irá trabalhar com quebra manual, manter juntos parágrafos, divisão de tabela em fim de
+página, repetição de títulos e alinhamento vertical.
+
+
+
+Gerencia de Sistemas de Informações                                                          Página 30
+Colunas
+Essa guia trabalha com largura da tabela e da colunas.
+
+Borda
+Aqui temos a disposição das bordas, o tipo de preenchimento das bordas, espaço até o texto, estilo de
+sombra, onde você pode decidir, distância e cor de preenchimento da célula.
+
+Fundo
+Nesta guia é possível definir o preenchimento do fundo da célula ou da linha ou da própria tabela. Esse
+preenchimento pode ser com uma determinada cor ou mesmo uma imagem. Você ainda pode definir como
+que a imagem deve ser posicionada dentro da tabela.
+
+      Posicionado dentro da tabela surgirá a Barra de tabela, para alternar entre as barras basta
+      pressionar a seta azul do lado esquerdo. Retirando o cursor da tabela, também desaparecerá a
+      sua Barra de ferramentas. Outra maneira prática de se trabalhar é utilizando o botão direito do
+      mouse. Ele sempre apresenta um menu sensível ao contexto.
+
+      Para acrescentar uma tabela ao seu texto, pressione, entre outras alternativas, as teclas de
+      atalho “Ctrl+F12”. Esse mesmo comando apresentará diferentes alternativas caso pressionado
+      pela segunda vez. Obs.: o cursor tem que está posicionada dentro da tabela. O mesmo ocorre com
+      os comandos “Inserir/Tabelas” e “Formatar/Tabelas”.
+
+Texto <-> Tabela
+
+Se você quiser transformar um texto em uma tabela, basta selecionar o texto e pressionar “Ctrl+F12” ou o
+comando “Inserir/Tabelas”. Outro comando “Ferramenta/Texto<->Tabela”              além de transformar o
+texto em tabela e tabela em texto, diferentemente do demais comandos, traz algumas opções que permite
+uma conversão mais apropriada.
+
+Texto <-> Tabela
+Onde encontrar esse comando...
+Menu – Ferramentas/Texto <->Tabela
+Menu – Inserir/Tabela
+Ctrl+F12
+Na Caixa de diálogo “Converter tabela em texto” temos as seguintes áreas disponíveis:
+
+Separar texto em
+Apresenta como delimitador três opções fixas: tabulação, ponto e vírgula, parágrafo e o campo “Outros”,
+onde você poderá determinar qual será o delimitador. Determina também que todas as colunas tenham o
+mesmo tamanho.
+
+Opções
+Nessa área você tem a sua disposição as mesmas opções apresentadas no comando “Inserir/Tabela”.
+
+      Quando são inseridos valores na tabela eles são reconhecidos automaticamente, (data, número e
+      tempo). Você pode, no entanto, alterar essas configurações em “Ferramentas/Opções – Tabela”,
+      no quadro de “Entrada em tabelas”.
+
+
+
+
+Gerencia de Sistemas de Informações                                                          página 31
+VIII – Mala direta e Etiquetas
+
+Textos personalizados são mais persuasivos que os impressos em geral. Quando um documento dirige-se a
+você explicitando seu nome, endereço, cargo ou outros atributos pessoais traz a sensação de valorização do
+leitor, e transparece a preocupação individual com cada pessoa que recebe o documento. Esse documentos
+são geralmente gerados através de um banco de dados. Documentos que têm o mesmo conteúdo,
+diferenciando apenas nos dados pessoais, são denominados mala direta.
+
+Fonte de dados
+Onde encontrar esse comando...
+Menu – Ferramentas/Fonte de dados
+Menu – Arquivo/Modelos – Fonte do livro de endereços – Administrar
+
+Do lado esquerdo a caixa de diálogo, você verá a lista de fonte de dados que representam. O status de cada
+fonte de dados é indicado por símbolo:
+
+Sem alteração
+
+Excluído
+
+Novo banco de dados
+
+Banco de dados sendo editado
+
+
+Se você fechar a caixa de diálogo com "OK" ou se você clciar em "Aplicar", as mudanças executadas
+prevalecerão.
+Você pode criar um novo banco de dados, pressionando o botão "Nova fonte de dados" ou com o botão
+direito do mouse.
+Se você excluir um banco de dados e sair sem confirmar, o banco de dados será restaurado. As guias
+apresentam características de acordo com o banco de dados selecionado.
+
+Utilizando tabela como banco de dados.
+Inicialmente, vamos utilizar uma tabela como banco de dados. Em seguida, apresentaremos um exemplo
+utilizando um arquivo texto em substituição a tabela.
+O arquivo que está na tela pode ser utilizado como o documento principal ou o usuário pode optar por outro
+que já tenha a mensagem a ser enviada. De qualquer maneira esse documento é conhecido como
+documento principal.
+Observadas as considerações acima, clique em "Ferramentas / Fonte de Dados / Nova Fonte de
+Dados". Dê o nome mais apropriado para a sua nova fonte de dados e preencha os campos conforme as
+próximas orientações.
+
+
+
+
+Gerencia de Sistemas de Informações                                                            Página 32
+Guia Geral
+Nesta guia você seleciona o tipo de banco de dados.
+
+Nome
+Digite aqui o nome para o seu banco de dados.
+Tipo da banco de dados
+Aqui você define o tipo de banco de dados com que irá trabalhar, no caso, planilha.
+URL da fonte de dados
+Indique aqui o caminho do seu banco de dados.
+
+GuiaTabelas
+Nesta guia você deverá se preocupar em selecionar, caso haja mais de uma, as tabelas que lhe interessam
+na atual Mala Direta.
+
+      -Um único arquivo de planilha pode possuir várias tabelas.
+      -Só estarão disponíveis para a elaboração da mala direta ou das etiquetas aquelas tabelas que
+      forem definidas pelo usuário na guia Tabelas.
+
+Deste ponto até a conclusão da nova fonte de dados, o comandos são os mesmos , tanto para tabelas
+como para texto. Assim , retornaremos ao início da operação e vamos trabalhar com um arquivo txt.
+
+Utilizando arquivo texto como banco de dados.
+Vamos destacar as mudanças ocorrida pela substuição da planilha por um arquivo texto.
+
+
+
+
+Guia Geral
+Em "Conexão" – "Tipo de Banco de Dados", escolha a opção "texto".
+ Em "Conexão" – "Url da Fonte de Dados", defina o caminho que aponta para a localização do arquivo.
+Aqui não se determina qual é o arquivo.
+Clique em Aplicar e vá para a...
+
+
+Guia texto
+Esta guia só se apresenta quando estamos trabalhando com arquivo texto. Apenas defina o campo
+"Conjunto de caracteres" como "ANSI". Os demais campos não serão alterados.
+
+
+
+
+Gerencia de Sistemas de Informações                                                          página 33
+      - Só estarão disponíveis para a elaboração da mala direta ou das etiquetas aquelas tabelas que
+      forem definidas pelo usuário na guia Tabelas.
+      - Na guia Tabelas, mesmo que o arquivo seja um txt, será chamado de tabela.
+
+
+Guia Tabelas
+Aqui, marque o(s) arquivo(s) que possuem os dados que nos interessam.
+Feito isso, você está preparado para inserir os campos em sua mala direta.
+      As guias “Consulta” e “Vínculos” não serão objetos de estudo deste curso.
+
+
+Campos
+Aqui você introduz os campos relativos ao seu banco de dados na mala direta. Define o posicionamento de
+cada campo e o layout de seu documento.
+
+Campos
+Onde encontrar esse comando...
+Menu – Inserir/Campos – Outros
+Se nada estiver selecionado, duplo clique no canto direito da Barra de Status
+Ctrl+F2
+Ícone relacionado -
+
+
+Com o documento principal aberto, posicione o cursor no local apropriado. Em seguida, clique em
+"Inserir/Campos/Outros", marque a guia "Banco de dados". Faça a insercão dos campos “tratamento”;
+“nome” e “logradouro”. Observe a janela do menu “Inserir/Campos/Outros", abaixo.
+•
+
+
+
+
+Na Guia Banco de Dados, clique duas vezes no banco de dados que você estiver utilizando, no caso foi
+expandido o “Dados Pessoais”. Em seguida, será visualizada a planilha existente e logo abaixo os campos
+disponíveis que poderão ser inseridos no seu documento principal.
+
+
+Gerencia de Sistemas de Informações                                                          Página 34
+Após a seleção dos campos, clique no botão "Inserir". Repita esse procedimento para cada campo que
+desejar inserir. Após inserir todos os campos desejados, feche a caixa de diálogo "Campos".
+Observe os campos inseridos no seu documento principal. Formate-os da forma como desejar: alterando a
+fonte, espaçando linhas, mudando o alinhamento, etc...
+
+
+Utilizando o comando "SE"
+Caso você queira alterar um determinado campo (por exemplo, o campo “tratamento”) de sua base de
+dados quando da geração de uma Mala Direta, existe uma configuração prévia que pode ser feita na janela
+Inserir / Campos / Outros / Funções. A sintaxe a ser obedecida é a seguinte: primeiro, coloca-se o nome
+do campo, depois duas vezes o símbolo “=”, em seguida o conteúdo do campo entre aspas e as condições.
+Ao final, clique em Inserir. Veja abaixo a janela preenchida conforme a explicação anterior. Obs.: Insira, no
+local do campo tratamento, somente a função.
+
+
+
+
+Mala Direta – Impressão
+
+É nesta fase que determinamos qual será a saída que daremos aos nossos dados. Podemos escolher gerar
+os dados para arquivos e posteriormente imprimí-los, ou podemos gerar as cartas enviando diretamente
+para a impressora.
+
+Mala Direta - Impressão
+Onde encontrar esse comando...
+Menu – Ferramentas/Mala Direta/a partir deste documento
+Ícone relacionado -
+
+
+Todas as funções para imprimir a mala direta podem ser encontradas aqui. Selecione o banco de dados
+que contém os dados desejados e por fim comece o processo de impressão.
+
+      Para que a opção de impressão seja habilitada é necessário que o documento principal esteja
+      aberto. Caso contrário, o comando se transformará em um assistente para criação da fonte de
+      dados.
+
+Configurando a impressão:
+Assinalando a opção "Impressora", você imprime os registros: integralmente (todos); ou uma faixa de
+registros à sua escolha.
+
+
+
+Gerencia de Sistemas de Informações                                                               página 35
+Assinalando a opção Arquivo serão gerados arquivos equivalentes ao número de registros existentes no
+banco de dados selecionado (ex.: 100 registros = 100 arquivos do Writer, ordenados numericamente – a
+partir do 0 - de acordo com o nome escolhido). Os nomes dos arquivos poderão ser escolhidos a partir de
+algum campo do banco de dados ou através de configuração manual (você escolhe o nome).
+
+Registro
+Você pode determinar o número de registros para impressão. Uma carta será impressa para cada registro.
+
+Todos
+Todos os dados de sua base serão processados.
+
+Registros selecionados
+Serão considerados apenas os registros selecionado. Essa opção só ficará disponível após a seleção dos
+registros.
+De Para
+   Nesses campos você seleciona o intervalo dos registros para impressão.
+
+Saída
+Nesta área da caixa de diálogo, você define a saída dos seus dados. Pode ser direto para impressora, para
+arquivo e podendo posteriormente ser impresso ou se você vai enviar via e-mail. Observe que as opções
+correspondem ao meio de saída definido.
+
+•   Impressora
+    Selecione essa opção para imprimir diretamente a sua mala direta.
+•
+•   Arquivo
+    Selecione essa opção para salvar em disco os arquivos gerados. Cada registro gera um arquivo
+•
+•   Caminho
+    Determine o caminho onde será criada a mala direta.
+•
+•   Campo base de dados
+    Marque essa opção e selecione o campo que terá seu nome como nome dos arquivos da mala direta.
+•
+•   Configuração manual
+    Aqui você define o nome para os arquivos da mala direta.
+•
+•   Tarefas de impressão individuais
+    Marque essa opção para imprimir individualmente cada carta.
+•
+
+       Caso o comando de impressão seja executado novamente, os arquivos gerados inicialmente não
+       serão subscritos, serão gerados outros, alterando a numerçao seqüencial. Assim é importante que
+       o diretório onde os arquivos serão gerados, esteja vazio.
+
+
+
+Etiquetas
+O procedimento para gerar etiqueta é praticamente o mesmo com A observância de 2 alterações
+importantes.
+Primeira diz respeito ao layout do documento principal. É necessário observar a quantidade de etiquetas que
+serão inseridas na página e o tamanho da página. Através do comando "Tabelas" defini-se o tamanho da
+célula que representará o tamanho de cada etiqueta. A GSI já criou os layouts padrões. Eles se encontram
+em c:\meus documentos\layouts do openoffice
+E por último, o campo "Próximo Registro", disponível no lado esquerdo, em "Tipo", da Guia Banco de
+Dados, deverá ser inserido ao final de cada etiqueta, exceto na última etiqueta da página.
+
+
+
+
+Gerencia de Sistemas de Informações                                                             Página 36
+O comando "CTRL+F9", alterna entre o nome do campo e o seu conteúdo. O campo "Próximo Registro"
+não é visível no documento mestre quando estamos visualizando os nomes dos campos. Assim, para ter
+certeza que o referido campo foi inserido basta utilizar o comando "CTRL+F9" . As duas próximas figuras
+apresentam as duas visualizações possíveis. Observe que na primeira imagem o comando "proximo
+registro" não aparece, já na segunda, utilizando o comando que alterna entre o nome do campo e o seu
+conteúdo, podemos visualizar claramente o campo "proximo registro".
+
+
+
+
+Gerencia de Sistemas de Informações                                                         página 37
+IX - Cartela de Comandos
+
+
+                    COMO ERA NO WORD E COMO FICOU NO WRITER
+Comando                         No Word                     No Writer
+
+Formatação de página            Arquivo/formatar/página     Formatar/página
+
+Estilista                       Ferramenta Pincel           Estilos - F11
+
+Tecla para cria autotexto       Alt + F3                    Ctrl +F3
+
+Autotexto                       Inserir/Autotexto           Editar/AutoTexto
+
+Navegar (ir para)               Ctrl + Y                    F5
+
+Figuras e clipart               Inserir/figuras             Ferramentas/galerias
+
+Comando mala direita            Ferramentas/Mala direta     Ferramentas/Fonte de dados
+
+                                                            Sensível ao contexto - Menu
+Tabelas                         Tabelas
+                                                            Formatar/Tabela
+
+
+
+
+          O QUE HÁ DE NOVIDADE NO WRITER EM RELAÇÃO AO WORD 97
+Comando                     Ação
+
+                            Preenche com marca de final de parágrafo até a posição do
+Cursor Direto Lig/des
+                            cursor
+Nome da fonte               Mostra o nome da fonte e o seu formato
+Janelas                     Trabalha com instâncias independentes para cada documento
+Abrir                       Abre qualquer documento do OpenOffice pelo Writer
+Mala direta                 Gera um arquivo para cada registro
+Visualizar impressão        Imprime várias páginas do documento em uma única folha
+Formatar/Caracter Efeitos
+                            Cria relevo e baixo relevo na fonte
+de fontes - relevo
+
+Formatar/Caracter Efeitos
+                            Cria contorno na fonte
+de fontes - contorno
+
+
+
+
+Gerencia de Sistemas de Informações                                                  Página 38
+                       TECLAS DE ATALHO MAIS UTILIZADAS
+Comando                    Ação
+
+CTRL + A                   Abre um documento
+
+CTRL + B                   Salva o documento
+
+CTRL + C                   Copiar
+
+CTRL + E                   Centralizar parágrafo
+
+CTRL + I                   Itálico
+
+CTRL + J                   Justificar parágrafo
+
+CTRL + L ou CTRL + F       Localizar e Substituir
+
+CTRL + N                   Negrito
+
+CTRL + O                   Arquivo novo
+
+CTRL + P                   Imprimir
+
+CTRL + Q                   Sair
+
+CTRL + R                   Alinhar parágrafo à direita
+
+CTRL + S ou CTRL + D       Sublinhado
+
+CTRL + T                   Seleciona célula,tabela e todo texto
+
+CTRL + U                   Buscar e Localizar
+
+CTRL + V                   Colar
+
+CTRL + X                   Cotar
+
+CTRL + Z                   Desfazer
+
+CTRL + F12                 Inserir tabelas
+
+SHIFT + F2                 Letras minúsculas
+
+SHIFT + F3                 Letras maiúsculas
+
+F1                         Ajuda
+
+F3                         Autotexto
+
+F4                         Navegador fontes de dados
+
+F5                         Navegador
+
+F7                         Correção ortográfica
+
+F11                        Estilos
+
+F12                        Hierarquia de arquivos – tópicos
+
+
+
+
+Gerencia de Sistemas de Informações                               página 39
+O
+
+
+
+
+Visualizando e ocultando janela ancorada.
+Antes de prosseguir com os comandos da mala direita, vamos aprender a trabalhar com Janela ancorada.
+Essa opção nos será muito útil quando da utilização do “Navegador de Fonte de Dados”.
+
+Fixar/Flutuante
+
+Na margem da janela ancorada, existe um botão com a imagem de um pino. Ele é usado para fixar a janela,
+ou para permite a janela flutuar. Muitas vezes a janela, por ocupar uma parte significativa da área de edição,
+torna desconfortável o trabalho de edição. É exatamente para facilitar a visualização do documento que
+iremos utilizar esse botão.
+
+Mostrar
+
+Esse botão oculta ou exibe a janela ancorada, mesmo que ela esteja como “flutuante”.
+Outra maneira de exibir a janela é dar um clique no espaço livre ao lado destas imagens. A janela surgirá
+momentaneamente. Após alguns segundos, se não for utilizada, a janela desaparecerá automaticamente.
+
+      Além do “Navegador de Fonte de Dados”, outros recursos também utilizam “Janela ancorada”
+      que são: “Estilos”,”Galeria” e “Visualização de página”.
+
+
+
+
+Gerencia de Sistemas de Informações                                                                Página 40
+

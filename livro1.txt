@@ -1,0 +1,2772 @@
+                           Evolução da Internet no Brasil e no Mundo
+
+
+
+        Ministério da Ciência e Tecnologia
+
+ Secretaria de Política de Informática e Automação
+
+
+
+
+Evolução da Internet no Brasil e no Mundo
+
+
+                Assessoria SEPIN
+
+
+
+
+                                                  Coordenação:
+                                            Luzia Maria Mazzeo
+
+                                                Pesquisadoras:
+                                                 Sônia Pantoja
+                                             Rosângela Ferreira
+
+                                              Editoração Visual:
+                                                  Sônia Pantoja
+                    Abril/2000
+
+
+                                                                  1
+Evolução da Internet no Brasil e no Mundo
+
+
+
+
+                                       2
+                                 Evolução da Internet no Brasil e no Mundo
+
+
+
+
+    Índice
+
+
+Apresentação____________________________________5
+1. Evolução da Internet no Brasil e no Mundo___________7
+   1.1.Usuários conectados na Internet_______________ 8
+   1.2.Crescimento da Internet ____________________ 12
+   1.3.Empresas Provedoras de Acesso e de Informação
+      (e-business) ______________________________ 14
+   1.4. Internet no Governo Brasileiro _______________ 18
+   1.5.Internet na Escola _________________________ 20
+   1.6.Internet nos Bancos _______________________ 22
+   1.7. Internet no Desenvolvimento Científico ________ 25
+   1.8. Internet via celular - WIRELESS _____________ 26
+   1.9. Internet no Cinema ________________________ 30
+   1.10. Internet nos Táxis _______________________ 31
+   1.11. Participação Feminina na Internet __________ 31
+2. INTERNET: A questão da segurança _____________ 33
+3. Internet x Propriedade Intelectual________________ 37
+   3.1. A Lei do Ciberespaço ______________________ 38
+   3.2. Códigos Livres ___________________________ 39
+   3.3. Em defesa da privacidade __________________ 41
+
+                                                                        3
+                                 Evolução da Internet no Brasil e no Mundo
+
+
+
+4. Compras na Internet (e-commerce) ____________ 47
+5. Internet Grátis _____________________________ 53
+   5.1. Falhas de segurança em provedores gratuitos 56
+6. Prestação de Serviços na Internet _____________ 59
+7. Internet x TV Interativa:______________________ 63
+8. Internet 2_________________________________ 65
+9. Conclusão________________________________ 75
+10. Fontes: _________________________________ 79
+
+
+
+
+                                                                        4
+                                   Evolução da Internet no Brasil e no Mundo
+
+
+
+
+      Apresentação
+
+
+
+      D   e acordo com Peter Drucker, “o impacto verdadeiramente
+          revolucionário da Revolução da Informação está apenas
+começando a ser sentido”. Um espetacular surto de crescimento
+pode ser visualizado no mundo atual e não está baseado num
+processo de desenvolvimento irreal ou fantasioso.
+
+       A chamada “Nova Economia” (crescimento acelerado com
+menor inflação) reflete uma disposição de empreender maciços
+investimentos de risco na inovadora tecnologia da informação,
+associada a um processo de reorientação dos mercados financeiros,
+governos e corporações que visam, especialmente, um processo de
+redução de custos e um aumento da flexibilidade e eficiência.
+
+       Mas, de acordo com a Gazeta Mercantil (fev.2000), “uma
+Nova Economia planetária não se instaurará da noite para o dia. Os
+gastos com tecnologia, a parte mais visível da Nova Economia,
+estão, sem dúvida, crescendo em todas as áreas, embora não
+tenham ainda alcançado os níveis dos EUA. As vendas mundiais de
+semicondutores subiram 17% em 1999, enquanto o número de
+usuários da Internet deverá mais que duplicar na Europa Ocidental e
+na região da Ásia-Pacífico durante os próximos cinco anos. Mesmo
+num país em desenvolvimento como a Índia, o setor de software
+está crescendo a uma taxa anual de 50% a 60%. Mas a proliferação
+mundial da telefonia móvel e das assinaturas de Internet não
+instaurará, por si só, uma economia mundial mais vibrante. O que é
+necessário também são mudanças drásticas nas instituições
+fundamentais que vão traduzir essa tecnologia num crescimento
+mais acelerado da produtividade. Isso implica mercados financeiros
+mais capazes de financiar a inovação, maior flexibilidade das
+
+                                                                          5
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+empresas e mercados de trabalho, ritmo mais acelerado da
+desregulamentação e intensificação da competição. ‘A Nova
+Economia se alicerça nas antigas virtudes: frugalidade, investimento
+e liberdade de mercado’, diz o Secretário Americano do Tesouro
+Lawrence H. Summers”.
+
+       Pensando em todas estas mudanças, a Assessoria da SEPIN,
+está propondo uma forma de acompanhar todo este processo de
+desenvolvimento, efetuando Estudos que possam colaborar, um
+pouco que seja, para a disseminação da informação no ambiente
+interno da SEPIN.
+
+       Este Estudo, portanto, constitui-se na nossa primeira
+tentativa. Escolhemos o tema “Internet” por ser um assunto de
+interesse geral. Mas, estamos abertos a sugestões de futuros temas
+para pesquisa, por parte dos funcionários da SEPIN, que se
+constituam em assuntos de interesse para nossa instituição.
+
+       Gostaríamos de esclarecer que o desenvolvimento deste
+trabalho constituiu-se num esforço de pesquisa, junto à Internet,
+Jornais, Revistas e outras fontes, efetuados pelas funcionárias Sônia
+Pantoja e Rosângela Ferreira, sob a coordenação de Luzia Maria
+Mazzeo e, não tem a intenção de ser completo em seu conteúdo e
+sim, apenas, uma tentativa de informação adicional à todos os
+funcionários da SEPIN.
+
+      Esperamos, portanto, contar com a compreensão, incentivo e
+colaboração de todos à esta primeira tentativa de Estudo.
+
+
+
+   Assessoria/SEPIN
+
+
+
+                                                                           6
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+
+          1. Evolução da Internet no Brasil e no Mundo
+
+
+      A       grande conquista do milênio foi o surgimento da Rede
+             Mundial de Computadores. A Internet nasceu da soma de
+pequenas       conquistas   tecnológicas    feitas   por  cientistas
+extraordinários. Uma das mais vitais para o funcionamento da rede é
+a capacidade de um único computador dividir sua atenção com
+diversos usuários no mesmo instante, num processo conhecido
+como tempo compartilhado. Michael Dcitouzos, uma das melhores
+cabeças do Instituto de Tecnologia de Massachusetts, contribuiu
+para isso acontecer no começo dos anos 60. Sem essa habilidade,
+os chamados roteadores, computadores que controlam e direcionam
+o tráfego na Internet lidando simultaneamente com milhares de
+impulsos, não poderiam existir. Com a Guerra Fria os americanos
+optaram por montar uma rede sem hierarquia, com interconexões
+redundantes, uma espécie de ninho de serpente com milhares de
+cabeças e ao mesmo tempo sem cabeça alguma. De modo que se
+os soviéticos jogassem uma bomba sobre Washington ou qualquer
+outra grande cidade a rede de computadores continuaria
+funcionando sem interrupção. Essa foi a planta sobre a qual a
+Internet foi construída.
+
+         Todos já sabemos das enormes transformações que a
+Internet vem causando    nas comunicações, no trabalho, no
+comércio, no entretenimento. Essa rede de computadores
+descentralizada, quase anárquica, é um verdadeiro fenômeno
+mundial.
+
+         O Brasil não está alheio a essa "revolução". Pelo contrário,
+estamos entre os dez países que mais utilizam a Internet. O número
+de internautas brasileiros ultrapassa seis milhões. Os serviços
+
+                                                                           7
+                                                  Evolução da Internet no Brasil e no Mundo
+
+
+
+bancários (home banking) são um dos mais adiantados do mundo.
+Também podemos sentir um crescimento acentuado no comércio
+eletrônico (e-commerce), considerando que a Internet comercial no
+país tem menos de cinco anos.
+
+       Desde a entrada da sua versão comercial, a rede fez aparecer
+mais profissões que quatro décadas de inovações tecnológicas não
+tiveram êxito de criar. No Brasil, nos últimos quatro anos, foram
+abertas 60.000 vagas só em provedores de acesso, na avaliação da
+ABRANET, associação que reúne essas empresas. O International
+Data Corporation, IDC, calcula em mais de 770.000 as pessoas
+contratadas nos Estados Unidos apenas em 1999 pela indústria de
+tecnologia da informação. Para 2002, a previsão é de 850.000
+empregos em solo americano e mais de 2 milhões para o resto do
+mundo. O IDC calcula ainda, que só na Europa 1,4 milhão de vagas
+na indústria da tecnologia da informação deixarão de ser
+preenchidas por falta de mão-de-obra qualificada.
+
+        Alguns economistas acreditam que o Brasil terá de fazer um
+grande esforço para melhorar a educação, já que o ingresso para se
+juntar à revolução da informação depende de profissionais
+qualificados.
+
+      "O grande desafio da Internet é conectar quem está fora dela
+por motivos econômicos ou ideológicos"1
+
+           1.1. Usuários conectados na Internet
+
+       A Internet, já neste início do ano 2.000, surge como o mais
+vigoroso motor da economia mundial. O desenvolvimento acelerado
+desta rede mundial está engolindo a economia tradicional, fazendo
+surgir uma nova, antecipando o futuro. A Internet passou a ser
+
+1
+    Revista Veja Vida Digital , Pág. 86, dezembro 1999.
+
+                                                                                         8
+                                        Evolução da Internet no Brasil e no Mundo
+
+
+
+encarada definitivamente como um meio de comunicação de massa
+cujo potencial está mexendo com os fundamentos de tudo nesse
+setor - do rádio à televisão, da mídia impressa ao cinema. A
+associação de empresas da Internet tem um potencial ilimitado,
+reunindo produtores de conteúdo com canais de acesso abertos a
+milhões de pessoas, colocando um vasto e rico conteúdo ao alcance
+de todos os seus usuários.
+
+       É muito difícil sabermos quantos usuários estão realmente
+ligados à Internet, levando-se em conta que esse número muda
+constantemente. Calcula-se que, em 1996, havia cerca de 50
+milhões de usuários e hoje esse número passa dos 275 milhões.
+
+   Usuários conectados à Internet no mundo
+
+                                                    Em milhões
+
+      Mundo Todo                                      275.54
+
+      África                                           2.46
+      Asia/Pacifico                                   54.90
+      Europa                                          71.99
+      Oriente Médio                                    1.29
+      Canadá & USA                                  136.06
+      América do Sul                                   8.79
+
+      Fonte: http://www.nua.ie/surveys/how_many_online/index.html
+
+       Nos Estados Unidos, as pesquisas indicam que mais de 40%
+das casas têm computador instalado, dos quais metade está ligada à
+Internet. A tendência é um aumento cada vez maior destes números,
+com amplas oportunidades de novos negócios.
+
+
+
+                                                                               9
+                                                               Evolução da Internet no Brasil e no Mundo
+
+
+
+      Na África o deserto tecnológico é grande, levando-se em
+consideração que menos de 30% da população estão nas grandes
+cidades. Em um continente que reúne mais de 10% dos habitantes
+do mundo, há 0,31 computador e 2,2 telefones para cada 100
+habitantes, torna-se difícil uma política de desenvolvimento com
+base na tecnologia da informação2.
+
+
+                                    Pessoas conectadas à Internet
+               Ranking
+               1º          EUA                                                                           106,3
+               2º        JAPÃO                          19,5
+               3º GRÃ-BRETANHA                  13,98
+               4º      CANADÁ
+                                                12,7                                            em milhões
+               5º    ALEMANHA                   12,29
+               6º        CORÉIA            10
+               7º         ITÁLIA          9
+               8º         CHINA           7
+               9º   AUSTRÁLIA            6,84
+              10º        BRASIL      6,79
+              11º        FRANÇA      6,2
+              12º        RUSSIA       5,4
+              13º        TAIWAN     4,79
+              14º        SUÉCIA     3,95
+
+              15º     HOLANDA       3,8
+                                                               Fonte: NUA Internet Surveys - (Dados de Dez/99)
+              16º     ESPANHA      3,1
+
+
+
+
+O Brasil, apesar de todo o progresso tecnológico, tem
+aproximadamente 4% da população com acesso à Internet. De
+acordo com o NUA, hoje ocupamos a décima posição no ranking
+mundial, com 6,79 milhões de pessoas conectadas à Internet.
+Segundo a Associação Mídia Interativa (AMI), organização que
+estuda investimentos em publicidade virtual, o número de
+
+2
+    Revista Veja Vida Digital, dezembro 1999.
+
+                                                                                                                 10
+                                          Evolução da Internet no Brasil e no Mundo
+
+
+
+internautas brasileiros deverá chegar a 10 milhões até dezembro
+deste ano 3.
+
+       O número de internautas cresceu 1.2 milhão nos últimos dois
+meses. As principais causas deste crescimento foram o aumento da
+infra-estrutura (como a expansão da rede de telefonia fixa), o maior
+uso do computador e a chegada dos provedores gratuitos, conforme
+pesquisa Internet POP(6ª pesquisa), realizada pelo IBOPE
+
+       Ainda na 6ª pesquisa IBOPE , apresentou-se o
+comportamento e as preferências dos usuários em cada região. Em
+São Paulo, por exemplo, o número de internautas aumentou de 11%
+em dezembro de 99 para 14% em fevereiro de 2000. Já em
+Fortaleza este crescimento foi de 2%, passando de 8% para 10% . E
+no Rio de Janeiro, de 3% , passando de 7% para 10% no mesmo
+período.
+
+       Em pesquisa realizada pelo IBOPE (5ª pesquisa) nas 9
+principais praças do País (São Paulo, Rio de Janeiro, Curitiba, Porto
+Alegre, Belo Horizonte, Distrito Federal, Salvador, Fortaleza e
+Recife), apenas 28% das pessoas entrevistadas possuíam um
+computador em casa ou no trabalho. Portanto, mais de 70% dos
+entrevistados ainda não usufruíam dessa ferramenta.
+
+      Em contrapartida, a pesquisa constatou também que houve,
+entre Março/98 e Dezembro/99, um crescimento do parque de
+microcomputadores com capacidade de acesso à Rede no País,
+passando de 40% para 53%. Sendo que esse percentual saltou de
+48% para 53% somente no período de Junho/99 a Dezembro/99.
+
+      Entre as mais de 15 mil pessoas entrevistadas, 704 disseram
+possuir um computador e linha telefônica no domicílio, mas nunca
+
+3
+    Yahoo Notícias, 12 de Abril de 2000
+
+                                                                                11
+                                                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+tiveram acesso a Internet. Desses 704 entrevistados, 64% afirmaram
+que gostariam de ter acesso à Rede.
+
+
+
+      1.2. Crescimento da Internet
+
+      Número de Domínios no Brasil
+
+                               Serviço Internet no Brasil
+                               Número de Domínios/2000
+
+                        200.000                   Crescimento                                174.163
+                                                  . com 2.236%                   149.884
+                        160.000                   . br 2.199%
+                        120.000
+
+                         80.000
+                                                                      68.393
+
+                         40.000                       25.804
+                                        7.574
+                               0
+                                        1996           1997            1998       1999        2000*
+             Outros                                      71           2.993       6.264       8.592
+             edu.br                      297            513                854    1224        1.278
+             mil.br+org.br+net.br        313            965           2.265       4.068       4.326
+             gov.br                      134            201                319    402          411
+             com.br                    6.830          24.054          61.962     137.926     159.556
+
+                                                                                  *Dados de 17/02/00
+                           Fonte: FAPESP (registro.br/estatisticas.html)
+
+
+      O número de domínios no Brasil teve um crescimento de
+2.199%, saltando de 7.574 em 1996 para 174.163 em fevereiro de
+2000; sendo que o domínio comercial (.COM) continua tendo o maior
+crescimento entre os domínios de primeiro nível (DPN), somando um
+crescimento de 2.236%. neste período.
+
+
+
+
+                                                                                                          12
+                                      Evolução da Internet no Brasil e no Mundo
+
+
+      Número de Hosts no Brasil
+
+        Quanto ao número de hosts, o Brasil apresentou um
+significativo crescimento, passando de 74.458 para 461.875 no
+período de 1996 a 1999. Na classificação dos países por número de
+hosts, o Brasil encontra-se em 13º lugar.
+
+
+
+
+                        Serviço Internet no Brasil
+                            Número de Hosts
+                                               461.875
+
+
+
+
+                                   224.916
+
+                         131.001
+               74.458
+
+
+
+               1996       1997      1998        1999     Fonte: FAPESP
+
+
+
+
+                                                                            13
+                                                             Evolução da Internet no Brasil e no Mundo
+
+
+
+
+                                       Classificação dos Países por
+                                            Número de Hosts
+                     1º    Estados Unidos       53.167.229      16º   Noruega         401.889
+
+                     2º    Japão                 2.636.541      17º   Dinamarca       336.928
+
+                     3º    Reino Unido           1.901.812      18º   Bélgica         320.840
+
+                     4º    Alemanha              1.702.486      19º   Suíça           306.073
+
+                     5º    Canadá                1.669.664      20º   Coréia          283.459
+
+                     6º    Austrália             1.090.468      21º   Áustria         274.173
+                                                                22º   Nova Zelândia   271.003
+                     7º    Holanda                820.944
+                                                                23º   Rússia          214.704
+                     8º    França                 779.879
+                                                                24º   Polônia         183.057
+                     9º    Itália                 658.307
+                                                                25º   África do Sul   167.635
+                     10º   Finlândia              631.248
+                                                                26º   Singapura       148.249
+                     11º   Taiwan                 597.036
+                                                                27º   Argentina       142.470
+                     12º   Suécia                 594.627
+                                                                28º   Israel          139.946
+                     13º   Brasil                 446.444
+                                                                29º   Hong Kong       114.882
+                     14º   Espanha                415.641
+                                                                30º   Hungria         113.695
+                     15º   México                 404.873
+
+
+                                            Fonte: Network Wizards - Jan/2000
+
+
+
+
+          1.3. Empresas Provedoras de Acesso e de
+               Informação (e-business)
+
+       Há cinco anos, quando os primeiros brasileiros se conectaram
+à Internet, a tarifa de acesso era quase proibitiva. Os provedores,
+empresas que surgiram para fazer a ligação entre as casas e o
+mundo virtual, cobravam, em média, o equivalente a 45 dólares por
+mês. A concorrência, a chegada de grupos estrangeiros e o
+surgimento de novas tecnologias estão fazendo o país entrar no ano
+2.000 com uma mensalidade média de 12 dólares. Menor que nos
+Estados Unidos, onde esse valor chega a 20 dólares. 4
+
+
+
+
+4
+    Revista Veja Vida Digital, página 56, Dezembro 99
+
+                                                                                                   14
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+       De acordo com a ABRANET - Associação dos Provedores de
+Acesso, o número de assinantes dos provedores de acesso à
+Internet eram de 2.2 milhões e os usuários chegaram a 4 milhões,
+em 1999.
+
+
+            Anos           Assinantes             Usuários
+     1995 (setembro)            200.000                250.000
+     1996                       450.000                600.000
+     1997                       850.000               1.100.000
+     1998                      1.600.000              2.200.000
+     1999                      2.200.000              4.000.000
+
+
+
+       Dos 500 provedores de Internet que surgiram no Brasil, nos
+últimos anos, mais da metade foi comprada ou fechou as portas por
+causa da competição. Em dois anos, o Brasil, segundo dados da
+ABRANET, terá no máximo 50 grandes empresas prestando esse
+tipo de serviço.
+
+       Conforme o Canal Web, os 20 maiores provedores de acesso
+à Internet no Brasil, já ultrapassaram 2 milhões de assinantes.
+
+
+
+
+                                                                          15
+                                                Evolução da Internet no Brasil e no Mundo
+
+
+        Maiores Provedores de Internet no Brasil
+        (em número de assinantes)
+                            No de                   Estados                   Última
+Ord.      Provedor
+                          assinantes                                        atualização
+                                        SP, RJ, MG, ES, PR, SC, RS, MS,       Janeiro
+ 1o    Universo Online 600000           MT, BA, SE, AL, PE, PB, RN, MA,
+                                        PI, CE, PA, AM, AP
+                                        RJ, RS, SC, PR, ES, BA, AM, DF,       Janeiro
+ 2o           IG          419000
+                                        RO
+                                        RJ, SP, RS, SC, PR, GO, DF, SE,       Janeiro
+ 3o          ZAZ          329000        ES, MG, PA, MT, PB, MS, BA, CE,
+                                        AP, AL, AM, RN, TO
+                                        RS, SC, PR, SP, RJ, MG, BA, PE,       Janeiro
+ 4o         O Site        160000
+                                        RN, CE, AP, AM, RR, AC, RO
+ 5o       PSINet          160000        SP, RJ, MG, BA, DF                    Janeiro
+ 6o    America Online      82000        RJ, SP, RS, SC                        Janeiro
+ 7o       BRfree           65000        BH, SP, RJ                            Janeiro
+                                        SC, SP, RG, ES, AL, RS, PR, Miami     Janeiro
+ 8o     Matrix Internet   60000
+                                        (USA)
+        AMÉRICA -                      Paraná                                Fevereiro
+ 9o                       33000
+       www.aol.com.br
+                                       SP, PA, MG, DF, MS, PR, MT, PR,        Janeiro
+10o         AT&T          32200        SC, CE, GO, AL, AM, RN, RJ, RS,
+                                       PE, BA, PI, ES
+         AMÉRICA -                     Paraná                               Dezembro/99
+11o                       32000
+       www.aol.com.br
+12o          Onda         30000        Paraná, Rio Grande do Sul            Dezembro/99
+13o         ICONet        22000        SP                                     Fevereiro
+14o         ICONet        21000        SP                                      Janeiro
+       Unisys Network -                RJ, SP, DF, GO, MG                    Outubro/99
+15o                       19300
+            UNINet
+   o
+16          Elógica       19000        Pernambuco, Paraíba, Pará            Novembro/99
+17o        DGL Net        19000        Interior Paulista                      Janeiro
+18o        C@tólico       15000        RS                                    Fevereiro
+19o       escelsanet      14000        ES,MS                                  Janeiro
+                                       RJ, SP, GO, CE, BA, DF, PR, RS,        Janeiro
+20o     AlterNex S.A.     10000
+                                       MG
+
+Fonte: Canal Web - http://www.canalweb.com.br/
+
+
+
+
+                                                                                        16
+                                  Evolução da Internet no Brasil e no Mundo
+
+
+
+Alguns empreendimentos e serviços on-line criados no
+Brasil
+
+• Universo Online (UOL): 40% de todo o tráfego da Internet no
+Brasil;
+
+•   Provedores O Site ou Terra;
+
+• Aonde: serviço de busca de informações, criada por Edgard
+Nogueira – 17 anos);
+
+• Hipermídia: empresa especializada em criar websites
+(fundada pelo brasileiro Evanndro Paes dos Reis e vendia ao
+grupo anglo-americano Ogilvy & Mather);
+
+• Zip.Net: serviço de correio-eletrônico grátis (atualmente
+vendida para PT Multimedia – subsidiária da Portugal Telecom);
+
+• MLab: desenvolve páginas na Internet para algumas das
+maiores empresas do país(criada por Alexandre Ribenboim);
+
+• Ig: Internet grátis (criada por Aleksander Mandic – ex-criador
+de um dos primeiros provedores de acesso do Brasil, o Mandic –
+vendida para a argentina ImpSat);
+
+•   Submarino: livraria virtual da GP Investimentos;
+
+• EverSystems: serviço de segurança (criada por Marco Aurélio
+Garib);
+
+• Cadê: serviço de busca criado em 1995 pelo empresários
+Fábio de Oliveira e Gustavo Viberti e vendido para StarMedia
+(provedor de acesso criado por um grupo de americanos
+interessados em Internet na América Latina;
+                                                                        17
+                                                 Evolução da Internet no Brasil e no Mundo
+
+
+
+     • BuscaPé: site que pesquisa no mercado o preço de uma série
+     de mercadorias (criado por Romero R. Filho, Ronaldo Morita e
+     Rodrigo Borge);
+
+     • WebMotors: site especializado em venda de carros,
+     apresentação de diversos modelos e visualização de propostas de
+     vendedores de carros usados (criado por Sylvio de B. Netto);
+
+     •    Lokau: site de leilões, criado por Paulo Humberg;
+
+     • Vesta: site especializado em criar sistemas eletrônicos (criado
+     por Paula Santos e Hermínio Sotero).
+
+          1.4. Internet no Governo Brasileiro5
+
+        No Brasil entre dez contribuintes do imposto de renda seis
+entregam sua declaração via Internet. Advogados e clientes com
+interesses nas decisões do Supremo Tribunal Federal, podem
+receber por correio eletrônico, a íntegra dos votos dos ministros. A
+polícia aceita o relato de ocorrências pelo computador e manda
+prontamente, por fax, um documento útil para o cidadão. Essa
+realidade só tem sido possível com a revolução digital. Com o uso
+inteligente da Internet, muitas repartições públicas brasileiras
+chegaram ao futuro antes da virada do milênio.
+
+   As experiências da burocracia virtual são ainda ilhas de eficiência
+no mar de atraso que caracteriza o serviço público no País. Mas a
+tecnologia, cada vez mais barata e acessível, está alterando este
+processo.
+
+  Não faz muito tempo, entregar a declaração de renda era um
+sufoco para o contribuinte. A partir de 1997, tudo começou a mudar,
+
+5
+    Revista Veja Digital, Pág. 52, Dezembro 99
+
+                                                                                       18
+                                                      Evolução da Internet no Brasil e no Mundo
+
+
+
+foi quando a Receita Federal passou a aceitar a remessa das
+declarações via Internet.    O resultado no primeiro ano foi
+surpreendente: mais de 700 mil usuários utilizaram o novo sistema.
+O crescimento nos anos seguintes foi inevitável, passando de 4,4
+milhões em 1998 para 11 milhões em 1999, significando um
+crescimento de 62%.
+
+
+
+              Evolução da entrega de declarações
+               de imposto de renda pela Internet
+                                                                        11.296.182
+
+
+
+
+                                            4.422.720
+
+
+              706.934
+
+
+
+              1997                              1998                              1999
+              5,8%                                29,8%                             62%
+             do total                            do total                          do total
+             * Declarações de pessoas físicas e jurídicas e imposto territorial rural
+             Fonte: Receita Federal
+
+
+
+
+   A página do Supremo Tribunal Federal - STF - recebe 9 mil visitas
+diárias, uma das campeãs em número de acesso. A Secretaria de
+Segurança e a Polícia Civil do Rio Grande do Sul inovaram o
+conceito de burocracia virtual. No ranking das Prefeituras, em termos
+das melhores experiências oficiais brasileiras no mundo virtual, a do
+Recife permite baixar da rede e imprimir em casa o Documento de
+Arrecadação Municipal - DAM - os formulários de pagamento do
+IPTU e ISS. No Rio de Janeiro é possível olhar como está o trânsito
+                                                                                              19
+                                                                        Evolução da Internet no Brasil e no Mundo
+
+
+
+antes de sair de casa ou do trabalho. A Prefeitura de Porto Alegre
+oferece 15 modalidades on-line, desde consulta a processos de
+decisão do Executivo Municipal até pedidos de reparo em
+iluminação, pavimentação e esgoto. (Veja mais detalhes no item 6).
+
+   Pode-se verificar desta forma que, para os brasileiros
+acostumados por gerações a se sentir citadãos de segunda classe
+diante de um guichê, as novas tecnologias abrem uma perspectiva
+bem mais generosa no milênio que se inicia.
+                                                              6
+           1.5.Internet na Escola
+
+
+
+                     Escolas públicas e privadas com acesso
+                       à Internet com mais de 100 alunos
+
+                Escolas Públicas
+
+                                             Ensino                          Ensino
+                                          fundamental                        médio
+
+                 Conectadas                     3,2%                          10%
+
+                Escolas Particulares
+
+                                             Ensino                           Ensino
+                                          fundamental                         médio
+
+                Conectadas                       39,2%                       58,9%
+
+                Fonte: Ministério da Educação/Centro Educacional 1999
+
+
+
+
+6
+    Revista Veja Vida Digital , págs. 33 a 35 e págs. 39-40, dezembro 1999.
+
+                                                                                                              20
+                                   Evolução da Internet no Brasil e no Mundo
+
+
+
+       Computador e Internet na sala de aula, nas mãos de
+professores treinados são um poderoso instrumento de ensino. Os
+Estados Unidos reconhecem esse fato há mais tempo. Em 1996, o
+governo americano decidiu gastar 2,2 bilhões de dólares para
+conectar todas as escolas públicas e privadas. No mesmo ano o
+Brasil anunciou que compraria 100 mil computadores para instalá-los
+nas escolas públicas do país. Passados quase quatro anos, os EUA
+estão a 10% de conectar todas as suas escolas. No Brasil andou-se
+depressa nas escolas privadas. Seis em cada dez, no ensino médio,
+dão acesso à rede mundial à seus alunos. A rede pública está quase
+na estaca zero. Poucos computadores novos foram instalados e,
+deles, só 10% estão on-line, ainda se considerando o ensino médio.
+
+      Ter acesso à Internet não é mais uma questão de aumentar a
+capacidade de raciocínio. Passou a ser vital. É como saber ler e
+escrever nos anos 50. É básico. A competição começa a partir daí.
+
+       As poucas escolas públicas com acesso a novas tecnologias
+no Brasil estão fazendo um excelente trabalho. A Internet tem
+servido para que escolas municipais e estaduais de todo o país se
+comuniquem, troquem experiências, ajudem-se mutuamente. O
+resultado é a melhoria na qualidade de ensino.
+
+       Na graduação, o uso da rede ainda é limitado. Prevê-se que
+num futuro próximo vá existir faculdades totalmente on-line. Para
+alunos de especialização e mestrado isso já é realidade há algum
+tempo. A Universidade Federal de Santa Catarina, UFSC, foi a
+primeira a desenvolver cursos de pós-graduação à distância.
+Utilizando-se da Internet e de recursos como a vídeo e a
+teleconferência, a universidade oferece atualmente trinta cursos de
+mestrado e outros sete de especialização. São cerca de 1.200
+alunos obtendo seu título de pós-graduação sem sair de casa ou da
+empresa.
+
+                                                                         21
+                                               Evolução da Internet no Brasil e no Mundo
+
+
+
+        Preparar para o mercado de trabalho é também uma missão a
+que se propôs a Universidade de Santo Amaro, de São Paulo. Ela é
+uma das poucas do país a oferecer um curso na área de Internet.
+Ainda em São Paulo, na Faculdade Trevisan, a Internet tem sido
+utilizada de forma bastante revolucionária, embora as aulas seguiam
+o método tradicional, com professor e alunos presentes à sala de
+aula, a Internet tem sido fundamental no processo de aprendizado. A
+faculdade aposentou os cadernos: quando um aluno faz a matrícula,
+ele tem de adquirir um laptop, que ligado em rede aos dos colegas
+de classe e ao do professor vai aparecendo simultaneamente, o que
+está sendo explicado, em todas as telinhas, podendo ser consultado
+na página da faculdade logo após o término da aula.
+
+          1.6.Internet nos Bancos 7
+
+       A área bancária brasileira com suas inovações tecnológicas
+está muito bem posicionada no mercado mundial. O Setor é o que
+melhor explora os recursos da Internet, com uma das melhores
+performances no atendimento on-line. Podemos notar esse potencial
+quando comparamos com os EUA. O número de instituições
+bancárias americanas é 43 vezes maior, entretanto, a adesão é de
+apenas 11,3%. No Brasil são 50% dos 201 bancos oferecendo
+serviços na Internet. 8
+
+
+
+
+7
+    Revista Veja Digital, Pág. 61, Dezembro 99.
+8
+    Dados fornecidos pela Federação Brasileira das Associações de Bancos, FEBRABAN
+
+                                                                                     22
+                                               Evolução da Internet no Brasil e no Mundo
+
+
+
+
+               Clientes de Internet banking nos
+                  maiores bancos brasileiros
+              770.000        711.000
+
+
+
+                                        400.000
+
+
+
+                                                      100.000
+
+                   9,5%      6%          6%
+                                                       3%
+
+                Bradesco   Banco do     Itaú        Unibanco
+                            Brasil
+        Fonte: Bancos             (Percentagem do total de clientes)
+
+
+
+     O Internet banking constitui-se na solução mais barata para
+as instituições financeiras. Tudo fica a cargo do cliente: o
+computador, a ligação telefônica e o trabalho.
+
+
+        Quanto Custa aos bancos a transação que o cliente faz
+                           (em dólares)
+      Na agência                                            1,07
+      Pelo Telefone                                         0,54
+      No caixa eletrônico                                   0,27
+      Internet banking                                      010
+
+      Fonte: Associação Americana de Bancos (www.aba.com)
+
+
+
+
+                                                                                     23
+                                     Evolução da Internet no Brasil e no Mundo
+
+
+
+       De acordo com o Departamento Geral de Contabilidade dos
+EUA, no ano passado existiam 6,6 milhões de clientes Internet
+banking. Em 2003, esse número deve subir para 32 milhões. No
+Brasil, faltam números, mas, somando-se apenas os usuários dos
+quatro maiores bancos, esse universo chega a quase 2 milhões.
+
+     A venda de ações pela rede corresponde hoje a 1% do
+movimento da Bolsa de Valores de São Paulo. Em dois anos serão
+10% do volume de negócios.
+
+       O Brasil tem vocação para produzir soluções financeiras para
+a Internet. Já temos o e-card, o primeiro cartão de crédito virtual do
+mundo. O produto funciona como um cartão qualquer, mas não
+existe no mundo das coisas palpáveis. Ele é um número apenas,
+uma promessa de crédito que só funciona para compras na rede.
+
+      Algumas histórias brasileiras podem ser citadas:
+
+      •   O Bradesco foi a única empresa latino-americana citada
+          no livro "A Empresa na Velocidade do Pensamento", de
+          Bill Gates. O fundador da Microsoft ficou impressionado
+          com o banco brasileiro.
+
+      •   A poderosa Agência Nacional de Segurança dos Estados
+          Unidos e o FBI fizeram uma varredura no sistema de
+          segurança criado pelo engenheiro Marco Aurélio Garib, da
+          EverSystems, antes de o Citibank assinar com o brasileiro
+          um contrato de implantação de Internet banking em suas
+          filiais latino-americanas. Garib passou com louvor na prova
+          e o negócio foi fechado.
+
+      •   Em março de 1998, no lançamento do sistema de seu
+          novo Internet banking, o Unibanco conseguiu que Gates
+
+                                                                           24
+                                                 Evolução da Internet no Brasil e no Mundo
+
+
+
+              fosse seu garoto-propaganda. Não pagou um tostão pela
+              participação dele na campanha publicitária.
+
+          1.7. Internet no Desenvolvimento Científico9
+
+        A Internet inaugurou uma nova era para a ciência brasileira.
+As melhores revistas especializadas demoravam dois ou três meses
+para chegar às universidades. Da maioria delas o máximo que as
+bibliotecas universitárias conseguiam ter era um exemplar.
+Formavam-se filas intermináveis para consultá-las. Isso acabou. De
+uns anos para cá, os centros de pesquisa do país vêm também
+conseguindo medir seus avanços com a comunidade científica
+internacional de um modo muito mais eficiente do que no passado.
+Para os pesquisadores do Instituto Nacional de Pesquisas Espaciais,
+INPE, a rede mundial de computadores tem sido uma ferramenta de
+trabalho indispensável. Oito cientistas do lNPE representam o Brasil
+no projeto da estação espacial internacional que deve entrar em
+operação em 2004. A tarefa brasileira no projeto, coordenado pela
+NASA, é desenvolver seis equipamentos para a estação, o que
+exige intercâmbio constante entre os pesquisadores do lNPE e
+representantes dos outros quinze países envolvidos.
+
+        Troca de e.mails e consulta de documentação técnica e
+reuniões virtuais    por pesquisadores através da Internet vem
+crescendo muito. A iniciativa de porte internacional da qual o Brasil
+participa graças à Internet é o Projeto Genoma Humano do Câncer,
+desenvolvido pela Fundação de Amparo à Pesquisa do Estado de
+São Paulo, Fapesp. Trinta laboratórios paulistas estão identificando
+e transcrevendo seqüências de código genético dos tumores de
+maior incidência no país. Diariamente, cerca de 1 000 dessas
+seqüências são despachadas, via rede, ao centro de bioinformática
+do Instituto Ludwig, de São Paulo. O centro faz uma triagem das
+9
+    Revista Veja Vida Digital , pág. 40, dezembro 1999.
+
+                                                                                       25
+                                                Evolução da Internet no Brasil e no Mundo
+
+
+
+seqüências e as manda para o Genbank, um banco de genes
+internacional. O esforço conjunto dos laboratórios de todo o mundo
+deve resultar na codificação dos diversos tipos de câncer e, quem
+sabe, na descoberta da cura de alguns deles.
+
+          1.8. Internet via celular - WIRELESS10
+
+      Com equipamentos de última geração, roteadores de acesso
+em banda larga, que operam a 3,5 GHz será permitido às
+operadoras cobrir uma ampla área geográfica, usando a rede celular
+para acesso à Internet.
+
+      Empresas já estão oferecendo portais Internet Wireless.
+Esses portais fornecem aos provedores, as ferramentas necessárias
+para que criem serviços sob medida, permitindo aos assinantes
+Wireless receber informações da Internet e de outras fontes, como
+agências de notícias, Intranets corporativas, provedores de conteúdo
+comercial.
+
+       O protocolo WAP (Wireless Application Protocol), presente na
+maioria das plataformas, "é apenas o primeiro passo em direção à
+Internet móvel e à terceira geração das tecnologias de comunicação
+móvel". 11
+
+        O cenário futuro imaginado pela indústria é aquele no qual, a
+partir de um único terminal, comandado pela voz, será possível fazer
+compras, operações bancárias, responder a e-mails, navegar pela
+Internet, transmitir e receber imagens e realizar video conferências.
+Tudo isso, a partir de qualquer ponto, não importa onde esteja o
+usuário, já que o terminal é móvel. E o mercado a ser explorado por
+operadoras e provedores é enorme. Hoje, já existem 300 milhões de
+
+10
+     Informática Hoje, Novembro 99
+11
+     Segundo a empresa Ericsson, Informática Hoje, Pág. 14, novembro/99
+
+                                                                                      26
+                                             Evolução da Internet no Brasil e no Mundo
+
+
+
+assinantes de serviços wireless e cerca de 200 milhões de usuários
+Internet. Em 2005, segundo projeções, cada uma dessas tecnologias
+deverá atingir 1 bilhão de usuários. 12
+
+       Enquanto os primeiros aparelhos com tecnologia WAP
+(Wireless Application Protocol), começam a ser vendidos no Brasil,
+algumas iniciativas procuram mostrar aos usuários um pouquinho
+das possibilidades da navegação na Web através do celular. Em
+março deste ano 13, entrou na Rede o site NewsWAP, que tem uma
+simulação de como acessar a Internet usando telefones móveis.
+
+       A tecnologia adapta o conteúdo em HTML para WML
+(Wireless Markup Language) para criar um ambiente Web no visor
+dos aparelhos. Essas informações podem ser acessadas através de
+telefones com browsers embutidos, que permitem ainda enviar e-
+mails e fazer transações de comércio eletrônico
+
+        WAP Básico 14
+
+       WAP (Wireless Application Protocol) é uma especificação
+aberta cujo propósito é padronizar a forma como os dispositivos
+wireless acessam informações e serviços de um provedor de
+conteúdo. A especificação está sendo desenvolvida pelo WAP
+Forum.O conceito fundamental por trás do WAP é "copiar" os
+protocolos e conceitos que fazem tanto sucesso na Web. Por isso, o
+WAP apresenta praticamente as mesmas camadas de protocolo
+existentes na Internet. O objetivo disto é facilitar a integração com a
+Internet, além de permitir a fácil transição dos desenvolvedores para
+esta nova tecnologia.
+
+
+12
+   Informática Hoje, Pág. 14, novembro/99
+13
+   Canal Web, 31/3/2000
+14
+   Por Júlio Gomes http://www.planetawap.com.br
+
+                                                                                   27
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+      Componentes do WAP
+
+       O protocolo WAP especifica como deve ser realizada a
+comunicação entre um dispositivo wireless (cliente WAP) e um
+provedor de conteúdo. O dispositivo WAP deve possuir um
+microbrowser que o possibilite acessar as informações contidas no
+provedor de conteúdo, provavelmente um servidor web. No meio dos
+dois encontra-se um WAP Gateway que tem por objetivo realizar a
+tradução das requisições e respostas entre o cliente wap e o
+servidor web.
+
+       Devido às características dos dispositivos wireless é
+importante não construir uma "página" grande, pois a taxa de
+transferência entre os dispositivos e o servidor é baixa na faixa de
+1.4 Kb
+
+
+
+
+                                                                          28
+                                   Evolução da Internet no Brasil e no Mundo
+
+
+       Linguagens do WAP
+
+       O WAP Fórum produziu duas linguagens que permitem a
+criação de interfaces para navegação com o WAP. A primeira é a
+WML (Wireless Mark-up Language), uma linguagem baseada em
+XML . Esta linguagem permite a navegação entre os documentos
+WML( uma espécie de HTML reduzido).
+
+      Para a criação de páginas dinâmicas o WAP Fórum
+especificou o WMLScript, que é um "irmãozinho" do JavaScript.
+Possui as mesmas características presentes nas linguagens scripts
+dos navegadores convencionais (Javascript, VBScript). Ela permite,
+por exemplo, que o dispositivo realize validações de entrada.
+
+       VBMP
+
+      WBMP (Wireless BitMaP) é o formato gráfico utilizado na
+construção de cards (páginas em WML) para acesso pelos
+dispositivos wireless compatíveis com a tecnologia WAP.
+
+   Hoje só existe um tipo de WBMP (Type Identifier 0) suportada por
+estes dispositivos wireless, que tem as seguintes características:
+
+   •   Não é comprimida
+
+   •   Um bit de cor (1=Branco, 0=Preto)
+
+   •   Monocromática
+
+   Porém o formato WBMP tem um grande potencial para novas
+versões, suas principais características são:
+
+   •   Código binário compacto
+
+
+                                                                         29
+                                                  Evolução da Internet no Brasil e no Mundo
+
+
+
+      •    Escalabilidade (Possibilidade de suportar todas os tipos e
+           qualidade de imagens: cores, animações, etc.)
+
+      •    Extensibilidade (Capacidade ilimitada para novas definições)
+
+      •    Otimizada para um baixo custo computacional no cliente
+
+   Por isso pode-se esperar um grande avanço na qualidade das
+imagens proporcionalmente ao desenvolvimento dos dispositivos
+para acesso da internet wireless.
+
+           1.9. Internet no Cinema 15
+
+       A Internet estreou no cinema com uma produção amadora ("A
+Bruxa de Blair") de apenas 35.000 dólares, chegando ao topo da
+lista das maiores bilheterias do ano. Com o êxito do filme, a rede
+assumiu uma função para a qual muitos ainda duvidavam que
+tivesse eficiência: "o agito cultural". "A Bruxa de Blair" está
+obrigando os grandes estúdios americanos a refazer o tradicional
+cálculo segundo o qual para um filme ser sucesso de bilheteria
+garantido é preciso gastar em divulgação pelo menos um terço do
+custo.
+
+      O sonho é ainda maior. Agora está surgindo filmes produzidos
+especialmente para o público internauta.       O lançamento da
+POP.com, empresa de Stevem Spielberg, que entrará no ar neste
+ano, será dedicada a produzir e exibir curtas-metragens com
+duração de 1 a 6 minutos.
+
+        Cineastas brasileiros também começam a entrar nessa onda
+virtual. Alguns diretores se preparam para lançar filmes de curta
+metragem já neste primeiro semestre de 2000. São histórias que o
+
+15
+     Revista Veja Digital, Pág. 41, Dezembro 99
+
+                                                                                        30
+                                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+internauta poderá escolher, entre algumas opções, o final da história.
+O espectador virtual participará de salas de bate-papo ao final de
+cada exibição e poderá criar seus próprios curtas. Outro endereço
+sobre essa nova tendência é o Sightsound.com, que promete lançar
+o primeiro longa para a Internet.
+                                               16
+           1.10. Internet nos Táxis
+
+       O Communiport Mobile MultiMedia, fabricado pela Delphi, é
+um kit que equipa o carro, que são chamados de smart cars, com
+todos os confortos tecnológicos, ligando os tripulantes ao resto do
+planeta via satélite. Em parceria com o Yahoo!, uma operadora de
+táxis dos EUA, equipou alguns de seus carros com notebooks
+ligados à rede possibilitando aos passageiros navegar de graça na
+Internet durante a corrida.
+
+           1.11. Participação Feminina na Internet 17
+
+      A Internet, criada por homens fechados em seus laboratórios,
+está cada vez mais feminina. As mulheres já são maioria entre os
+usuários nos Estados Unidos e são donas também de mais da
+metade dos postos de trabalho. Em 1994, as mulheres eram apenas
+5% dos usuários do mundo e em 2002 chegarão a 60%. No Brasil já
+são quase a metade do número de internautas conectados.
+
+
+
+
+16
+     Revista Veja Digital, pág. 114, Dezembro 99
+17 17
+       Revista Veja Vida Digital , págs. 22 a 29, dezembro 1999.
+
+                                                                                          31
+                                                                      Evolução da Internet no Brasil e no Mundo
+
+
+
+
+                  Participação das Mulheres na
+                         Internet Mundial
+             Homens        95%
+
+                                     70,7%
+                                               68,6%
+                                                        61,5% 66,4%
+                                                                                50%   60%
+
+                                                                                       40%
+                                                       38,5% 33,6%              50%
+                                 29,3% 31,4%
+
+                       5%
+
+            Mulheres
+                       1994       1995      1996       1997       1998       2000* 2002*
+        Fonte: Intelliquest , Jupiter, NetSmartAmerica Communications e GVU Surveys
+        (*) Previsão
+
+
+
+
+      Tanto no Brasil, como no resto do mundo, torna-se cada vez
+mais frequente ver mulheres em cargos importantes em grandes
+companhias, antes ocupados apenas por homens. Do total de
+mulheres executivas 20% dirigem empresas de tecnologia.
+
+      As mulheres do mundo virtual brilham também nas profissões
+criadas pelos pioneiros da Internet, antes um reduto masculino. Ser
+"webdesigner", pessoa responsável por fazer páginas, ou
+"webeditor", encarregado de cuidar do conteúdo do site, são tarefas
+em que as mulheres estão se destacando.
+
+      O universo feminino, de acordo com a NetSmart Research,
+tem um alto poder de consumo e responde por 70% das compras de
+varejo o-line. Desta forma, como já se pode verificar em outros
+países, se criará no Brasil portais, endereços de conteúdo dirigido,
+voltados para as mulheres.
+                                                                                                            32
+                                              Evolução da Internet no Brasil e no Mundo
+
+
+
+        2. INTERNET: A questão da segurança18
+
+
+
+        O     ataque dos Hackers contra a rede mundial de
+             computadores ocorrido no dia 02 de fevereiro de 2000
+colocou em evidência a fragilidade da rede de computadores. Esse
+ataque bloqueou temporariamente o acesso a endereços famosos e
+sofisticados do ponto de vista técnico, como o site de busca Yahoo!,
+a livraria virtual Amazon, o site de leilões on-line eBay, a rede de
+televisão a cabo CNN e o site brasileiro UOL 19. Especialistas
+estimam em milhões de dólares os prejuízos causados pela
+interrupção desses e de outros serviços.
+
+        Os motivos desses ataques são:
+
+        -   competição entre os hackers: quando uma grande façanha
+            como essa vem à tona, piratas do mundo inteiro redobram
+            os esforços para realizar uma proeza ainda maior;
+
+        -   falta de segurança na rede: os sistemas são vulneráveis, e
+            os hackers difíceis de identificar.
+
+
+
+
+18
+  Revista Veja, 23/02/2000
+19
+  UOL - sofreu "ataques de requisições maciças, vindos da rede UUNet dos EUA pelo link
+da Embratel", em 25.02.00
+
+                                                                                    33
+                                                 Evolução da Internet no Brasil e no Mundo
+
+
+
+       Para o sucesso dessa invasão os piratas da rede usaram uma
+técnica conhecida no mundo da Web chamada “negação de
+serviço”. Para realizá-la, os hackers primeiramente descobrem
+sistemas vulneráveis de grandes empresas e universidades, nos
+quais instalam, sem ser notados, programas que serão acionados
+em data determinada. Com a ativação destes programas, milhares
+de computadores vinculados ao servidor de empresas ou
+universidades disparam simultaneamente dados para o site
+escolhido. Para não serem identificados os hackers usam endereços
+eletrônicos falsos.
+
+        Segundo Rinaldo Ribeiro, analista de segurança, os usuários
+facilitam a vida dos invasores da seguinte forma:
+
+        -    adotando senhas fáceis de identificar;
+
+        -    aceitando abrir arquivos desconhecidos ou executando
+             programas que podem servir para invasão.
+
+      O Brasil é vulnerável ao crime eletrônico, mas a sua
+vantagem em comparação aos Estados Unidos é que seu volume de
+comércio eletrônico ainda é muito pequeno. Isso torna mais difícil a
+ação de piratas que querem tirar um site do ar. Por enquanto, o
+maior pesadelo do internauta brasileiro são as fraudes com cartões
+de crédito e o desvio de dinheiro de contas correntes.
+
+       Nos Estado Unidos, a pirataria eletrônica é crime federal, e a
+pena prevista é de cinco anos de prisão e pode chegar a dez em
+caso reincidência, além de multa de US$ 250 mil. No Brasil, crimes
+relacionados à informática 20 não estão previstos na legislação,
+porém o meio usado para punir um pirata eletrônico é enquadrá-lo
+
+20
+  A palavra correta deveria ser "Internet" e não "Informática" tendo em vista que no Brasil,
+há a legislação de Software (Lei 9.609/98) que pune crimes relacionados à Software.
+
+                                                                                         34
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+em outros crimes, como por exemplo, quem rouba números de
+cartão de crédito numa loja virtual, comete estelionato. A pena varia
+de um a cinco anos de cadeia.
+
+       Muito pouco tem sido feito para impedir este “terrorismo
+eletrônico”, porém auditorias periódicas de segurança e planos de
+contingência ajudam. O governo americano colocou o FBI, a polícia
+federal, de prontidão. O FBI está desenvolvendo softwares que
+permitem às empresas saber se seus equipamentos foram atacados
+e se estão abrigando programas que possibilitem ataques. Mesmo
+protegidos por lei moderna, países como os Estados Unidos não têm
+a menor garantia de que novos ataques serão contidos.
+
+
+
+
+                                                                          35
+Evolução da Internet no Brasil e no Mundo
+
+
+
+
+                                      36
+                                             Evolução da Internet no Brasil e no Mundo
+
+
+
+
+             3. Internet x Propriedade Intelectual21
+
+
+
+       A    Internet não ameaça o conceito de propriedade
+            intelectual, apesar da inexistência de lei específica que
+discipline o assunto. Os princípios que regem a propriedade
+intelectual (autoral e industrial) estão estabelecidos nas convenções
+internacionais, assim como, aqui no Brasil, na Constituição e na
+legislação ordinária. Nesse sentido, não seriam necessárias leis
+específicas para proteger a propriedade e a utilização dos bens
+intelectuais na Internet. Entretanto a rede cria alguns campos de
+disponibilização de obras ao público em relação aos quais persiste
+uma grande dubiedade sobre a sua caracterização.
+
+        O conceito de propriedade intelectual está sendo modificado
+pela Internet. Na prática, aparece para proteger os escritores da
+pirataria das editoras, que publicavam títulos sem nem sequer avisar
+seus autores, muitas vezes deturpando seus escritos. A propriedade
+intelectual se manifesta historicamente na venda de bens materiais
+(livro, tela de pintura, película fotográfica). Com a digitalização da
+cultura e sua circulação pela rede de computadores, a propriedade
+intelectual    perde    gradualmente      sua    manifestação     física
+comercializável e seu circuito de distribuição.
+
+        A questão da regulamentação da reprodução eletrônica de
+texto, som e imagem refere-se aos meios técnicos de controle. A
+reprodução em "download", por exemplo, pode ser perfeitamente
+regulada, se forem adotados meios de controle das reproduções
+feitas. Entretanto como controlar as execuções sem "download" e
+21
+   Samuel Mac Dowel de Figueiredo e Philadelpho Menezes - Folha de São Paulo – mais!
+– 05/03/2000
+
+
+                                                                                   37
+                                             Evolução da Internet no Brasil e no Mundo
+
+
+
+sem possibilidade de cópia? O fenômeno é mais amplo que o
+surgido na era do rádio e da televisão, onde ao menos as fontes
+reprodutoras são estáticas e conhecidas, o que não é comparável à
+multiplicação e pulverização dessas fontes na lntemet.
+
+       As grandes empresas que atuam na Internet devem acreditar
+que sua tecnologia criará meios de domar o espontaneismo
+informacional e reproduzir na rede circuitos de comércio controláveis
+por elas. Já há processos de gravação de marcas em textos, som e
+imagem digitais que impedem tecnicamente o uso dessas
+informações sem autorização do site que as gerou. Mas a natureza
+interpessoal da comunicação na Internet, dada pela rede telefônica,
+está constantemente se chocando como sistema centralizador da
+geração de informação proveniente dos modelos do comércio de
+bens materiais e dos meios de comunicação de massa.
+
+          3.1. A Lei do Ciberespaço22
+
+      Segundo opinião do professor de direito da Universidade
+Harvard, Lawrence Lessig, o futuro da lnternet está se tornando
+cada vez mais sombrio, desde que o comércio passou a ser o fator
+determinante das mudanças na rede.
+
+Lessig é o autor de "Code and Other Laws of Cyberspace" (Código e
+Outras Leis do Ciberespaço), lançado nos EUA no final do ano
+passado e trata de temas como propriedade intelectual, privacidade,
+discurso livre e direito internacional. No livro, ele afirma que a
+liberdade de expressão e privacidade estão sendo seriamente
+ameaçadas por interesses comerciais. Na sua opiniao, a nova
+arquitetura da Internet já está sendo traçada por empresas norte-
+americanas com a ajuda silenciosa e protecionista do governo dos
+
+
+22
+     Professor de Harvard Lawrence Lessig.
+
+                                                                                   38
+                                              Evolução da Internet no Brasil e no Mundo
+
+
+
+Estados Unidos, em prejuízo do usuário comurn e de outros países,
+como o Brasil.
+
+       Em seu livro, Lessig defende que, diferentemente do mundo
+real, regido por leis, o que regula a vida no ciberespaço são os
+códigos (ou softwares) de computador. São os códigos que
+controlam toda a vida no ciberespaço: a linguagem para montagem
+de uma página, acesso a lntemet, participação de bate-papo, troca
+de correspondência e etc., e arquitetura é o conjunto de códigos que
+regulamenta o ciberespaço. O que está ocorrendo, de acordo com
+ele, é que o governo norte-americano, pressionado pelo Iobby do
+comércio, tem legislado sobre as leis de software, tomando as
+regras de direitos autorais e patente muito mais duras do que no
+mundo real, além de não coibir a invasão de privacidade.
+
+       Essa regulamentação traz riscos por três grandes motivos
+alerta Lessig. Em primeiro lugar, está criminalizando os defensores
+do código livre -chamados de hackers, contrários ao uso de direitos
+autorais em softwares. Em segundo, a falta de regulamentação
+sobre privacidade no ciberespaço deixou o campo livre para o uso
+de tecnologias que tornam vulnerável a vida privada do internauta.
+Por último, no futuro ficará mais difícil para que outros países
+desenvolvam programas na Internet sem ter de prestar contas aos
+Estados Unidos.
+
+        3.2. Códigos Livres23
+
+      O pesquisador e hacker Richard Stallman vem defendendo o
+código livre desde 1984 e é criador da Free Software Foundation
+(Fundação do Software Livre - FSF). A FSF reúne hackers de todo o
+
+
+23
+  Opinião do pesquisador e hacher Richard Stallman – Folha de São Paulo – mais! – de
+05.03.00
+
+                                                                                       39
+                                     Evolução da Internet no Brasil e no Mundo
+
+
+
+mundo e é a mais conhecida organização de combate aos "códigos
+fechados" de software.
+
+       A FSF defende que o usuário tenha acesso aos códigos com
+os quais o programa foi escrito e, de posse dessa informação, que
+ele tenha o direito de estudá-los, copiá-los e modificá-los como bem
+entender. Isso não é possível quando o software tem um código
+fechado, como por exemplo o Windows NT da Microsoft que não
+permite a leitura de seus códigos, impedindo que suas funções
+sejam alteradas. Além disso, copiar qualquer software protegido por
+direitos autorais é crime.
+
+       O software aberto foi fundamental nos princípios do
+ciberespaço. A linguagem mais popular na construção de páginas na
+Internet, o HTML (Hyper Tert Markup Linguage), é de código aberto.
+Como os Códigos que compõem as páginas são passíveis de ser
+acessados, eles puderam ser estudados,modificados e copiados
+livremente.
+
+Como símbolo da filosofia da FSF, Stallman criou o conceIto de
+"copyleft" algo como "esquerdas autorais". Enquanto o própósito dos
+direitos autorais em software é restringir o público de distribuí-lo e
+modificá-lo, a intenção de Stallman é o contrário, isto é, garantir a
+qualquer um a liberdade de copiar e modificar o software, contanto
+que siga as regras do "copyleft". Por isso é explicável o sucesso do
+sistema operacional GNU/LINUX criado pelo grupo de Stallman
+juntamente com Linus Torvalds. Este sistema representa um
+importante modelo de "código aberto" na Internet e atualmente conta
+com cerca de 10 milhões de usuários.
+
+       Assim como Lessig, Stallman também acredita que a Internet
+está perdendo a "arquitetura" livre. Por isso ele está organizando um
+boicote à empresa de comércio eletrônico Amazon por considerar
+injusta a patente concedida pelo governo americano a esta empresa.
+                                                                           40
+                                                 Evolução da Internet no Brasil e no Mundo
+
+
+
+Segundo Stallman, a tecnologia patenteada pela Amazon que
+identifica o cliente assim que ele faz o pedido não é novidade, porém
+essa concessão rendeu à principal concorrente da livraria atual,
+Barnes and Nobles, uma ação na Justiça por utilizar a mesma
+tecnologia.
+
+           3.3. Em defesa da privacidade24
+
+      A atual guerra da privacidade está intimamente relacionada
+aos recentes e dramáticos avanços da tecnologia. A afirmação de
+que para desfrutarmos de benefícios da sociedade é necessário
+abdicar de certo grau de privacidade é errada.
+
+       A tecnologia invasora da privacidade não existe no vácuo. A
+própria tecnologia existe num cruzamento entre ciência, mercado e
+sociedade. Cria-se tecnologia para suprir necessidades e desejos
+específicos. E a tecnologia é regulamentada, ou não, conforme a
+sociedade considere adequado.
+
+      Elliot Richardson, que foi Secretário da Saúde, Educação e
+Bem-Estar no governo Nixon, criou em 1972 uma comissão para
+examinar o impacto da informática sobre a privacidade. Após anos
+de depoimentos no Congresso, a cornissão descobriu ainda mais
+motivos para alarme e divulgou um relatório fundamental em 1973.
+
+       A maior contribuição do relatório Richardson foi uma
+declaração de direitos da era da informática, chamada Código de
+Práticas de Informação Justas ("Code of Fair Information Practices"),
+que se baseia em cinco princípios:
+
+
+
+
+24
+     Simson Garfinkel - Folha de São Paulo – mais! – de 05.03.00
+
+                                                                                       41
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+      1. Não pode haver um sistema de registro e armazenamento
+         de informações pessoais cuja própria existência seja
+         secreta;
+
+      2. Deve haver meios para uma pessoa saber que
+         informações a seu respeito estão registradas e como são
+         usadas;
+
+      3. Deve haver meios de uma pessoa evitar que informações
+         a seu respeito sejam obtidas com bjetivo de serem usadas
+         ou disponibilizadas para outros fins sem seu
+         consentimento;
+
+      4. Deve haver meios para uma pessoa corrigir ou emendar
+         um registro de informações identificáveis a seu respeito;
+
+      5. Qualquer organização que crie, mantenha, utilize ou
+         divulgue registros de informações pessoais identificáveis
+         deve garantir a confiabilidade das informações para a
+         utilização pretendida e deve tomar precauções para evitar
+         o uso indevido dessas informações.
+
+       O maior impacto do relatório Richardson não se deu nos
+Estados Unidos, e sim na Europa. Nos anos seguintes à publicação
+do relatório, praticamente todos os países europeus aprovaram leis
+com base nesses princípios. Muitos criaram comissões para
+proteção de informações e comissários para aplicar às leis. Acredita-
+se que um dos motivos do interesse da Europa pela privacidade
+eletrônica foi sua experiência com a Alemanha nazista nos anos 30
+e 40. A polícia secreta de Hitler usou registros de governos e
+organizações privadas nos países que invadiu para localizar
+pessoas que representavam maior ameaça à ocupação alemã; a
+Europa do pós-guerra percebeu o perigo de              permitir que
+informações      privativas   potencialmente   perigosas     fossem
+                                                                          42
+                                   Evolução da Internet no Brasil e no Mundo
+
+
+
+armazenadas, mesmo por governos democráticos que respeitam a
+opintão pública.
+
+       Mas nos Estados Unidos a idéia de proteção institucional às
+informações perdeu o ímpeto. O presidente Jimmy Carter
+demonstrou interesse ao aperfeiçoar a privacidade médica, mas logo
+foi superado por fatos politicos e econômicos. Carter perdeu a
+eleição de 1980 para Ronald Reagan, cujos assessores viram na
+defesa da privacidade mais uma iniciativa fracassada de Carter.
+
+       Embora diversas leis nesse sentido tenham sido assinadas
+durante a era Reagan/Bush, a liderança dos projetos veio do
+Congresso, e não da Casa Branca. A falta de liderança sufocou
+qualquer possibilidade de se aprovar uma lei de proteção a
+informações em âmbito nacional. Esta teoria dá às pessoas o direito
+de saber se seus nomes e informações pessoais estão
+armazenados em bancos de dados, de ver essas informações e
+exigir a remoção de dados incorretos.
+
+       Nos anos 80 o governo iniciou diversos programas de
+“comparação por computador” destinados a localizar fraudes e
+infrações. Infelizmente, devido a dados incorretos esses programas
+muitas vezes penalizaram pessoas inocentes.
+
+       Em 1994 o Congresso aprovou a Lei de Assistência das
+Comunicações à Justiça (“Communications Assistance to Law
+Enforcement Act"), que deu ao governo poderes drásticos para
+interceptar as comunicações digitais. Em 1996 o Congresso aprovou
+mais duas leis, uma exigindo que os Estados incluam os números da
+Seguridade Social nas carteiras de motorista e outra exigindo que
+todos os pacientes do país recebam identificadores numéricos
+únicos, mesmo que paguem as despesas médicas. Felizmente a
+aplicação dessas últimas leis foi adiada, em grande parte graças à
+mobilizaçao pública. Continuando o ataque, os governos Bush e
+                                                                         43
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+Clinton deflagraram uma guerra total contra os direitos dos usuários
+de computador a efetuar comunicações privativas e seguras.
+
+       A partir de 1991, ambas as administrações apresentaram
+propostas para o uso de sistemas de codificação Clipper, o que
+permitiria   ao   governo     acessar    comunicações    pessoais
+criptografadas. Apenas recentemente o governo Clinton atenuou sua
+guerra de sete anos contra a privacidade na informática.
+
+      O presidente Clinton também apoiou a Lei de Decência nas
+Comunicações (Communications Decency Act – CDA), que declarou
+crime a transmissão de informações sexuais explícitas para menores
+-e, em consequência, deve ter exigido que os provedores de acesso
+à Internet adotassem sistemas complexos de monitoramento e
+censura. Quando um tribunal da Filadélfia declarou a CDA
+inconstitucional, o governo Clinton apelou na Suprema Corte e
+perdeu.
+
+    Um passo importante para se reverter o rumo atual do governo
+seria a criação de uma agência federal de supervisão permanente
+encarregada de proteger a privacidade. As funções dessa agência
+seriam:
+
+   a) Observar a tendência oficial a sacrificar a privacidade dos
+      indivíduos em prol de outros objetivos e examinar novos
+      programas federais que violam a privacidade antes que sejam
+      iniciados;
+
+   b) Aplicar as poucas leis de privacidade existentes;
+
+   c) Ser a guardiã da privacidade e da liberdade individuais no
+      mundo econômico, mostrando às empresas como podem
+      proteger a privacidade e os lucros ao mesmo tempo;
+
+
+                                                                          44
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+   d) Ser um ombudsman do público americano e controlar os
+      piores excessos criados por nossa sociedade.
+
+       Alguns ativistas da privacidade rejeitam a idéia de usar o
+governo para garantir nossa privacidade. Segundo eles, os governos
+são responsáveis pelas maiores violações de privacidade de todos
+os tempos. É verdade, mas o governo dos Estados Unidos também
+foi um dos maiores poluidores de todos os tempos.
+
+        Há uma considerável aprovação pública ao controle oficial nos
+Estados Unidos especialmente sobre questões-chave como a
+proteção dos registros médicos. Por exemplo, em 1993, uma
+pesquisa da Harris-Equifax sobre privacidade médica revelou que
+56% do público americano apoiava “camplas lets" federais para
+definirr as regras de confidencialidade dos registros médicos
+pessoais" como parte de uma reforma da legislação de assistência
+médica. Mas o Congresso não conseguiu agir conforme os desejos
+do público.
+
+        Hoje a tecnologia está matando uma de nossas mais caras
+liberdades. fla pode ser claamada de direito à autodeterminação
+digital, direito à autonomia inforntática ou simplesmente direito à
+privacidade mas a forma de nosso futuro será determinada em
+grande parte pelo modo como iremos entender e, em ultima
+instância, controlar e reguiamentar as aruais ameaças a essa
+liberdade.
+
+
+
+
+                                                                          45
+Evolução da Internet no Brasil e no Mundo
+
+
+
+
+                                      46
+                                                 Evolução da Internet no Brasil e no Mundo
+
+
+
+
+             4. Compras na Internet (e-commerce)25
+
+
+
+             O
+            comércio eletrônico tem aumentado muito nestes
+            últimos anos. Os sites de vendas on-line diretas ao
+consumidor final têm sido grandes geradores de expectativas (e
+problemas) em relação ao potencial econômico da Web. Mas, em
+termos de valores, representam, por enquanto, a menor parte das
+transações comerciais realizadas na Internet. O mais volumoso tem
+sido feito por empresas que compram entre si, via Internet. Este
+volume representa cinco vezes mais do que os consumidores a
+varejo, o que é chamado de business-to-business (BtoB). Dos
+negócios on-line realizados nos EUA, 85% são entre empresas
+chegando a um total de 109 milhões de dólares. Prevê-se que esse
+valor chegue a 1,3 trilhão nos próximos 4 anos. Espera-se esse
+mesmo fenômeno no Brasil. Empresas brasileiras tem se adaptado
+para atenderem às exigências do mercado, se conectando à rede.
+
+                        Comércio Eletrônico nos EUA e Brasil
+
+         (Em Bilhões de                   EUA                        BRASIL
+            Dólares)
+                                 1998     1999     2003*     1998      1999     2003*
+
+     Entre Empresas               43       109      1.331    0,06      0,13          2
+
+     Direto ao Consumidor          8        20      144      0,03      0,07      0,7
+
+     Total                        51       129      1.475    0,09       0,2      2,7
+
+             Previsão - Fontes: Forrester         Research/IDC      (International       Data
+             Corporation)/Brasil, 1999
+
+25
+     Revista Veja Vida Digital, Pág. 73-76, Dezembro 99
+
+                                                                                           47
+                                          Evolução da Internet no Brasil e no Mundo
+
+
+
+       A competição em investimentos nessa área, que trata da
+integração de cadeias de suprimentos, também tem um perfil
+diferente. Ao contrário do varejo, em que a proporção entre vendas
+por meios eletrônicos ou convencionais pode ser ponderada com
+mais parcimônia, nas operações entre indústrias, o impacto da
+mudança operacional é violento.
+
+       Há uma tendência de as grandes corporações compradora,
+que estão no topo das cadeias produtivas, se tornarem provedores
+de aplicações para os parceiros. A vantagem é que a Web é
+democrática e não impõe custos ou padrões ao fornecedor. Torna-se
+necessário, portanto, investir em três áreas básicas: segurança,
+integração com os sistemas legados e serviços na Web.
+
+      A idéia do preço fixo na rede não existe, o que há é o melhor
+e menor preço em vários endereços, fazendo nascer um novo tipo
+de consumidor. A confiança é também um ponto forte na rede, sem
+ela não há comércio e muito menos lojas virtuais.
+
+       As aplicações iniciais de comércio eletrônico, normalmente,
+são voltadas para os processos de aquisição de suprimentos (o
+antigo EDI, ou troca eletrônica de documentos) e automação de
+força de vendas. 26 Algumas empresas começam com projetos-piloto
+para depois expandir. O rítmo é imposto pela pressão do segmento
+industrial a que pertence.
+
+       Na automação de forças de vendas, o caminho, normalmente,
+é tornar os aplicativos de apoio (cadastro de clientes, condição de
+crédito, pedido etc) disponíveis na Internet. De acordo com Lopes
+(da BackSoft), " a vantagem de construir o e-commerce sobre o
+sistema de gestão é que as regras de negócio já estão prontas,
+assim como a segurança é mais bem resolvida".
+
+26
+     Revista Link, pág. 48, março 2.000
+
+                                                                                48
+                                                 Evolução da Internet no Brasil e no Mundo
+
+
+
+       Na área de operações business-to-business, as famílias de
+produtos principais cobrem pagamento, logística e, sobre essa infra-
+estrutura, o sistema de compras corporativas.
+
+      Pode-se estimar que os projetos de "e-procurement"
+(cotações e compras corporativas) envolvem orçamentos que ficam
+entre US$ 1 milhão e US$ 5 milhões. As ferramentas de software
+não são baratas, mas não é só isso. Hardware de alta
+disponibilidade, equipamentos de rede, conecções e integração
+acabam encarecendo a infra-estrutura dos projetos.
+
+       Desta forma, as pequenas e médias empresas encontram
+restrições para iniciativas na área de e-commerce.
+
+                                                                     46 milhões
+           Número de
+           Consumidores
+           on-line
+                                17,4 milhões
+
+                                                          1,1 milhão
+
+
+
+
+                       331.000
+
+
+                        BRASIL        EUA                   BRASIL        EUA
+          * Previsão           1999                               2003*
+          Fontes: International Data Corporation/Brasil, IDC e Forrester Research
+
+
+       Cada país tem suas próprias características de comércio
+eletrônico. No Brasil, a marca registrada são as vendas nos
+supermercados pela rede, havendo casos de empresas que só
+
+                                                                                       49
+                                                  Evolução da Internet no Brasil e no Mundo
+
+
+
+vendem pela Internet. O gasto médio dos clientes nessa loja é de
+250 reais, contra 27 na rede tradicional. A maioria dos compradores
+pertence à classe B (60%) e os da classe C representam 10% das
+vendas.
+
+       Grandes livrarias virtuais tem surgido com o aumento do
+comércio eletrônico. Algumas lojas que vendem brinquedos e CDs
+estão voltando suas vendas somente pela Internet. Os pequenos e
+médios empresários olham com interesse esse tipo de investimento.
+É aqui que o business-to-consumer se multiplica. Mandar flores pela
+Internet tem se tornado um negócio lucrativo. Em algumas empresas
+esse negócio corresponde a 20% do seu faturamento.
+
+
+          Desvalorização do real
+          ajudou o comércio local
+                    Onde o brasileiro gasta na Internet
+
+                Compras             74%                             60%
+             Internacionais
+
+
+
+
+                                                                    40%
+                 Compras
+                  Locais              26%
+                           Janeiro 1999                      Julho 1999
+
+         Fonte: International Data Corporation/Brasil, IDC
+
+
+
+
+                                                                                        50
+                                  Evolução da Internet no Brasil e no Mundo
+
+
+
+      Comprar passagens aéreas, reservar hotéis e alugar carros
+em qualquer lugar do mundo, tornou-se simples e ágil com o uso da
+rede. Em levantamento realizado pela Associação Brasileira de
+Agências de Viagens, 17,9% das associadas utilizam a Internet,
+enquanto 48% pretendiam fazê-lo.
+
+        Em pesquisa realizada pelo IBOPE, em 1999, mais pessoas
+estão fazendo suas compras pela Internet. De 11% em 1998 este
+número passou para 15% entre os que acessam a rede, nos dias
+atuais.
+
+
+
+
+                                                                        51
+Evolução da Internet no Brasil e no Mundo
+
+
+
+
+                                      52
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+
+      5. Internet Grátis
+
+
+      A    recente onda de anúncios sobre acesso gratuito à Rede
+          talvez tenha pego de surpresa alguns desavisados. Para
+os observadores mais atentos, no entanto, foi apenas a confirmação
+de uma tendência seguida em outros países. O que surpreende,
+mesmo, é a velocidade com que o processo está se desenvolvendo
+no Brasil. Em poucas semanas diversas empresas, abrangendo
+provedores e alguns bancos, colocaram seus planos na rua. E a
+cada dia surgem notícias sobre novos projetos nesta área.
+
+       A Internet gratuita não representa apenas uma quebra de
+paradigma para quem vive de prover acesso. Os bancos, primeiros a
+apostar nesta idéia, não estão entrando numa disputa com os
+provedores. Estão, sim, tirando proveito da tecnologia para seduzir
+os clientes, reduzir custos e gerar novos negócios. Claro, as razões
+para tanta empolgação com o novo canal de relacionamento vão
+muito além do Internet banking.
+
+        Pense nos números do Bradesco, por exemplo. Com uma
+base de correntistas do tamanho da Internet brasileira - nada menos
+que 8,5 milhões -, o banco também é dono de um dos mais
+importantes shoppings on-line. Obviamente que não vai conseguir
+tirar da fila e levar para a Web todos os seus clientes. Mas se 40%
+do total migrarem e fizerem do site do banco sua porta de entrada na
+Rede, o Bradesco tem aí um negócio e tanto.
+
+        Os investimentos do setor bancário mostram a força desse
+mercado. O Unibanco, que virou "case" com seu cartão de crédito
+virtual, vai investir R$ 50 milhões em Internet este ano. Tem três
+milhões de correntistas, 10% deles já no Internet banking.
+
+                                                                          53
+                                                 Evolução da Internet no Brasil e no Mundo
+
+
+
+       Entre os provedores gratuitos, o modelo de negócios se
+repete: o internauta leva o acesso e recebe em troca uma montanha
+de publicidade. Mas os empresários querem mais. Tal como os
+banqueiros, querem multiplicar o número de usuários pelas páginas
+e, principalmente, pelas lojas virtuais. Nesse modelo do "quanto
+mais melhor", tanto faz quem paga a conta do acesso. Importa, isso
+sim, quanto se gera em receita no e-commerce. 27
+
+       Segundo a Associação Mídia Interativa (AMI), organização
+que estuda investimentos em publicidade virtual, o número de
+internautas brasileiros deverá chegar a 10 milhões até dezembro, e
+os investimentos em propaganda digital chegarão a US$ 40 milhões
+. Além disso, Antônio Rosa, presidente da AMI, calcula que o volume
+de negócios na rede vai triplicar este ano.
+
+       Estas estimativas de crescimento explicam a tensão dos
+pequenos provedores pagos para regulamentar o mercado e a
+correria das grandes empresas que estão fazendo parcerias para
+lançar acesso gratuito
+
+       Hoje, há 10 empresas no país fazendo conexão de graça à
+Internet, além de dois grandes bancos privados que oferecem o
+serviço a seus clientes no estado de São Paulo. Os pagos se
+desdobram para manter seus usuários. A Associação Brasileira dos
+Provedores de Acesso, Serviços e Informações da Rede Internet
+(Abranet), calcula que cerca de 1.000 provedores pagos funcionem
+no Brasil atualmente, metade deles em São Paulo e no Rio de
+Janeiro. 28
+
+      O provedor IG-Internet Grátis, conta atualmente com 1.5
+milhão internautas conectados para o serviço de Internet grátis.
+
+27
+     Carla Baiense (carla@ibusiness.com.br) Editora
+28
+     Yahoo Notícias, 12 de Abril de 2000
+
+                                                                                       54
+                                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+       Com o objetivo de avaliar os provedores de acesso grátis no
+País, o site Acesso-Grátis.com, implantou um banco de dados,
+continuamente atualizado com avaliações dos próprios usuários, que
+está disponível para ser consultado por qualquer interessado.
+
+      Através de conceitos (péssimo a excelente), atribuídos a
+uma série de quesitos, permite-se a participação de todos, tanto
+para expressar insatisfação com serviços recebidos como para
+reconhecer acertos do provedor.
+
+      No gráfico abaixo pode ser verificado a avaliação dos seis
+provedores de Internet Grátis ( BR Free , iG ,iG - São Paulo,
+NetGratuita / BOL, Super11.Net e Terra Livre)
+
+
+
+          Avaliação do Provedores Gratuitos - Brasil
+
+
+
+
+          19 15 1 7 31 18           1 1 19 1 8 37 2 1            7     9 23 44 1 7
+           acesso discado          estabilidade conexão               velocidade
+
+
+
+
+         12  9  13 35 31           10 1 4 16 37 2 3            31 1 3 16 25 15
+          disponibilidade          uptime servidores            suporte técnico
+
+          péssimo     deficiente        irregular      satisfatório       excelente
+
+
+
+
+                                                                                          55
+                                              Evolução da Internet no Brasil e no Mundo
+
+
+Observações:
+
+1.    Resultados Parciais (O número de avaliações não permite apresentação de
+      resultados estatisticamente significativos).
+
+2.    Considere os gráficos apenas com indicadores de uma tendência
+
+Fonte: http://acesso-gratis.com, Gerado em 17 de Abril de 2000
+
+          5.1. Falhas de segurança em provedores gratuitos 29
+
+       O acesso gratuito na Internet brasileira tem sido pauta nas
+reuniões mensais do Comitê Gestor (CG). Em reunião, foram
+apresentados os resultados da avaliação das condições de
+segurança oferecidas pelos provedores que fornecem conexão sem
+custos. As notícias para os usuários não são boas: foram detectadas
+falhas de segurança na maioria das empresas que oferecem acesso
+gratuito.
+
+       Para que sejam definidos padrões de segurança para os
+provedores gratuitos, o Comitê está trabalhando em conjunto com
+associações de provedores e com a sociedade civil. A preocupação
+do CG não está no acesso gratuito, mas sim na integridade dos
+usuários de Internet. “Não somos contra o acesso gratuito, mas
+distingüimos anonimato de gratuidade”, afirma representante dos
+usuários no Comitê, Raphael Mandarino.
+
+        De acordo com o relatório de José Luiz Ribeiro Filho,
+conselheiro do CG, que fez simulações de ataques à Internet,
+utilizando conexões de provedores que oferecem acesso gratuito,
+foram levados em consideração três aspectos – contrato,
+modalidade de acesso e possibilidades de identificar invasores. Em
+
+
+29
+     Canal Web - 22 de fevereiro de 2000
+
+                                                                                    56
+                                   Evolução da Internet no Brasil e no Mundo
+
+
+
+nenhum dos casos os resultados foram satisfatórios. O mais grave é
+não poder identificar quem está navegando.
+
+       Os testes mostraram que as informações fornecidas pelos
+usuários no ato do cadastramento não são checadas. Dessa forma,
+é possível que um menor de 18 anos se inscreva ou que um
+internauta afirme que nasceu em fevereiro do ano 2000. O problema
+é agravado pelo uso da senha genérica. No caso de possíveis
+invasões de hackers na Rede, com todas as pessoas utilizando
+mesmo login e senha, não é possível identificar o pirata digital,
+apenas o IP da máquina que utilizou.
+
+
+
+
+                                                                         57
+Evolução da Internet no Brasil e no Mundo
+
+
+
+
+                                      58
+                                   Evolução da Internet no Brasil e no Mundo
+
+
+
+
+           6. Prestação de Serviços na Internet
+
+
+      Q    uem acha que Internet serve só para bater papo, mandar
+           e-mails e fazer compras pode mudar de idéia. Estamos
+em plena era da prestação dos serviços on-line, que proliferam à
+velocidade da luz.
+
+       Outras atividades começam a migrar para a rede. Hoje é
+possível encontrar desde sites para reclamar ações de órgãos
+públicos até dicas de especialistas sobre sexo, educação, cuidados
+com o bebê, pendengas jurídicas e ofertas de seguro.
+
+       Essa tendência traz pelo menos duas vantagens ao
+consumidor: comodidade e economia de tempo para pesquisar
+preços e contratar serviços. Tudo isso pode ser feito pelo
+computador, no horário que lhe for mais conveniente, sem precisar
+botar os pés fora de casa. Quem já perdeu documentos conhece a
+burocracia que é obrigado a enfrentar para fazer o boletim de
+ocorrência policial. Gaúchos e paulistas já conseguem evitar essa
+dor de cabeça usando uma modalidade de B.O. eletrônico.
+
+       Desde o final de 1998, a Polícia Civil do Rio Grande do Sul
+(www.policiacivil.rs.gov.br) aceita comunicados de perda de
+documentos pelo PC. Ali também podem-se registrar ocorrências de
+crimes contra o consumidor e casos de ameaça e perturbação de
+sossego. Desde janeiro deste ano, a polícia paulista (www.policia-
+civ.sp. gov.br) recebe em média 100 ocorrências diárias de furto de
+automóveis, desaparecimento de pessoas, perda e extravio de
+documentos. As queixas formalizadas no computador têm o mesmo
+valor dos boletins de ocorrência em papel, mas casos graves ainda
+exigem a presença na delegacia. O paulistano que quiser cobrar a
+
+                                                                         59
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+poda de árvores, a limpeza de bueiros ou a eliminação de buracos
+nas ruas também pode reclamar pela Internet, em vez de ficar
+pendurado no telefone à espera de atendimento dos órgãos
+públicos. Na página da prefeitura (http://portal.prodam. sp.gov.br) é
+possível solicitar mais de 300 serviços públicos
+
+       Os serviços via Internet não estão restritos às grandes
+capitais. Nem são reservados apenas a assuntos desagradáveis.
+Quem está prestes a se casar pode encontrar no site Casamento &
+Cia (www.casamentoecia.com.br) informações úteis para a véspera
+do casamento.
+
+       Para uma avaliação cardíaca basta entrar no endereço da
+Sociedade Brasileira de Cardiologia (www.cardiol.br) e tirar dúvidas
+com especialistas no serviço Coração On-line. O coração vai bem,
+mas o casamento vai mal. A alternativa é apelar para a consultoria
+jurídica do Jurisnet (www.jurisnet.com.br), que trabalha com sete
+escritórios de advocacia. Para contratar um advogado, é preciso
+enviar a dúvida por e-mail e aguardar uma resposta com o valor dos
+honorários. Se precisar de empréstimo para cobrir as despesas, a
+solução é contatar a central virtual de crédito Easycred
+(www.easycred.com.br). Ali, o internauta obtém informações sobre
+diversas formas de crédito, calcula o índice de endividamento e o
+valor da prestação em vários tipos de empréstimos. Na mesma
+modalidade há o E-seguros (www. eseguros.com.br), que permite
+orçar, sem compromisso, o seguro de seu veículo.
+
+       Metade dos internautas brasileiros não pensa em economizar
+quando o assunto é educação, segundo pesquisa do instituto Ibope
+e do site de buscas Cadê?. Há várias opções de cursos na Internet.
+Engana-se quem pensa que é preciso muito dinheiro para criar um
+bom site de educação.
+
+
+                                                                          60
+                                   Evolução da Internet no Brasil e no Mundo
+
+
+
+       Os Correios (www. correiosonline.com.br) enviam telegramas
+e cartas pela rede, pelo preço de uma carta registrada, R$ 1,25. A
+mensagem é escrita como se fosse um e-mail. Em vez de seguir
+eletronicamente, ela é impressa, selada, fechada e entregue pelo
+bom e velho carteiro.
+
+
+
+
+                                                                         61
+Evolução da Internet no Brasil e no Mundo
+
+
+
+
+                                      62
+                                                  Evolução da Internet no Brasil e no Mundo
+
+
+
+
+           7. Internet x TV Interativa:30
+
+
+           E
+          nquanto os executivos brasileiros tentam acompanhar a
+          velocidade de novos conceitos e possibilidades de
+negócios na Internet, o "t-commerce" (o "t" refere-se à TV), com a
+chegada da banda larga e do uso da televisão interativa nos Estados
+Unidos, começa a deslanchar, exigindo novas tecnologias e
+montanhas de investimento.
+
+      "O acesso à Internet a 28,8 kbs é só o começo", diz o
+especialista em marketing e executivo da Principals.com, Brian
+Gruber. Para ele, o volume de negócios no e-commerce via modem
+ou DSL deve ser superado pelas transações feitas através do t-
+commerce em 2004 - as projeções indicam a venda de 150 milhões
+de unidades de TVs interativas até 2004.
+
+      Segundo Gruber, projeções da Yankee Group indicam que os
+assinantes da Internet em alta velocidade vão pular de 1,4 milhão
+em 99 para 3,3 milhões neste ano e para 16,6 milhões em 2000.
+Uma pesquisa da mesma companhia demonstra que 20% dos
+assinantes preferem o acesso via cabo, 30% ainda preferem
+conexões DSL e 50% ainda estão indecisos. Para este ano, a
+perspectiva nos Estados Unidos é de que 41% dos domicílios nos
+EUA tinham acesso à Internet via cable modem, enquanto 24%
+contarão com acesso via DSL.
+
+       Para Gruber, a largura da banda começa a ser crucial para a
+satisfação do cliente e permitirá o oferta de programas de TV, rádio,
+filmes, teleconferência, venda de produtos de maneira mais
+consistente e até seminários de treinamento de pessoal. Pesquisas
+30
+     Gazeta Mercantil Informações Eletrônicas - São Paulo, 23 de fevereiro
+
+                                                                                        63
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+nos Estados Unidos demonstram que 75% das pessoas desistem de
+compras via Internet pela demora na transmissão de dados.
+
+       Com o surgimento da TV interativa, Brian avalia que a AOL
+será a grande beneficiada, depois da negociação com a Time. "A
+potência do provedor de serviços será tão importante quando o do
+receptor e a Time está pronta para se tornar a grande marca global
+da nova mídia. A nova empresa, criada pela fusão das gigantes
+(AOL e Time Warner), lembra Brian, conta com 13 milhões de
+clientes via cabo, 50 mil clientes via cable modem, studio de cinema
+e 200 milhões de clientes que já pertenciam à Aol.
+
+       A Editora Abril e as Organizações Globo disponibilizaram para
+seus clientes, (em torno de 1,7 milhão), a Ajato e a Virtua, duas
+modalidades de acesso que possibilitam maior velocidade de
+conexão na hora de baixar arquivos da Internet. O fluxo de
+informação fica em média quinze vezes mais rápido a um custo de
+65 reais mensais.
+
+      Com a Virtua o usuário tem um serviço de acesso totalmente
+a cabo, não havendo necessidade de discar para acessar o
+provedor, ao qual está plugado via cabo 24 horas por dia. A Ajato
+também deve se tornar totalmente a cabo nos próximos meses.
+
+      Outro serviço, somente para os clientes da Telefônica, em
+São Paulo, é o Speedy, que coloca dentro da casa de qualquer
+assinante uma linha ADSL, com velocidade até quarenta vezes
+maior que o tradicional. Seu custo será de 50 reais e precisando
+para tanto pagar 200 reais pela instalação de uma placa no
+computador mais o aluguel do modem especial e ainda continuar
+com a despesa com o provedor. É um custo algo, mas o retorno é
+muito satisfatório.
+
+
+
+                                                                          64
+                                       Evolução da Internet no Brasil e no Mundo
+
+
+
+          8. Internet2 31
+
+
+          Como surgiu?
+
+
+          Em outubro de 1996, 34 universidades americanas
+           reuniram-se para formar o Comitê Geral de Trabalho da
+Internet2. Pouco tempo depois, o governo do presidente Clinton
+anunciou seu apoio à iniciativa e o interesse na criação e
+administração da NGI (Next Generation Internet). O projeto Internet2
+passou a ser, neste momento, o primeiro passo (e talvez o mais
+importante) no novo empreendimento americano. Em janeiro de
+1997, mais de 100 universidades americanas já haviam assumido
+compromisso formal com a participação no projeto.
+
+
+
+
+31
+     RNP - Rede Nacional de Pesquisa
+
+                                                                             65
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+       Atualmente o consórcio Internet2 conta com o apoio e a
+participação não só do grupo inicial de universidades, mas também
+de centros de pesquisa, agências do governo e membros da
+indústria dedicados ao desenvolvimento de novas tecnologias
+Internet de alto desempenho.
+
+      O desenvolvimento das aplicações
+
+       Diversas aplicações para redes de alta velocidade estão
+sendo desenvolvidas na Internet2, sendo que muitas delas já se
+encontram em fase de teste. No momento, algumas das principais
+linhas de pesquisa desenvolvidas para a aplicação de serviços em
+rede de alto desempenho são:
+
+      -   Bibliotecas digitais:
+
+          com capacidade de reprodução de imagens de áudio e
+          vídeo de alta fidelidade; oferta de imagens de alta-
+          resolução com reprodução quase imediata na tela do
+          computador e novas formas de visualização de imagens
+          digitais;
+
+      -   Ambientes colaborativos:
+
+          que englobam laboratórios virtuais com instrumentação
+          remota; desenvolvimento de tecnologias para debates
+          virtuais em tempo real e com utilização de recursos
+          multimídia, em alta velocidade e de aplicação simplificada;
+          Novas formas de trabalho em grupo, com desenvolvimento
+          de tecnologias de presença virtual e colaboração em 3D;
+
+
+
+
+                                                                          66
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+      -   Telemedicina:
+
+          incluindo diagnóstico e monitoração remota de pacientes;
+
+      -   Projeção de telas de computadores em três dimensões
+
+          através da utilização da ImmersaDesk (espécie de grande
+          tela de TV que projeta as imagens em 3D);
+
+      -   Controle remoto de microscópios eletrônicos para
+          pesquisas médicas.
+
+      Demonstrações dos novos potenciais da Internet2 vem sendo
+apresentadas desde o ano passado em vários eventos e workshops,
+promovidos com o intuito de sensibilizar não só a comunidade
+acadêmica como também diversos setores de indústria e até mesmo
+o governo (recentemente foi feita uma apresentação para diversos
+senadores americanos).
+
+       Em seu estágio atual a Internet2 utiliza o vBNS (Very High
+Performance Backbone Network System), ou backbone de alta
+velocidade, da National Science Foundation. A velocidade máxima
+oferecida pelo vBNS é de 622 Mbps. No entanto, a maioria das
+universidades que participam do projeto Internet2 operam com
+conexões de 155 Mbps em seus campi.
+
+      Seu direcionamento
+
+       Não há uma linha de trabalho única e pré-determinada que
+oriente as pesquisas das novas possibilidades de aplicações que
+estão sendo desenvolvidas na Internet2. Ainda há muito a ser
+pesquisado sobre a necessidade dos usuários e o potencial das
+tecnologias para redes de alto desempenho. De uma forma geral
+não se conhece ainda o limite do que é tecnicamente possível.
+
+                                                                          67
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+Pode-se dizer então que o foco principal da Internet2 reside no
+desenvolvimento de aplicações avançadas com uso intensivo de
+tecnologias multimídia em tempo real.
+
+        Como resultado de todo o movimento de mobilização da
+comunidade acadêmica para a retomada da liderança no âmbito da
+nova geração da Internet, foi criada em 1º de outubro de 1997 a
+University Corporation for Advanced Internet Development. A UCAID
+é uma organização sem fins lucrativos cujo objetivo é orientar o
+avanço e desenvolvimento da Internet2. Esta corporação,
+inicialmente constituída por três universidades americanas líderes no
+setor de pesquisa, tem como missão orientar os estudos e
+descobertas relativas às aplicações em todas as áreas do
+conhecimento, bem como em engenharia e ferramentas para redes
+eletrônicas de alto desempenho.
+
+       A UCAID dá uma organização formal às entidades que
+participam do Projeto Internet2. Os líderes das 3 maiores
+universidades americanas especializadas em pesquisa de redes
+eletrônicas formam o atual corpo de diretores da UCAID. Cabe
+ressaltar que a importância estratégica e a abrangência da Internet2
+foi percebida com tal intensidade pela comunidade acadêmica
+americana, que resultou no envolvimento direto de reitores, pró-
+reitores e decanos na constituição da UCAID. Assim, o reitor da
+Universidade de Wisconsin-Madison, David Ward, lidera, como
+presidente da UCAID, um grupo que inclui os reitores das
+Universidades da Carolina do Norte, Molly Cobertt Broad, e do
+Estado da Pennsylvania, Graham B. Spanier. O diretor de tecnologia
+de informação da Universidade de Chicago, Gregory A. Jackson e
+M. Stuart Lynn, vice-presidente da área recursos de informação e
+comunicação da Universidade da Califórnia, que são membros do
+Comitê Geral de Trabalhos da Internet2, também estão na diretoria
+da UCAID.
+
+                                                                          68
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+       Percebe-se, neste contexto, a marcante importância e
+representação das Universidades na nova corporação, através da
+participação de seu escalão de mais alto nível.
+
+       Segundo o reitor da Universidade de Wisconsin-Madison, “a
+formação da UCAID representa o início de um novo capítulo no uso
+da computação e da tecnologia de Redes em nossas pesquisas”. Ele
+acredita ainda que os trabalhos para a Internet2 aperfeiçoarão as
+formas de pesquisa, a educação à distância e as atividades diárias
+de ensino e pesquisa.
+
+       O vice-presidente americano, Al Gore, manifestou, em
+discurso proferido recentemente, sua satisfação em ver as
+Universidades americanas e as empresas líderes em tecnologia
+trabalhando juntas para desenvolver a capacitação, produtos e
+serviços para a nova geração da Internet.
+
+      Acordos de cooperação
+
+       A presidência e o conselho diretor da UCAID realizou seu
+primeiro encontro com os membros representantes do consórcio
+Internet2 em outubro de 1997, contando também com
+representantes de diversos países convidados, entre eles o Brasil
+através da Rede Nacional de Pesquisa.
+
+       O Brasil, através do Ministério da Ciência e Tecnologia e da
+RNP, vem acompanhando de perto os desenvolvimentos da
+Internet2, tendo participado de vários encontros de trabalho de seus
+líderes. A participação formal do Brasil e de suas instituições de
+ensino superior e centros de pesquisa foi também incluída no acordo
+de cooperação em tecnologias para a educação, assinado em
+outubro de 1997, por ocasião da visita do presidente Clinton ao
+Brasil. Deste modo, o Brasil vai se preparando para integrar-se ao
+
+
+                                                                          69
+                                     Evolução da Internet no Brasil e no Mundo
+
+
+
+projeto Internet2, na medida em que apresente todas as condições
+técnicas necessárias para a sua participação.
+
+      Na ocasião a UCAID e a Canadian Network for Advanced of
+Research, Industry and Education (CANARIE Inc.), consórcio
+canadense para o desenvolvimento da Internet naquele país que
+reúne cerca de 120 empresas e instituições públicas e privadas,
+assinaram um acordo de cooperação para colaboração nas
+pesquisas relativas a nova geração da Internet.
+
+   A CANARIE e UCAID concordaram em:
+
+   •   Prover interconexão apropriada entre suas redes acadêmicas
+       e instituições participantes, com o propósito de desenvolver e
+       testar os serviços e produtos que estão sendo desenvolvidos
+       para redes eletrônicas de alto desempenho;
+
+   •   Colaborar para a criação e aplicação de padrões técnicas
+       comuns entre suas respectivas redes acadêmicas;
+
+   •   Promover a colaboração mútua entre as instituições-membro
+       de cada consórcio, com o objetivo de desenvolver a nova
+       geração da Rede Internet, bem como suas aplicações nos
+       setores de pesquisa e educação;
+
+   •   Estimular a transferência de novas tecnologias para os
+       setores comerciais e industriais;
+
+   •   Colaborar com as agências do governo e outras organizações
+       nos respectivos países, encorajando a interconexão de redes
+       de alto desempenho e o desenvolvimento da Internet de nova
+       geração ao redor do mundo;
+
+
+
+                                                                           70
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+   •   Notificar qualquer mudança em suas Redes e aplicações
+       específicas na mesma;
+
+   •   Colaborar com a decisões de governo e com o
+       estabelecimento de políticas relacionadas ao uso e respeito
+       das interconexões entre as instituições de cada consórcio;
+
+   •   Prover intercâmbio entre as instituições              acadêmicas
+       participantes de ambos os consórcios.
+
+       A CANARIE Inc. tem como objetivo apoiar e facilitar o
+desenvolvimento da estrutura de disseminação de informações no
+Canadá. Suas atividades incluem promover, coordenar e participar
+em pesquisa e desenvolvimento, bem como em atividades
+educacionais, que sejam relacionadas ao estabelecimento de infra-
+estrutura de comunicação de redes no país. A CANARIE também
+subsidia a iniciativa nacional canadense de desenvolvimento da
+nova geração da Rede Internet, a CA*net II.
+
+       A Internet2 e o setor comercial
+
+       O objetivo final da Internet2 não é criar uma rede de alta
+velocidade com aplicações exclusivamente para o setor acadêmico.
+O que se pretende é a transferência da tecnologia desenvolvida e
+testada na Internet2 para toda a sociedade.
+
+       A topologia da nova Rede
+
+       A arquitetura física da rede eletrônica que dá suporte à
+Internet2 inclui a implantação de GigaPOPs – pontos de presença
+com velocidade de tráfego da ordem de Gigabits (vide fig.). A função
+principal do GigaPOP é o gerenciamento da troca do tráfego
+Internet2 de acordo com especificações de velocidade e qualidade
+de serviços previamente estabelecidos através da rede. Cada
+                                                                          71
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+GigaPOP irá concentrar e administrar o tráfego de dados originados
+e destinados a um conjunto de universidades e centros de pesquisa
+localizados em uma mesma região geográfica. A troca de dados
+entre os GigaPOPs é realizada atualmente por uma rede de alto
+desempenho mantida pela National Science Foundation. Esta rede
+possui restrições quanto ao tipo de tráfego que transporta,
+permitindo seu uso apenas para as instituições acadêmicas
+participantes da Internet2.
+
+       Quem pode conectar-se a um GigaPOP ?
+
+       Os GigaPOPs possuem políticas locais para a aceitação de
+conexões, que deverão ser negociadas entre as partes envolvidas.
+Ressalta-se, no entanto, que além de oferecer os requisitos técnicos
+necessários, a função do GigaPOP consiste também em separar o
+tráfego entre membros participantes da Internet2 e as instituições
+localmente conectadas mas cujo tráfego deve ser desviado para a
+Internet comercial. Consequentemente, todo GigaPOP possui no
+mínimo, duas conexões: uma para a Internet2 e a outra para a
+Internet comercial.
+
+       Quem pode ser membro do consórcio Internet2?
+
+     Todas as instituições de ensino superior dos Estados Unidos
+da América.
+
+      Todas as instituições que não se enquadrem no grupo acima,
+deverão submeter sua aprovação ao Comitê Geral do Internet2
+(board of trustees), que poderá ou não aprovar a participação.
+
+   Os membros da Internet2 estão distribuídos em 4 categorias:
+
+   •   Internet2 regular members
+
+
+                                                                          72
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+•   Internet2 corporate partners
+
+•   Internet2 corporate members
+
+•   Internet2 affiliated organizations
+
+
+
+                                URLs relacionadas:
+
+                                http://www.internet2.edu/
+                                http://www.ucaid.edu/
+                                http://www.canarie.ca/
+
+
+
+
+                                                                          73
+Evolução da Internet no Brasil e no Mundo
+
+
+
+
+                                      74
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+
+      9. Conclusão
+
+
+
+      C     omo pôde ser verificado neste estudo, a Internet avança
+            rápido. Alguns adjetivos são dados à esta monumental
+rede digital, tais como avassaladora, supersônica, estonteante,
+dentre outros.
+
+      Acessar a Internet tornou-se um hábito diário na vida de
+muitas pessoas, mudando seus hábitos, na busca por mais e mais
+informações e conhecimentos que venham facilitar suas vidas.
+
+       Não há tempo a perder. A inserção brasileira na era digital já
+está ocorrendo e não pode seguir adiante de forma tímida. O Brasil
+terá que se esforçar para fazer parte do elenco principal, debatendo
+questões importantes que definirão, no enredo da nova economia,
+sua posição no mercado mundial.
+
+      No que se relaciona com as questões do comércio eletrônico,
+o Brasil deverá se envolver na discussão de um quadro normativo
+minimalista que promova um ambiente previsível e livre de restrições
+ao comércio eletrônico, na tentativa de se encontrar soluções
+apropriadas que mantenham a reciprocidade de interesses que
+deverá sustentar o processo de integração econômica e, leve em
+consideração as diferenças econômicas e tecnológicas de países
+em desenvolvimento como o nosso.
+
+        No debate sobre comércio eletrônico, hoje conduzido nos
+EUA, são colocados, por analistas, “elementos diferenciadores” que
+economias digitais nacionais ou regionais poderão apresentar, tais
+como, “diferentes infra-estruturas de redes, estruturas de mercados
+distintas, modelos diferenciadores de realização de negócios e
+
+                                                                          75
+                                    Evolução da Internet no Brasil e no Mundo
+
+
+
+molduras legais e de políticas divergentes”. A idéia de se criar um
+“path dependancy”, por parte dos Estados Unidos, forjando a
+construção de um modelo único e global de comércio eletrônico,
+para o qual as demais sociedades, menos desenvolvidas econômica
+e tecnologicamente falando, idealmente convergiriam, parece-nos
+representar, a princípio, que os EUA não estão levando em
+consideração tais elementos diferenciadores e que a aceitação
+nacional, por parte destas sociedades representa uma completa
+dependência tecnológica.
+
+       No que concerne ao debate sobre infra-estrutura e acesso,
+parece-nos coerente que o Governo brasileiro continue promovendo
+o exame da posição do Brasil com relação aos acordos do ITA –
+Information Tehnology Agreement, de forma a evitar eventuais
+estrangulamentos na oferta de produtos de tecnologia da informação
+e de serviços básicos de telecomunicações, ou a elevação de seus
+níveis de preços por proteção indevida.
+
+       A discussão sobre propriedade intelectual apresenta-se mais
+complexa. Torna-se necessário promover um amplo debate em torno
+do assunto para se ter absoluta certeza se os mecanismos hoje
+existentes e, que regulam a propriedade intelectual, são suficientes
+para simplesmente estendê-los ao ambiente digital. Parece-nos
+adequada a posição americana de que o “ordenamento deste novo
+espaço econômico só será ótimo na medida em que um regime
+rigoroso de propriedade intelectual for estabelecido". Entretanto, é
+preciso discutir e encontrar uma forma que permita a circulação de
+informações e conhecimentos, sem prejudicar o inventor e o
+mercado e, leve em consideração as diferenças regionais dos
+diversos países do mundo.
+
+      Como se pode verificar são muitas as discussões de questões
+importantes que estão chegando junto com o desenvolvimento
+
+                                                                          76
+                                  Evolução da Internet no Brasil e no Mundo
+
+
+
+econômico e tecnológico acelerados que esta proliferação da rede
+mundial de computadores está provocando.
+
+      De acordo com a Revista Amanhã (jan/2000), “a Internet não
+é mais assunto para nerds em garagens, é hora de falar em regras
+do jogo”. O coordenador do Comitê Gestor Internet do Brasil, Ivan
+Moura Campos, acha essa discussão fundamental para que os
+países emergentes não sejam patrolados pelos ricos. Afirma: “eles
+querem comércio livre, mas eu prefiro comércio justo”.
+
+
+
+
+                                                                        77
+Evolução da Internet no Brasil e no Mundo
+
+
+
+
+                                      78
+                                 Evolução da Internet no Brasil e no Mundo
+
+
+
+
+10. Fontes:
+
+
+Web Sites:
+
+1. Acesso-Grátis.com http://acesso-gratis.com
+
+2. Cadê Noticias: http://aqui.cade.com.br
+
+3. Canal Web http://www.canalweb.com.br/
+
+4. CNN em Portug uês http://www.cnnemportugues.com
+
+5. Computer wold http://www.uol.com.br/computerworld/news/
+
+6. Gazeta Mercantil http://www.gazetamercantil.com.br/
+
+7. IBGE http://www.ibge.gov.br
+
+8. IBOPE http://www.ibope.com.br
+
+9. IG - Internet Grátis http://www.ig.com.br
+
+10. Notícias Yahoo http://br.yahoo.com/notícias
+
+11. NUA Internet Surveys http://www.nua.net/surveys
+
+12. PlanetaWap http://www.planetawap.com.br
+
+13. Revista Dinheiro Online http://www1.terra.com.br
+
+14. RNP http://www.rnp.br/rnp2
+
+15. UNICANP http://www.fee.unicamp.br/
+                                                                       79
+                               Evolução da Internet no Brasil e no Mundo
+
+
+Publicações:
+
+16. Folha de São Paulo, caderno de domingo, 05.03.2000.
+
+17. Informática Hoje, Ano 15, nº 484, 1º A, novembro de 1999.
+
+18. Revista Época, ano II, nº 91, editora globo, 14.02.2000
+
+19. Revista Link, ano 5, n 50, março 2000
+
+20. VEJA, edição 1.632, ano 33,            nº 3, editora abril,
+    19.01.2000.
+
+21. VEJA, edição 1.637, ano 33,            nº 8, editora abril,
+    23.02.2000.
+
+22. VEJA, Vida Digital, ano 32, editora abril, nº 51.
+
+
+
+
+                     ***Abril/2000***
+
+
+
+                                                                     80
+
